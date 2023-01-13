@@ -100,7 +100,7 @@ POPUP_ADMIN_PM
 # TOPIC_FILTERING_WHITELIST 127.0.0.1
 
 ## Only enable this if you have youtube-dl installed!
-# INVOKE_YOUTUBEDL youtube-dl
+INVOKE_YOUTUBEDL youtube-dl
 
 ## End of round chat message
 # END_OF_ROUND_CHANNEL game-updates
