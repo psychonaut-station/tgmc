@@ -77,6 +77,19 @@ SUBSYSTEM_DEF(ticker)
 				window_flash(C)
 			to_chat(world, span_round_body("Welcome to the pre-game lobby of [CONFIG_GET(string/server_name)]!"))
 			to_chat(world, span_role_body("Please, setup your character and select ready. Game will start in [round(time_left / 10) || CONFIG_GET(number/lobby_countdown)] seconds."))
+			
+			if (CONFIG_GET(flag/enable_discord_round_alerts))
+				var/list/webhook_info = list()
+				var/list/headers = list()
+
+				webhook_info["content"] = "<@&[CONFIG_GET(string/discord_round_alert_role_id)]> **TGMC:** [SSmapping.configs[GROUND_MAP].map_name]([GLOB.master_mode]) haritasında yeni round başlıyor!"
+				headers["Content-Type"] = "application/json"
+
+				var/webhook = CONFIG_GET(string/discord_round_alert_webhook_url)
+				var/datum/http_request/request = new()
+				request.prepare(RUSTG_HTTP_METHOD_POST, webhook, json_encode(webhook_info), headers, "tmp/discord_roundalert.json")
+				request.begin_async()
+
 			current_state = GAME_STATE_PREGAME
 			to_chat(world, SSpersistence.seasons_info_message())
 			fire()

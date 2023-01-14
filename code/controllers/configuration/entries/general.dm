@@ -429,3 +429,7 @@ This maintains a list of ip addresses that are able to bypass topic filtering.
 /datum/config_entry/number/ai_anti_stuck_lag_time_dilation_threshold
 	config_entry_value = 20
 	min_val = 0
+
+/datum/config_entry/flag/enable_discord_round_alerts
+/datum/config_entry/string/discord_round_alert_webhook_url
+/datum/config_entry/string/discord_round_alert_role_id
