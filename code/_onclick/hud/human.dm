@@ -197,6 +197,7 @@
 	SL_locator = new /atom/movable/screen/SL_locator
 	infodisplay += SL_locator
 
+<<<<<<< HEAD
 	use_attachment = new /atom/movable/screen/firearms/attachment()
 	static_inventory += use_attachment
 
@@ -212,6 +213,8 @@
 	unique_action = new /atom/movable/screen/firearms/unique()
 	static_inventory += unique_action
 
+=======
+>>>>>>> upstream/master
 	zone_sel = new /atom/movable/screen/zone_sel()
 	zone_sel.icon = ui_style
 	zone_sel.color = ui_color

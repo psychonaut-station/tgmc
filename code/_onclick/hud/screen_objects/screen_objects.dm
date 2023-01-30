@@ -568,6 +568,7 @@
 	mouse_opacity = MOUSE_OPACITY_TRANSPARENT
 	screen_loc = ui_sl_dir
 
+<<<<<<< HEAD
 /atom/movable/screen/firearms
 
 /atom/movable/screen/firearms/Click()
@@ -627,6 +628,8 @@
 	var/obj/item/weapon/gun/G = .
 	G?.use_unique_action()
 
+=======
+>>>>>>> upstream/master
 /atom/movable/screen/drop
 	name = "drop"
 	icon = 'icons/mob/screen/midnight.dmi'

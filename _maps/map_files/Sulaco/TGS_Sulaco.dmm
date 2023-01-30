@@ -445,7 +445,10 @@
 "abB" = (
 /obj/structure/table/mainship/nometal,
 /obj/item/storage/firstaid/o2{
+<<<<<<< HEAD
 	layer = 2.8;
+=======
+>>>>>>> upstream/master
 	pixel_x = 4;
 	pixel_y = 6
 	},
@@ -2193,7 +2196,11 @@
 	},
 /area/sulaco/bridge)
 "akv" = (
+<<<<<<< HEAD
 /obj/machinery/floodlightcombat,
+=======
+/obj/machinery/floodlight/combat,
+>>>>>>> upstream/master
 /turf/open/floor/prison/red{
 	dir = 5
 	},
@@ -3715,7 +3722,10 @@
 "asT" = (
 /obj/machinery/door/poddoor/shutters{
 	id = "bar";
+<<<<<<< HEAD
 	layer = 3.1;
+=======
+>>>>>>> upstream/master
 	name = "Briefing Shutters"
 	},
 /obj/machinery/door/firedoor/mainship,
@@ -4018,7 +4028,10 @@
 "atX" = (
 /obj/machinery/door/poddoor/shutters{
 	id = "bar";
+<<<<<<< HEAD
 	layer = 3.1;
+=======
+>>>>>>> upstream/master
 	name = "Briefing Shutters"
 	},
 /obj/structure/cable,
@@ -4044,7 +4057,10 @@
 /obj/machinery/flasher{
 	id = "brief";
 	last_flash = 100;
+<<<<<<< HEAD
 	layer = 2.1;
+=======
+>>>>>>> upstream/master
 	name = "Mounted Flash Brief";
 	range = 3
 	},
@@ -4065,7 +4081,10 @@
 /obj/machinery/flasher{
 	id = "brief";
 	last_flash = 100;
+<<<<<<< HEAD
 	layer = 2.1;
+=======
+>>>>>>> upstream/master
 	name = "Mounted Flash Brief";
 	range = 3
 	},
@@ -4105,7 +4124,10 @@
 /obj/machinery/flasher{
 	id = "brief";
 	last_flash = 100;
+<<<<<<< HEAD
 	layer = 2.1;
+=======
+>>>>>>> upstream/master
 	name = "Mounted Flash Brief";
 	range = 3
 	},
@@ -4144,7 +4166,10 @@
 /obj/machinery/flasher{
 	id = "brief";
 	last_flash = 100;
+<<<<<<< HEAD
 	layer = 2.1;
+=======
+>>>>>>> upstream/master
 	name = "Mounted Flash Brief";
 	range = 3
 	},
@@ -4662,7 +4687,10 @@
 /obj/machinery/door/poddoor/shutters{
 	dir = 8;
 	id = "bar";
+<<<<<<< HEAD
 	layer = 3.9;
+=======
+>>>>>>> upstream/master
 	name = "Briefing Shutters"
 	},
 /obj/machinery/door/firedoor/mainship,
@@ -7085,6 +7113,14 @@
 /obj/structure/cable,
 /turf/open/floor/prison/sterilewhite,
 /area/sulaco/cryosleep)
+<<<<<<< HEAD
+=======
+"aIN" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/floodlight/combat,
+/turf/open/floor/prison,
+/area/sulaco/hallway/dropshipprep)
+>>>>>>> upstream/master
 "aIP" = (
 /obj/machinery/door/airlock/mainship/maint{
 	dir = 2
@@ -8908,7 +8944,10 @@
 /obj/item/storage/firstaid/adv,
 /obj/structure/table/mainship/nometal,
 /obj/item/storage/firstaid/o2{
+<<<<<<< HEAD
 	layer = 2.8;
+=======
+>>>>>>> upstream/master
 	pixel_x = 4;
 	pixel_y = 6
 	},
@@ -10483,7 +10522,11 @@
 /area/sulaco/cargo/prep)
 "bwn" = (
 /obj/effect/attach_point/weapon/dropship1{
+<<<<<<< HEAD
 	dir = 8;
+=======
+	dir = 8
+>>>>>>> upstream/master
 	},
 /turf/open/floor/plating/icefloor/warnplate{
 	dir = 8
@@ -11139,7 +11182,11 @@
 /turf/open/floor/prison,
 /area/sulaco/cargo/office)
 "cvT" = (
+<<<<<<< HEAD
 /obj/machinery/floodlightcombat,
+=======
+/obj/machinery/floodlight/combat,
+>>>>>>> upstream/master
 /obj/machinery/door_control/unmeltable{
 	id = "sd_blastdoor";
 	name = "Self Destruct Blast Door Control";
@@ -12887,7 +12934,11 @@
 /area/sulaco/hallway/central_hall)
 "eNh" = (
 /obj/effect/attach_point/weapon/dropship2{
+<<<<<<< HEAD
 	dir = 4;
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /turf/open/floor/plating,
 /area/sulaco/hangar/cas)
@@ -13748,9 +13799,13 @@
 	},
 /area/sulaco/bridge)
 "gfj" = (
+<<<<<<< HEAD
 /turf/open/shuttle/escapepod{
 	icon_state = "floor8"
 	},
+=======
+/turf/open/shuttle/escapepod/eight,
+>>>>>>> upstream/master
 /area/mainship/command/self_destruct)
 "gfl" = (
 /obj/structure/cable,
@@ -13964,6 +14019,10 @@
 "gtb" = (
 /obj/structure/cable,
 /obj/effect/ai_node,
+<<<<<<< HEAD
+=======
+/obj/machinery/floodlight/combat,
+>>>>>>> upstream/master
 /turf/open/floor/prison,
 /area/sulaco/hallway/dropshipprep)
 "gtk" = (
@@ -15521,6 +15580,10 @@
 "iyo" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
+<<<<<<< HEAD
+=======
+/obj/machinery/floodlight/combat,
+>>>>>>> upstream/master
 /turf/open/floor/prison,
 /area/sulaco/hallway/dropshipprep)
 "iyJ" = (
@@ -16294,7 +16357,11 @@
 /area/sulaco/maintenance/upperdeck_north_maint)
 "jBs" = (
 /turf/open/floor/plating/icefloor/warnplate/corner{
+<<<<<<< HEAD
 	dir = 4;
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /area/sulaco/hangar)
 "jBX" = (
@@ -18582,9 +18649,13 @@
 /turf/closed/wall/mainship/gray,
 /area/mainship/living/basketball)
 "mFc" = (
+<<<<<<< HEAD
 /turf/open/shuttle/escapepod{
 	icon_state = "floor11"
 	},
+=======
+/turf/open/shuttle/escapepod/eleven,
+>>>>>>> upstream/master
 /area/mainship/command/self_destruct)
 "mGX" = (
 /obj/machinery/door/window{
@@ -23430,7 +23501,11 @@
 /area/sulaco/hangar)
 "sYa" = (
 /obj/effect/attach_point/weapon/dropship2{
+<<<<<<< HEAD
 	dir = 8;
+=======
+	dir = 8
+>>>>>>> upstream/master
 	},
 /turf/open/floor/plating,
 /area/sulaco/hangar/cas)
@@ -24420,9 +24495,13 @@
 /turf/open/floor/prison,
 /area/sulaco/firingrange)
 "uiW" = (
+<<<<<<< HEAD
 /turf/open/floor/plating{
 	icon_state = "warnplatecorner"
 	},
+=======
+/turf/open/floor/plating/icefloor/warnplate/corner,
+>>>>>>> upstream/master
 /area/sulaco/hangar)
 "ujq" = (
 /obj/machinery/light/mainship{
@@ -24440,7 +24519,10 @@
 "ukn" = (
 /obj/machinery/door/poddoor/shutters{
 	id = "bar";
+<<<<<<< HEAD
 	layer = 3.9;
+=======
+>>>>>>> upstream/master
 	name = "Briefing Shutters"
 	},
 /obj/machinery/door/firedoor/mainship,
@@ -25750,9 +25832,13 @@
 /turf/open/floor/cult,
 /area/sulaco/morgue)
 "wfi" = (
+<<<<<<< HEAD
 /obj/structure/table/reinforced{
 	layer = 2.1
 	},
+=======
+/obj/structure/table/reinforced,
+>>>>>>> upstream/master
 /obj/machinery/door/window/secure/req{
 	dir = 8
 	},
@@ -26148,7 +26234,11 @@
 /area/sulaco/cafeteria)
 "wKu" = (
 /turf/open/floor/plating/icefloor/warnplate/corner{
+<<<<<<< HEAD
 	dir = 8;
+=======
+	dir = 8
+>>>>>>> upstream/master
 	},
 /area/sulaco/hangar)
 "wKB" = (
@@ -59390,7 +59480,11 @@ aVY
 kYl
 hID
 gtb
+<<<<<<< HEAD
 cIs
+=======
+aIN
+>>>>>>> upstream/master
 aWg
 aQw
 wLH

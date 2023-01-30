@@ -6062,7 +6062,11 @@
 /turf/closed/wall/r_wall,
 /area/bigredv2/outside/engineering)
 "blU" = (
+<<<<<<< HEAD
 /obj/structure/window/framed/colony/reinforced/hull,
+=======
+/obj/structure/window/framed/colony/reinforced,
+>>>>>>> upstream/master
 /turf/open/floor/plating,
 /area/bigredv2/outside/filtration_plant)
 "blV" = (
@@ -6925,7 +6929,11 @@
 /obj/machinery/light{
 	dir = 4
 	},
+<<<<<<< HEAD
 /obj/machinery/r_n_d/destructive_analyzer,
+=======
+/obj/structure/prop/mainship/research/destructive_analyzer,
+>>>>>>> upstream/master
 /turf/open/floor/tile/dark/yellow2{
 	dir = 4
 	},
@@ -6968,7 +6976,11 @@
 /turf/open/floor/tile/dark,
 /area/bigredv2/outside/nanotrasen_lab/inside)
 "bys" = (
+<<<<<<< HEAD
 /obj/machinery/r_n_d/circuit_imprinter,
+=======
+/obj/structure/prop/mainship/research/circuit_imprinter,
+>>>>>>> upstream/master
 /turf/open/floor/tile/dark/yellow2{
 	dir = 6
 	},

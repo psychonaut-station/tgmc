@@ -303,6 +303,7 @@
 /turf/open/shuttle/escapepod/twelve
 	icon_state = "floor12"
 
+<<<<<<< HEAD
 /turf/open/shuttle/escapepod/wallone
 	icon_state = "wall1"
 
@@ -330,6 +331,8 @@
 /turf/open/shuttle/escapepod/cornertwo
 	icon_state = "corner2"
 
+=======
+>>>>>>> upstream/master
 // Elevator floors
 /turf/open/shuttle/elevator
 	icon = 'icons/turf/elevator.dmi'

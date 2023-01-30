@@ -246,7 +246,11 @@
 		to_chat(user, span_notice("You close the hatch to the power unit."))
 
 /obj/vehicle/sealed/mecha/welder_act(mob/living/user, obj/item/I)
+<<<<<<< HEAD
 	return welder_repair_act(user, I, 100, 2 SECONDS, 0, SKILL_ENGINEER_ENGI, 2, 3 SECONDS)
+=======
+	return welder_repair_act(user, I, 100, 4 SECONDS, 0, SKILL_ENGINEER_ENGI, 2, 4 SECONDS)
+>>>>>>> upstream/master
 
 /obj/vehicle/sealed/mecha/proc/full_repair(charge_cell)
 	obj_integrity = max_integrity

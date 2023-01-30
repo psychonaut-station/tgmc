@@ -176,6 +176,18 @@
 	var/obj/item/new_item = new /obj/item/weapon/gun/launcher/rocket/som/rad(src)
 	INVOKE_ASYNC(src, .proc/handle_item_insertion, new_item)
 
+<<<<<<< HEAD
+=======
+/obj/item/storage/holster/backholster/rpg/som/ert/Initialize()
+	. = ..()
+	new /obj/item/ammo_magazine/rocket/som/thermobaric(src)
+	new /obj/item/ammo_magazine/rocket/som/thermobaric(src)
+	new /obj/item/ammo_magazine/rocket/som/heat(src)
+	new /obj/item/ammo_magazine/rocket/som/rad(src)
+	var/obj/item/new_item = new /obj/item/weapon/gun/launcher/rocket/som/rad(src)
+	INVOKE_ASYNC(src, .proc/handle_item_insertion, new_item)
+
+>>>>>>> upstream/master
 //one slot holsters
 
 ///swords

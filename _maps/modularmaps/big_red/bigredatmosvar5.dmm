@@ -6,7 +6,11 @@
 "ba" = (
 /obj/effect/landmark/lv624/fog_blocker,
 /turf/open/floor/marking/asteroidwarning{
+<<<<<<< HEAD
 	dir = 4;
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /area/bigredv2/outside/s)
 "bs" = (
@@ -301,7 +305,11 @@
 "sy" = (
 /obj/effect/landmark/weed_node,
 /turf/open/floor/marking/asteroidwarning{
+<<<<<<< HEAD
 	dir = 4;
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /area/bigredv2/outside/s)
 "tm" = (
@@ -329,7 +337,11 @@
 /area/bigredv2/outside/filtration_plant)
 "uL" = (
 /turf/open/floor/marking/asteroidwarning{
+<<<<<<< HEAD
 	dir = 4;
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /area/bigredv2/outside/s)
 "uZ" = (
@@ -399,7 +411,11 @@
 "yn" = (
 /obj/effect/landmark/weed_node,
 /turf/open/floor/marking/asteroidwarning{
+<<<<<<< HEAD
 	dir = 8;
+=======
+	dir = 8
+>>>>>>> upstream/master
 	},
 /area/bigredv2/outside/s)
 "ys" = (
@@ -460,9 +476,14 @@
 	id = "FiltrationShutters";
 	name = "\improper Airlock Shutters"
 	},
+<<<<<<< HEAD
 /turf/open/floor{
 	icon_state = "delivery"
 	},
+=======
+/obj/effect/turf_decal/warning_stripes/box,
+/turf/open/floor,
+>>>>>>> upstream/master
 /area/bigredv2/outside/filtration_plant)
 "Ct" = (
 /obj/effect/turf_decal/warning_stripes/box/empty,
@@ -513,7 +534,11 @@
 "Dg" = (
 /obj/effect/landmark/lv624/fog_blocker,
 /turf/open/floor/marking/asteroidwarning{
+<<<<<<< HEAD
 	dir = 8;
+=======
+	dir = 8
+>>>>>>> upstream/master
 	},
 /area/bigredv2/outside/s)
 "Dn" = (
@@ -660,7 +685,11 @@
 /turf/open/floor/plating/ground/mars/random/cave,
 /area/bigredv2/outside/se)
 "Jm" = (
+<<<<<<< HEAD
 /obj/structure/window/framed/colony/reinforced/hull,
+=======
+/obj/structure/window/framed/colony/reinforced,
+>>>>>>> upstream/master
 /turf/open/floor/plating,
 /area/bigredv2/outside/filtration_plant)
 "JL" = (
@@ -678,7 +707,11 @@
 "Ka" = (
 /obj/effect/ai_node,
 /turf/open/floor/marking/asteroidwarning{
+<<<<<<< HEAD
 	dir = 4;
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /area/bigredv2/outside/s)
 "Kb" = (
@@ -718,7 +751,11 @@
 /area/bigredv2/outside/filtration_plant)
 "Md" = (
 /turf/open/floor/marking/asteroidwarning{
+<<<<<<< HEAD
 	dir = 8;
+=======
+	dir = 8
+>>>>>>> upstream/master
 	},
 /area/bigredv2/outside/s)
 "MR" = (
@@ -796,7 +833,11 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/landmark/weed_node,
 /turf/open/floor/marking/asteroidwarning{
+<<<<<<< HEAD
 	dir = 4;
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /area/bigredv2/outside/s)
 "Rt" = (
@@ -936,7 +977,11 @@
 "Yb" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/marking/asteroidwarning{
+<<<<<<< HEAD
 	dir = 4;
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /area/bigredv2/outside/s)
 "Yt" = (

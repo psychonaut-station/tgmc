@@ -62,8 +62,13 @@
 	},
 /area/orion_outpost/surface/building/administration)
 "aA" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan20"
+=======
+/turf/closed/shuttle/dropship_regular/top_corner/alt{
+	dir = 1
+>>>>>>> upstream/master
 	},
 /area/orion_outpost/surface/building/crashedufo)
 "aE" = (
@@ -339,9 +344,13 @@
 	},
 /area/orion_outpost/surface/building/atc)
 "ce" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan25"
 	},
+=======
+/turf/closed/shuttle/dropship_regular/top_corner/alt,
+>>>>>>> upstream/master
 /area/orion_outpost/surface/building/crashedufo)
 "cg" = (
 /obj/structure/flora/ausbushes/reedbush,
@@ -495,8 +504,13 @@
 /turf/closed/wall/mainship/gray,
 /area/orion_outpost/surface/building/tadpolepad)
 "df" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan5"
+=======
+/turf/closed/shuttle/dropship_regular/interior_wall{
+	dir = 1
+>>>>>>> upstream/master
 	},
 /area/orion_outpost/surface/building/crashedufo)
 "dg" = (
@@ -1238,7 +1252,11 @@
 /turf/open/floor/mainship/black/full,
 /area/orion_outpost/surface/building/ammodepot)
 "gT" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert,
+=======
+/turf/closed/shuttle/dropship_regular/interior_wall,
+>>>>>>> upstream/master
 /area/orion_outpost/surface/building/crashedufo)
 "gY" = (
 /obj/effect/landmark/corpsespawner/security,
@@ -2388,9 +2406,13 @@
 /turf/open/floor/plating/ground/mars/random/cave/darker,
 /area/orion_outpost/ground/outpostsw)
 "mW" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan21"
 	},
+=======
+/turf/closed/shuttle/dropship_regular/backwall,
+>>>>>>> upstream/master
 /area/orion_outpost/surface/building/crashedufo)
 "mX" = (
 /obj/structure/cable,
@@ -3124,9 +3146,13 @@
 	},
 /area/orion_outpost/surface/building/prep)
 "qi" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan8"
 	},
+=======
+/turf/closed/shuttle/dropship_regular/top_corner,
+>>>>>>> upstream/master
 /area/orion_outpost/surface/building/crashedufo)
 "ql" = (
 /obj/item/tool/wrench,
@@ -4298,8 +4324,12 @@
 /area/orion_outpost/surface/building/prep)
 "wi" = (
 /obj/structure/bed/chair/office/dark{
+<<<<<<< HEAD
 	dir = 4;
 	layer = 3.25
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /turf/open/floor/mainship/mono,
 /area/orion_outpost/surface/building/atc)
@@ -5534,7 +5564,13 @@
 /turf/open/ground/grasspatch/grassyellow,
 /area/orion_outpost/ground/outpostnw)
 "CH" = (
+<<<<<<< HEAD
 /obj/structure/prop/vehicle/van,
+=======
+/obj/structure/prop/vehicle/van{
+	dir = 8
+	},
+>>>>>>> upstream/master
 /turf/open/floor/plating/ground/concrete/lines{
 	dir = 1
 	},
@@ -5622,8 +5658,13 @@
 /turf/open/floor/plating/ground/mars/random/cave/darker,
 /area/orion_outpost/ground/outpostnw)
 "Dg" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan2"
+=======
+/turf/closed/shuttle/dropship_regular/backhatch{
+	dir = 1
+>>>>>>> upstream/master
 	},
 /area/orion_outpost/surface/building/crashedufo)
 "Dh" = (
@@ -6665,8 +6706,12 @@
 /area/orion_outpost/ground/outpostnw)
 "Ja" = (
 /obj/structure/bed/chair/office/dark{
+<<<<<<< HEAD
 	dir = 4;
 	layer = 3.25
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /obj/effect/ai_node,
 /turf/open/floor/mainship/mono,
@@ -8046,8 +8091,12 @@
 /area/orion_outpost/surface/building/armory)
 "PG" = (
 /obj/structure/bed/chair/office/dark{
+<<<<<<< HEAD
 	dir = 4;
 	layer = 3.25
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /obj/effect/ai_node,
 /turf/open/floor/wood,
@@ -8724,9 +8773,13 @@
 /turf/open/floor/plating/ground/mars/random/cave/darker,
 /area/orion_outpost/ground/outpostse)
 "To" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan22"
 	},
+=======
+/turf/closed/shuttle/dropship_regular/interior_corner,
+>>>>>>> upstream/master
 /area/orion_outpost/surface/building/crashedufo)
 "Tq" = (
 /obj/structure/flora/ausbushes/fullgrass,
@@ -9225,8 +9278,13 @@
 	},
 /area/orion_outpost/surface/building/command)
 "VI" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan23"
+=======
+/turf/closed/shuttle/dropship_regular/interior_corner{
+	dir = 1
+>>>>>>> upstream/master
 	},
 /area/orion_outpost/surface/building/crashedufo)
 "VJ" = (
@@ -9280,9 +9338,13 @@
 /turf/open/floor/plating/ground/mars/random/cave/darker,
 /area/orion_outpost/ground/outpostn)
 "VX" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan1"
 	},
+=======
+/turf/closed/shuttle/dropship_regular/backhatch,
+>>>>>>> upstream/master
 /area/orion_outpost/surface/building/crashedufo)
 "VZ" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,
@@ -9823,9 +9885,13 @@
 /turf/open/floor/plating/ground/mars/random/cave/darker,
 /area/orion_outpost/ground/outposte)
 "YV" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/ert{
 	icon_state = "stan27"
 	},
+=======
+/turf/closed/shuttle/dropship_regular/cockpit_window,
+>>>>>>> upstream/master
 /area/orion_outpost/surface/building/crashedufo)
 "YX" = (
 /turf/closed/mineral/smooth/indestructible,

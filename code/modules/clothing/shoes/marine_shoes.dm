@@ -1,12 +1,18 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> upstream/master
 /obj/item/clothing/shoes/marine
 	name = "marine combat boots"
 	desc = "Standard issue combat boots for combat scenarios or combat situations. All combat, all the time."
 	icon_state = "marine"
 	item_state = "marine"
 	flags_armor_protection = FEET
+<<<<<<< HEAD
 	soft_armor = list(MELEE = 25, BULLET = 15, LASER = 5, ENERGY = 5, BOMB = 5, BIO = 5, FIRE = 5, ACID = 20)
+=======
+>>>>>>> upstream/master
 	flags_cold_protection = FEET
 	flags_heat_protection = FEET
 	min_cold_protection_temperature = SHOE_MIN_COLD_PROTECTION_TEMPERATURE
@@ -83,7 +89,10 @@
 	icon_state = "marine_armored"
 	hard_armor = list(MELEE = 0, BULLET = 0, LASER = 0, ENERGY = 0, BOMB = 0, BIO = 0, FIRE = 100, ACID = 0)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/master
 /obj/item/clothing/shoes/marinechief
 	name = "chief officer shoes"
 	desc = "Only a small amount of monkeys, kittens, and orphans were killed in making this."

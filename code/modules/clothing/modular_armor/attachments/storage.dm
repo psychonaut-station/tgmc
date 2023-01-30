@@ -11,6 +11,10 @@
 	icon_state = "mod_is_bag"
 	slot = ATTACHMENT_SLOT_STORAGE
 	w_class = WEIGHT_CLASS_BULKY
+<<<<<<< HEAD
+=======
+	variants_by_parent_type = list(/obj/item/clothing/suit/modular/style = "")
+>>>>>>> upstream/master
 	///Internal storage of the module. Its parent is switched to the parent item when attached.
 	var/obj/item/storage/internal/storage = /obj/item/storage/internal/modular
 	///If TRUE it will add extra overlays for the items within.

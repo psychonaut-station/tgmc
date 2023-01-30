@@ -7,6 +7,14 @@
 /obj/structure/flora/desert/grass/three,
 /turf/open/floor/plating/ground/mars/random/sand,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"bE" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+>>>>>>> upstream/master
 "bP" = (
 /turf/open/floor/plating/ground/mars/dirttosand{
 	dir = 10
@@ -16,6 +24,15 @@
 /obj/structure/table/gamblingtable,
 /turf/open/floor/wood,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"bZ" = (
+/obj/structure/bed/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+>>>>>>> upstream/master
 "dg" = (
 /obj/structure/ore_box,
 /turf/open/floor/plating/ground/mars/random/sand,
@@ -31,12 +48,29 @@
 /obj/structure/largecrate/random/barrel/blue,
 /turf/open/floor/wood,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"gb" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
+/obj/structure/bed/chair/wood/wings,
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+>>>>>>> upstream/master
 "gi" = (
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/plating/ground/mars/dirttosand{
 	dir = 8
 	},
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"gK" = (
+/obj/structure/window/framed/mainship/requisitions,
+/obj/structure/window/framed/wood,
+/turf/open/floor/wood,
+/area/deathmatch)
+>>>>>>> upstream/master
 "hw" = (
 /obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
 /turf/open/floor/plating/asteroidplating{
@@ -45,8 +79,12 @@
 /area/deathmatch)
 "hy" = (
 /obj/structure/table/mainship,
+<<<<<<< HEAD
 /obj/effect/spawner/random/plushie/nospawnninetyfive{
 	},
+=======
+/obj/effect/spawner/random/plushie/nospawnninetyfive,
+>>>>>>> upstream/master
 /turf/open/floor/wood,
 /area/deathmatch)
 "iq" = (
@@ -126,6 +164,17 @@
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/plating/ground/mars/random/dirt,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"rs" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+"rK" = (
+/obj/machinery/door/window/right,
+/turf/open/floor/wood,
+/area/deathmatch)
+>>>>>>> upstream/master
 "sv" = (
 /obj/structure/ladder{
 	height = 1;
@@ -235,6 +284,17 @@
 	dir = 5
 	},
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"BJ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier1_weapon_spawn,
+/obj/structure/bed/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+>>>>>>> upstream/master
 "BL" = (
 /obj/structure/table/mainship,
 /obj/effect/landmark/weapon_spawn/tier5_weapon_spawn,
@@ -260,6 +320,7 @@
 	color = "#888888"
 	},
 /area/deathmatch)
+<<<<<<< HEAD
 "EP" = (
 /obj/structure/desertdam/decals/road/edge{
 	pixel_x = -16;
@@ -290,6 +351,18 @@
 "EV" = (
 /obj/effect/spawner/random/plushie/nospawnninetynine{
 	},
+=======
+"DH" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+"EP" = (
+/turf/closed/wall/wood,
+/area/deathmatch)
+"EV" = (
+/obj/effect/spawner/random/plushie/nospawnninetynine,
+>>>>>>> upstream/master
 /turf/open/floor/plating/asteroidplating{
 	color = "#888888"
 	},
@@ -346,6 +419,13 @@
 	color = "#888888"
 	},
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"Jj" = (
+/obj/structure/window/framed/wood,
+/turf/open/floor/wood,
+/area/deathmatch)
+>>>>>>> upstream/master
 "Kl" = (
 /obj/structure/ladder{
 	height = 1;
@@ -394,6 +474,14 @@
 /obj/structure/table/mainship,
 /turf/open/floor/wood,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"Po" = (
+/obj/structure/window/framed/mainship/hull,
+/obj/structure/window/framed/wood,
+/turf/open/floor/wood,
+/area/deathmatch)
+>>>>>>> upstream/master
 "PH" = (
 /obj/effect/decal/cleanable/cobweb,
 /turf/open/floor/wood,
@@ -401,6 +489,14 @@
 "Qa" = (
 /turf/open/floor/wood/broken,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"Qf" = (
+/obj/structure/window/framed/mainship/hull,
+/obj/structure/window/framed/wood,
+/turf/open/floor/mainship/mono,
+/area/deathmatch)
+>>>>>>> upstream/master
 "QI" = (
 /turf/closed/wall,
 /area/deathmatch)
@@ -409,6 +505,17 @@
 	dir = 8
 	},
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"RZ" = (
+/obj/item/storage/belt/champion,
+/turf/open/floor/wood,
+/area/deathmatch)
+"Tb" = (
+/obj/structure/bed/chair/wood/wings,
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+>>>>>>> upstream/master
 "TA" = (
 /obj/machinery/vending/boozeomat,
 /turf/open/floor/wood,
@@ -422,6 +529,15 @@
 "Uv" = (
 /turf/closed/desertdamrockwall,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"US" = (
+/obj/structure/bed/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+>>>>>>> upstream/master
 "Vo" = (
 /obj/effect/landmark/deathmatch,
 /obj/structure/flora/desert/grass/three,
@@ -473,6 +589,14 @@
 	color = "#888888"
 	},
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"XA" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier1_weapon_spawn,
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+>>>>>>> upstream/master
 "Yq" = (
 /turf/open/floor/plating/ground/mars/dirttosand{
 	dir = 5
@@ -486,10 +610,28 @@
 /obj/effect/landmark/weapon_spawn/tier1_weapon_spawn,
 /turf/open/floor/wood,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"YW" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/bed/chair/wood/wings,
+/turf/open/floor/plating/ground/mars/random/sand,
+/area/deathmatch)
+>>>>>>> upstream/master
 "Zh" = (
 /obj/structure/fence,
 /turf/open/floor/plating/ground/mars/random/dirt,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"ZK" = (
+/obj/machinery/door/window{
+	dir = 8
+	},
+/obj/effect/ai_node,
+/turf/open/floor/wood,
+/area/deathmatch)
+>>>>>>> upstream/master
 
 (1,1,1) = {"
 Uv
@@ -1466,6 +1608,7 @@ aB
 pl
 kv
 rf
+<<<<<<< HEAD
 uR
 uR
 uR
@@ -1475,6 +1618,17 @@ uR
 uR
 uR
 uR
+=======
+rs
+DH
+BJ
+US
+uR
+US
+US
+rs
+rs
+>>>>>>> upstream/master
 uR
 Gk
 uR
@@ -1514,6 +1668,7 @@ kv
 uT
 uR
 uR
+<<<<<<< HEAD
 uR
 EP
 uR
@@ -1523,6 +1678,17 @@ RD
 Uv
 Uv
 Uv
+=======
+bE
+EP
+Jj
+Jj
+ZK
+Qf
+Qf
+EP
+XA
+>>>>>>> upstream/master
 uR
 uR
 uT
@@ -1562,6 +1728,7 @@ uR
 uR
 uR
 uR
+<<<<<<< HEAD
 uR
 uR
 uR
@@ -1571,6 +1738,17 @@ Uv
 Uv
 Uv
 mY
+=======
+YW
+gK
+LK
+LT
+LT
+LT
+LK
+Po
+YW
+>>>>>>> upstream/master
 uR
 uR
 uR
@@ -1608,6 +1786,7 @@ kv
 uR
 Gk
 uR
+<<<<<<< HEAD
 Uv
 Uv
 uR
@@ -1619,6 +1798,19 @@ Uv
 Uv
 Uv
 Uv
+=======
+uR
+uR
+YW
+gK
+LT
+LT
+LT
+LT
+LT
+Po
+YW
+>>>>>>> upstream/master
 uR
 uR
 Gx
@@ -1656,6 +1848,7 @@ uR
 uR
 bl
 uR
+<<<<<<< HEAD
 Uv
 Uv
 uR
@@ -1667,6 +1860,19 @@ Uv
 pl
 kv
 uR
+=======
+uR
+uR
+Tb
+gK
+LT
+LT
+RZ
+LT
+LT
+Po
+gb
+>>>>>>> upstream/master
 rf
 Gx
 Uv
@@ -1706,6 +1912,7 @@ uR
 uR
 uR
 oE
+<<<<<<< HEAD
 rf
 uR
 uR
@@ -1715,6 +1922,17 @@ uR
 uR
 xg
 uR
+=======
+Tb
+gK
+LT
+LT
+LT
+LT
+LT
+Po
+YW
+>>>>>>> upstream/master
 uR
 Uv
 Uv
@@ -1754,6 +1972,7 @@ Uv
 bP
 uR
 uR
+<<<<<<< HEAD
 uR
 uR
 rf
@@ -1763,6 +1982,17 @@ uR
 Gk
 uR
 uR
+=======
+YW
+gK
+LK
+LT
+LT
+LT
+LK
+Po
+Tb
+>>>>>>> upstream/master
 Gx
 Uv
 Uv
@@ -1802,6 +2032,7 @@ Uv
 Uv
 Uv
 gi
+<<<<<<< HEAD
 RD
 RD
 Uv
@@ -1812,6 +2043,18 @@ Uv
 Uv
 Uv
 Uv
+=======
+XA
+EP
+gK
+gK
+rK
+Po
+Po
+EP
+rf
+vb
+>>>>>>> upstream/master
 Uv
 Uv
 Uv
@@ -1849,6 +2092,7 @@ Uv
 Uv
 Uv
 Uv
+<<<<<<< HEAD
 Uv
 Uv
 Uv
@@ -1859,6 +2103,18 @@ Uv
 Uv
 Uv
 Uv
+=======
+aB
+uR
+uR
+bZ
+bZ
+uR
+bZ
+bZ
+rs
+rs
+>>>>>>> upstream/master
 pl
 pl
 pl

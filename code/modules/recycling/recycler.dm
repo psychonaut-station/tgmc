@@ -2,7 +2,11 @@
 	name = "recycler"
 	desc = "A large crushing machine used to recycle trash."
 	icon = 'icons/obj/recycling.dmi'
+<<<<<<< HEAD
 	icon_state = "separator-AO1"
+=======
+	icon_state = "grinder-o1"
+>>>>>>> upstream/master
 	layer = ABOVE_MOB_LAYER
 	anchored = TRUE
 	density = TRUE
@@ -10,7 +14,11 @@
 
 
 /obj/machinery/recycler/update_icon()
+<<<<<<< HEAD
 	icon_state = "separator-AO[(machine_stat & (BROKEN|NOPOWER)) ? "0":"1"]"
+=======
+	icon_state = "grinder-o[(machine_stat & (BROKEN|NOPOWER)) ? "0":"1"]"
+>>>>>>> upstream/master
 
 
 /obj/machinery/recycler/Bumped(atom/movable/AM)

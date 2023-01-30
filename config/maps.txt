@@ -59,3 +59,10 @@ endmap
 map gelida_iv
 	minplayers 50
 endmap
+<<<<<<< HEAD
+=======
+
+map deltastation
+	minplayers 60
+endmap
+>>>>>>> upstream/master

@@ -510,7 +510,11 @@
 /turf/open/floor/tile/white,
 /area/bigredv2/outside/office_complex)
 "wo" = (
+<<<<<<< HEAD
 /obj/machinery/mecha_part_fabricator,
+=======
+/obj/structure/prop/mainship/research/mechafab,
+>>>>>>> upstream/master
 /turf/open/floor/tile/white,
 /area/bigredv2/outside/office_complex)
 "wr" = (

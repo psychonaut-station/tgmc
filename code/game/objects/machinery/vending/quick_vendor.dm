@@ -8,6 +8,10 @@ GLOBAL_LIST_INIT(quick_loadouts, init_quick_loadouts())
 		/datum/outfit/quick/tgmc/marine/standard_assaultrifle,
 		/datum/outfit/quick/tgmc/marine/combat_rifle,
 		/datum/outfit/quick/tgmc/marine/standard_laserrifle,
+<<<<<<< HEAD
+=======
+		/datum/outfit/quick/tgmc/marine/standard_battlerifle,
+>>>>>>> upstream/master
 		/datum/outfit/quick/tgmc/marine/standard_skirmishrifle,
 		/datum/outfit/quick/tgmc/marine/alf_shocktrooper,
 		/datum/outfit/quick/tgmc/marine/standard_machinegunner,
@@ -33,6 +37,10 @@ GLOBAL_LIST_INIT(quick_loadouts, init_quick_loadouts())
 		/datum/outfit/quick/tgmc/leader/standard_assaultrifle,
 		/datum/outfit/quick/tgmc/leader/standard_carbine,
 		/datum/outfit/quick/tgmc/leader/combat_rifle,
+<<<<<<< HEAD
+=======
+		/datum/outfit/quick/tgmc/leader/standard_battlerifle,
+>>>>>>> upstream/master
 		/datum/outfit/quick/tgmc/leader/auto_shotgun,
 		/datum/outfit/quick/tgmc/leader/standard_laserrifle,
 		/datum/outfit/quick/tgmc/leader/oicw,
@@ -61,6 +69,10 @@ GLOBAL_LIST_INIT(quick_loadouts, init_quick_loadouts())
 		/datum/outfit/quick/som/veteran/caliver_pack,
 		/datum/outfit/quick/som/veteran/culverin,
 		/datum/outfit/quick/som/veteran/rocket_man,
+<<<<<<< HEAD
+=======
+		/datum/outfit/quick/som/veteran/blinker,
+>>>>>>> upstream/master
 		/datum/outfit/quick/som/squad_leader/standard_assaultrifle,
 		/datum/outfit/quick/som/squad_leader/standard_smg,
 		/datum/outfit/quick/som/squad_leader/charger,

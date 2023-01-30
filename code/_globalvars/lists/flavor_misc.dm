@@ -130,6 +130,10 @@ GLOBAL_LIST_INIT(playable_icons, list(
 	"staffofficer",
 	"synth",
 	"warrior",
+<<<<<<< HEAD
+=======
+	"warlock",
+>>>>>>> upstream/master
 	"whiskey_engi",
 	"whiskey_leader",
 	"whiskey_medic",
