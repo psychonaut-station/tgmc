@@ -15,8 +15,12 @@
 /obj/effect/turf_decal/warning_stripes/thick{
 	dir = 10
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "cn" = (
 /obj/effect/turf_decal/warning_stripes/thin{
@@ -32,8 +36,12 @@
 	dir = 4
 	},
 /obj/effect/landmark/excavation_site_spawner,
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "cU" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
@@ -89,8 +97,12 @@
 /obj/effect/turf_decal/warning_stripes/thick{
 	dir = 6
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "gi" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
@@ -100,8 +112,12 @@
 /obj/effect/turf_decal/warning_stripes/thick{
 	dir = 10
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "iF" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/layer1,
@@ -111,8 +127,12 @@
 /obj/effect/turf_decal/warning_stripes/thin{
 	dir = 10
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "iN" = (
 /turf/closed/wall,
@@ -150,8 +170,12 @@
 /obj/effect/turf_decal/warning_stripes/thin{
 	dir = 9
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "lX" = (
 /obj/structure/window/framed/colony/reinforced,
@@ -159,11 +183,18 @@
 /area/lv624/lazarus/atmos)
 "mQ" = (
 /obj/structure/cryofeed,
+<<<<<<< HEAD
 /obj/effect/turf_decal/warning_stripes{
 	icon_state = "SW-in"
 	},
 /turf/open/floor/engine{
 	},
+=======
+/obj/effect/turf_decal/warning_stripes/thick{
+	dir = 5
+	},
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "mZ" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,
@@ -213,8 +244,12 @@
 /obj/effect/turf_decal/warning_stripes/thick{
 	dir = 9
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "tr" = (
 /turf/open/floor/tile/dark/brown2{
@@ -323,8 +358,12 @@
 /obj/effect/turf_decal/warning_stripes/linethick{
 	dir = 8
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "BV" = (
 /obj/structure/closet/firecloset/full,
@@ -349,8 +388,12 @@
 /obj/effect/turf_decal/warning_stripes/thin{
 	dir = 6
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "CS" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
@@ -397,8 +440,12 @@
 /obj/effect/turf_decal/warning_stripes/linethick{
 	dir = 4
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "Gh" = (
 /turf/open/floor/tile/dark/brown2{
@@ -444,8 +491,12 @@
 /obj/effect/turf_decal/warning_stripes/thin{
 	dir = 8
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "Ke" = (
 /obj/effect/decal/cleanable/blood,
@@ -471,8 +522,12 @@
 /obj/effect/turf_decal/warning_stripes/thick{
 	dir = 6
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "LL" = (
 /obj/machinery/computer/atmos_alert,
@@ -595,8 +650,12 @@
 /obj/effect/turf_decal/warning_stripes/thin{
 	dir = 5
 	},
+<<<<<<< HEAD
 /turf/open/floor/engine{
 	},
+=======
+/turf/open/floor/engine,
+>>>>>>> upstream/master
 /area/lv624/lazarus/atmos)
 "Wh" = (
 /obj/effect/turf_decal/warning_stripes/thin{

@@ -184,7 +184,11 @@
 	},
 /area/lv624/lazarus/robotics)
 "vO" = (
+<<<<<<< HEAD
 /obj/machinery/mecha_part_fabricator,
+=======
+/obj/structure/prop/mainship/research/mechafab,
+>>>>>>> upstream/master
 /turf/open/floor/plating/platebot,
 /area/lv624/lazarus/robotics)
 "wh" = (

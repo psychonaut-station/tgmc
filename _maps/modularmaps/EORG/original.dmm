@@ -894,7 +894,13 @@
 /turf/open/floor/plating/ground/dirt,
 /area/deathmatch)
 "dG" = (
+<<<<<<< HEAD
 /turf/closed/wall/wood,
+=======
+/obj/structure/closet,
+/obj/effect/landmark/weapon_spawn/tier4_weapon_spawn,
+/turf/open/floor/wood,
+>>>>>>> upstream/master
 /area/deathmatch)
 "dH" = (
 /obj/effect/ai_node,
@@ -903,6 +909,7 @@
 	},
 /area/deathmatch)
 "dI" = (
+<<<<<<< HEAD
 /obj/machinery/light{
 	dir = 4
 	},
@@ -916,6 +923,14 @@
 "dK" = (
 /obj/structure/window/framed/wood,
 /turf/open/floor/tile/bar,
+=======
+/obj/structure/window_frame/wood,
+/turf/open/floor/wood/broken,
+/area/deathmatch)
+"dJ" = (
+/obj/effect/landmark/weapon_spawn/tier4_weapon_spawn,
+/turf/open/floor/plating/asteroidfloor,
+>>>>>>> upstream/master
 /area/deathmatch)
 "dL" = (
 /turf/closed/shuttle/dropship1/wall{
@@ -923,6 +938,7 @@
 	},
 /area/deathmatch)
 "dM" = (
+<<<<<<< HEAD
 /obj/machinery/light,
 /turf/open/floor/plating/asteroidfloor,
 /area/deathmatch)
@@ -931,6 +947,15 @@
 	name = "\improper General Store"
 	},
 /turf/open/floor/tile/bar,
+=======
+/obj/structure/window/framed/wood,
+/turf/open/floor/plating/ground/dirt,
+/area/deathmatch)
+"dN" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/bed/chair/wood/wings,
+/turf/open/floor/plating/asteroidfloor,
+>>>>>>> upstream/master
 /area/deathmatch)
 "dO" = (
 /turf/closed/shuttle/dropship1/wall{
@@ -953,6 +978,7 @@
 /obj/structure/dropship_piece/one/engine/righttop,
 /turf/open/ground/grass,
 /area/deathmatch)
+<<<<<<< HEAD
 "dS" = (
 /obj/structure/window_frame/wood,
 /turf/open/floor/wood/broken,
@@ -965,6 +991,10 @@
 /obj/structure/table,
 /obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
 /turf/open/floor/tile/bar,
+=======
+"dT" = (
+/turf/open/floor/wood,
+>>>>>>> upstream/master
 /area/deathmatch)
 "dV" = (
 /obj/structure/platform_decoration,
@@ -983,10 +1013,15 @@
 	},
 /area/deathmatch)
 "dY" = (
+<<<<<<< HEAD
 /obj/structure/platform,
 /turf/open/ground/coast/corner{
 	dir = 4
 	},
+=======
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating/asteroidfloor,
+>>>>>>> upstream/master
 /area/deathmatch)
 "dZ" = (
 /obj/structure/platform_decoration{
@@ -1007,6 +1042,7 @@
 	},
 /area/deathmatch)
 "ec" = (
+<<<<<<< HEAD
 /obj/structure/bed,
 /turf/open/floor/wood,
 /area/deathmatch)
@@ -1014,6 +1050,17 @@
 /obj/structure/closet,
 /obj/effect/landmark/weapon_spawn/tier4_weapon_spawn,
 /turf/open/floor/wood,
+=======
+/obj/machinery/door/airlock/mainship/medical/glass/free_access{
+	name = "\improper Civilian Housing"
+	},
+/turf/open/floor/wood/broken,
+/area/deathmatch)
+"ed" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
+/turf/open/floor/plating/asteroidfloor,
+>>>>>>> upstream/master
 /area/deathmatch)
 "ee" = (
 /obj/structure/platform_decoration,
@@ -1065,6 +1112,7 @@
 	dir = 4
 	},
 /area/deathmatch)
+<<<<<<< HEAD
 "en" = (
 /turf/open/floor/wood/broken,
 /area/deathmatch)
@@ -1076,6 +1124,16 @@
 	name = "\improper Civilian Housing"
 	},
 /turf/open/floor/wood/broken,
+=======
+"eo" = (
+/turf/closed/wall/wood,
+/area/deathmatch)
+"ep" = (
+/obj/structure/bed/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/plating/asteroidfloor,
+>>>>>>> upstream/master
 /area/deathmatch)
 "eq" = (
 /turf/open/floor/stairs/rampbottom{
@@ -1190,6 +1248,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/deathmatch)
 "eJ" = (
+<<<<<<< HEAD
 /obj/machinery/door/airlock/mainship/medical/glass/free_access{
 	dir = 1;
 	name = "\improper Civilian Housing"
@@ -1199,6 +1258,13 @@
 "eK" = (
 /obj/structure/window_frame/wood,
 /turf/open/floor/wood,
+=======
+/turf/open/floor/grime,
+/area/deathmatch)
+"eK" = (
+/obj/effect/landmark/deathmatch,
+/turf/open/floor/grime,
+>>>>>>> upstream/master
 /area/deathmatch)
 "eL" = (
 /obj/structure/dropship_piece/one/engine/lefttop,
@@ -1212,6 +1278,7 @@
 /obj/structure/dropship_piece/one/engine/righttop,
 /turf/open/ground/river,
 /area/deathmatch)
+<<<<<<< HEAD
 "eN" = (
 /obj/structure/prop/mainship/toolboxforacause2020,
 /turf/open/floor/wood,
@@ -1219,6 +1286,11 @@
 "eO" = (
 /obj/structure/table,
 /obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
+=======
+"eO" = (
+/obj/structure/window/framed/mainship/hull,
+/obj/structure/window/framed/wood,
+>>>>>>> upstream/master
 /turf/open/floor/wood,
 /area/deathmatch)
 "eP" = (
@@ -1234,6 +1306,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/deathmatch)
 "eS" = (
+<<<<<<< HEAD
 /obj/structure/toilet{
 	dir = 4
 	},
@@ -1247,6 +1320,14 @@
 	dir = 8
 	},
 /turf/open/floor/tile/white,
+=======
+/obj/machinery/light,
+/turf/open/floor/plating/asteroidfloor,
+/area/deathmatch)
+"eT" = (
+/obj/structure/bed/chair/wood/wings,
+/turf/open/floor/plating/asteroidfloor,
+>>>>>>> upstream/master
 /area/deathmatch)
 "eU" = (
 /turf/closed/shuttle/dropship1/enginethree,
@@ -1269,6 +1350,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/deathmatch)
 "eZ" = (
+<<<<<<< HEAD
 /obj/machinery/shower{
 	dir = 4
 	},
@@ -1282,6 +1364,15 @@
 "fa" = (
 /obj/machinery/light,
 /turf/open/floor/tile/white,
+=======
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier1_weapon_spawn,
+/turf/open/floor/plating/asteroidfloor,
+/area/deathmatch)
+"fa" = (
+/obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
+/turf/open/floor/plating/asteroidfloor,
+>>>>>>> upstream/master
 /area/deathmatch)
 "fb" = (
 /turf/closed/shuttle/dropship1/enginetwo,
@@ -1307,6 +1398,18 @@
 /obj/structure/dropship_piece/one/engine/rightbottom,
 /turf/open/ground/river,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"fv" = (
+/obj/structure/sink{
+	dir = 4
+	},
+/obj/structure/mirror{
+	dir = 8
+	},
+/turf/open/floor/tile/white,
+/area/deathmatch)
+>>>>>>> upstream/master
 "fI" = (
 /turf/open/floor/plating/asteroidfloor,
 /area/deathmatch)
@@ -1318,6 +1421,7 @@
 "hM" = (
 /turf/open/floor/plating/asteroidwarning,
 /area/deathmatch)
+<<<<<<< HEAD
 "kJ" = (
 /obj/machinery/light{
 	dir = 4
@@ -1325,13 +1429,50 @@
 /obj/effect/ai_node,
 /turf/open/floor/plating/asteroidfloor,
 /area/deathmatch)
+=======
+"jw" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
+/turf/open/floor/plating/asteroidfloor,
+/area/deathmatch)
+"jC" = (
+/obj/structure/window/framed/mainship/hull,
+/obj/structure/window/framed/wood,
+/turf/open/floor/mainship/mono,
+/area/deathmatch)
+"kJ" = (
+/obj/structure/bed,
+/turf/open/floor/wood,
+/area/deathmatch)
+>>>>>>> upstream/master
 "ll" = (
 /obj/effect/ai_node,
 /turf/open/ground/coast,
 /area/deathmatch)
+<<<<<<< HEAD
 "lu" = (
 /turf/open/floor/freezer,
 /area/deathmatch)
+=======
+"ln" = (
+/obj/machinery/light,
+/turf/open/floor/tile/white,
+/area/deathmatch)
+"lu" = (
+/turf/open/floor/freezer,
+/area/deathmatch)
+"nc" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier1_weapon_spawn,
+/obj/structure/bed/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/plating/asteroidfloor,
+/area/deathmatch)
+"oS" = (
+/turf/open/floor/wood/broken,
+/area/deathmatch)
+>>>>>>> upstream/master
 "pj" = (
 /obj/effect/ai_node,
 /turf/open/floor/plating/dmg1,
@@ -1342,11 +1483,39 @@
 	dir = 1
 	},
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"py" = (
+/obj/machinery/door/window{
+	dir = 8
+	},
+/obj/effect/ai_node,
+/turf/open/floor/grime,
+/area/deathmatch)
+"rN" = (
+/obj/machinery/door/window/right,
+/turf/open/floor/grime,
+/area/deathmatch)
+>>>>>>> upstream/master
 "rW" = (
 /turf/open/ground/coast{
 	dir = 8
 	},
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"sP" = (
+/obj/machinery/shower{
+	dir = 4
+	},
+/obj/structure/window/reinforced/tinted/frosted{
+	dir = 1
+	},
+/obj/machinery/door/window,
+/obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
+/turf/open/floor/tile/white,
+/area/deathmatch)
+>>>>>>> upstream/master
 "tf" = (
 /turf/open/ground/coast,
 /area/deathmatch)
@@ -1356,6 +1525,15 @@
 	dir = 8
 	},
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"uP" = (
+/obj/structure/bed/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/plating/asteroidfloor,
+/area/deathmatch)
+>>>>>>> upstream/master
 "va" = (
 /obj/effect/ai_node,
 /turf/open/floor/stairs/rampbottom{
@@ -1370,6 +1548,13 @@
 "xX" = (
 /turf/open/floor/plating/ground/dirt,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"CG" = (
+/obj/structure/window/framed/wood,
+/turf/open/floor/wood,
+/area/deathmatch)
+>>>>>>> upstream/master
 "GL" = (
 /turf/open/ground/coast/corner{
 	dir = 4
@@ -1385,9 +1570,27 @@
 /obj/effect/ai_node,
 /turf/open/floor/mainship/mono,
 /area/deathmatch)
+<<<<<<< HEAD
 "LP" = (
 /turf/open/ground/grass,
 /area/deathmatch)
+=======
+"KK" = (
+/obj/structure/toilet{
+	dir = 4
+	},
+/turf/open/floor/tile/white,
+/area/deathmatch)
+"LP" = (
+/turf/open/ground/grass,
+/area/deathmatch)
+"QB" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
+/obj/structure/bed/chair/wood/wings,
+/turf/open/floor/plating/asteroidfloor,
+/area/deathmatch)
+>>>>>>> upstream/master
 "Tu" = (
 /turf/open/ground/coast{
 	dir = 6
@@ -1403,10 +1606,20 @@
 /turf/open/ground/river,
 /area/deathmatch)
 "UN" = (
+<<<<<<< HEAD
 /obj/machinery/light{
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
+=======
+/obj/structure/window/framed/mainship/requisitions,
+/obj/structure/window/framed/wood,
+/turf/open/floor/wood,
+/area/deathmatch)
+"Vo" = (
+/obj/item/storage/belt/champion,
+/turf/open/floor/grime,
+>>>>>>> upstream/master
 /area/deathmatch)
 "VE" = (
 /turf/open/ground/coast{
@@ -1493,6 +1706,7 @@ TP
 VE
 bj
 am
+<<<<<<< HEAD
 xX
 fI
 fI
@@ -1508,6 +1722,23 @@ xX
 xX
 xX
 ac
+=======
+fI
+eS
+eo
+dM
+oS
+eo
+xX
+xX
+xX
+xX
+fI
+as
+as
+as
+as
+>>>>>>> upstream/master
 ab
 "}
 (3,1,1) = {"
@@ -1541,6 +1772,7 @@ TP
 TP
 aq
 am
+<<<<<<< HEAD
 xX
 ae
 fI
@@ -1556,6 +1788,23 @@ xX
 xX
 ad
 xX
+=======
+fI
+fI
+dI
+kJ
+dT
+eo
+xX
+ad
+xX
+xX
+fI
+as
+KK
+sP
+as
+>>>>>>> upstream/master
 ab
 "}
 (4,1,1) = {"
@@ -1589,11 +1838,16 @@ TP
 TP
 aq
 am
+<<<<<<< HEAD
 xX
+=======
+fI
+>>>>>>> upstream/master
 fI
 dM
 dG
 dT
+<<<<<<< HEAD
 en
 dG
 fI
@@ -1604,6 +1858,18 @@ as
 as
 xX
 xX
+=======
+eo
+xX
+xX
+xX
+xX
+fI
+bv
+fv
+ln
+as
+>>>>>>> upstream/master
 ab
 "}
 (5,1,1) = {"
@@ -1637,6 +1903,7 @@ TP
 TP
 aq
 am
+<<<<<<< HEAD
 xX
 fI
 fI
@@ -1652,6 +1919,23 @@ eZ
 as
 xX
 xX
+=======
+fI
+fI
+eo
+eo
+ec
+eo
+xX
+af
+xX
+xX
+eS
+as
+as
+as
+as
+>>>>>>> upstream/master
 ab
 "}
 (6,1,1) = {"
@@ -1685,6 +1969,7 @@ ap
 rW
 GL
 xX
+<<<<<<< HEAD
 xX
 fI
 fI
@@ -1699,6 +1984,22 @@ eT
 fa
 as
 xX
+=======
+fI
+fI
+fI
+fI
+fI
+fI
+fI
+cx
+fI
+fI
+fI
+fa
+xX
+aw
+>>>>>>> upstream/master
 xX
 ab
 "}
@@ -1733,6 +2034,7 @@ aq
 am
 al
 xX
+<<<<<<< HEAD
 xX
 fI
 fI
@@ -1746,6 +2048,21 @@ as
 as
 as
 as
+=======
+fI
+fI
+dY
+jw
+nc
+ep
+fI
+ep
+ep
+dY
+dY
+fI
+xX
+>>>>>>> upstream/master
 xX
 al
 ab
@@ -1781,6 +2098,7 @@ aq
 am
 xX
 dE
+<<<<<<< HEAD
 xX
 fI
 fI
@@ -1792,6 +2110,19 @@ fI
 fI
 fI
 cx
+=======
+fI
+fI
+ed
+eo
+CG
+CG
+py
+jC
+jC
+eo
+eZ
+>>>>>>> upstream/master
 fI
 fI
 fI
@@ -1829,21 +2160,38 @@ aq
 am
 af
 ad
+<<<<<<< HEAD
 xX
 kJ
 cx
 fI
 fI
+=======
+fI
+fI
+dN
+UN
+eK
+eJ
+eJ
+eJ
+eK
+eO
+dN
+>>>>>>> upstream/master
 fI
 fI
 ae
 fI
+<<<<<<< HEAD
 fI
 fI
 fI
 dI
 ae
 fI
+=======
+>>>>>>> upstream/master
 ab
 "}
 (10,1,1) = {"
@@ -1877,6 +2225,7 @@ VE
 an
 bj
 xX
+<<<<<<< HEAD
 dG
 dG
 dN
@@ -1890,6 +2239,21 @@ dT
 dS
 dG
 dG
+=======
+fI
+ae
+dN
+UN
+eJ
+eJ
+eJ
+eJ
+eJ
+eO
+dN
+fI
+xX
+>>>>>>> upstream/master
 xX
 xX
 ab
@@ -1925,6 +2289,7 @@ TP
 TP
 aq
 xX
+<<<<<<< HEAD
 dG
 cC
 ct
@@ -1938,6 +2303,21 @@ eo
 eo
 ed
 dG
+=======
+fI
+fI
+eT
+UN
+eJ
+eJ
+Vo
+eJ
+eJ
+eO
+QB
+fI
+xX
+>>>>>>> upstream/master
 xX
 xX
 ab
@@ -1973,6 +2353,7 @@ dd
 dt
 dy
 xX
+<<<<<<< HEAD
 dG
 dJ
 ct
@@ -1986,6 +2367,21 @@ eN
 eo
 eo
 en
+=======
+fI
+dJ
+eT
+UN
+eJ
+eJ
+eJ
+eJ
+eJ
+eO
+dN
+dJ
+xX
+>>>>>>> upstream/master
 xX
 af
 ab
@@ -2021,6 +2417,7 @@ ez
 as
 dz
 xX
+<<<<<<< HEAD
 dG
 dK
 dK
@@ -2034,6 +2431,21 @@ eO
 eo
 ec
 dG
+=======
+fI
+fa
+dN
+UN
+eK
+eJ
+eJ
+eJ
+eK
+eO
+eT
+fI
+xX
+>>>>>>> upstream/master
 xX
 xX
 ab
@@ -2069,6 +2481,7 @@ cY
 cS
 dA
 fI
+<<<<<<< HEAD
 UN
 fI
 fI
@@ -2082,6 +2495,21 @@ en
 dT
 dS
 dG
+=======
+fI
+fI
+eZ
+eo
+UN
+UN
+rN
+eO
+eO
+eo
+cx
+fI
+xX
+>>>>>>> upstream/master
 al
 xX
 ab
@@ -2121,6 +2549,7 @@ ce
 fI
 fI
 fI
+<<<<<<< HEAD
 cx
 fI
 fI
@@ -2131,6 +2560,18 @@ fI
 fI
 UN
 ae
+=======
+uP
+uP
+fI
+uP
+uP
+dY
+dY
+fI
+fI
+ae
+>>>>>>> upstream/master
 fI
 ab
 "}
@@ -2169,10 +2610,17 @@ fI
 fI
 fI
 fI
+<<<<<<< HEAD
 fI
 fI
 fI
 fI
+=======
+cx
+fI
+fI
+ae
+>>>>>>> upstream/master
 fI
 fI
 fI
@@ -2504,7 +2952,11 @@ TP
 TP
 TP
 ap
+<<<<<<< HEAD
 dY
+=======
+dW
+>>>>>>> upstream/master
 ez
 ez
 ez

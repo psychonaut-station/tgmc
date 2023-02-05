@@ -3,6 +3,11 @@
 	name = "Sons of Mars Squad"
 	base_probability = 26
 	alignement_factor = 0
+<<<<<<< HEAD
+=======
+	///number of available special weapon dudes
+	var/max_specialists = 1
+>>>>>>> upstream/master
 
 
 /datum/emergency_call/som/print_backstory(mob/living/carbon/human/H)
@@ -13,6 +18,12 @@
 	to_chat(H, "<B>Today, a TGMC vessel, [SSmapping.configs[SHIP_MAP].map_name], has sent out a distress signal on the orbit of [SSmapping.configs[GROUND_MAP].map_name]. This is our chance to attack without being intercepted!</b>")
 	to_chat(H, "<B>Eliminate the TGMC, take no prisoners. Get back what it was once lost.</B>")
 
+<<<<<<< HEAD
+=======
+/datum/emergency_call/som/do_activate(announce = TRUE)
+	max_specialists = round(mob_max * 0.2)
+	return ..()
+>>>>>>> upstream/master
 
 /datum/emergency_call/som/create_member(datum/mind/M)
 	. = ..()
@@ -35,14 +46,26 @@
 		H.apply_assigned_role_to_spawn(J)
 		to_chat(H, "<p style='font-size:1.5em'>[span_notice("You are a member of the Sons of Mars assigned to lead this fireteam to the TGMC distress signal sent out nearby. Lead your fireteam to top-working conidition!")]</p>")
 		return
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/master
 	if(medics < max_medics)
 		var/datum/job/J = SSjob.GetJobType(/datum/job/som/ert/medic)
 		H.apply_assigned_role_to_spawn(J)
 		to_chat(H, "<p style='font-size:1.5em'>[span_notice("You are a Sons of Mars medic assigned to this fireteam to respond to the TGMC distress signal sent out nearby. Keep your squad alive in this fight!")]</p>")
 		medics++
 		return
+<<<<<<< HEAD
 
+=======
+	if(max_specialists > 0)
+		var/datum/job/J = SSjob.GetJobType(/datum/job/som/ert/specialist)
+		H.apply_assigned_role_to_spawn(J)
+		to_chat(H, "<p style='font-size:1.5em'>[span_notice("You are a veteran of the Sons of Mars trusted with specialised weaponry. You are assigned to this fireteam to respond to the TGMC distress signal sent out nearby. Do them proud and kill all who stand in your teams way!")]</p>")
+		max_specialists --
+		return
+>>>>>>> upstream/master
 	if(prob(65))
 		var/datum/job/J = SSjob.GetJobType(/datum/job/som/ert/veteran)
 		H.apply_assigned_role_to_spawn(J)

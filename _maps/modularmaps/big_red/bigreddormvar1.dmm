@@ -300,13 +300,20 @@
 /turf/open/floor,
 /area/bigredv2/outside/dorms)
 "RW" = (
+<<<<<<< HEAD
 /obj/machinery/vending/snack{
 	icon_state = "snack-broken"
 	},
+=======
+>>>>>>> upstream/master
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/simple/green/hidden{
 	dir = 4
 	},
+<<<<<<< HEAD
+=======
+/obj/structure/prop/tgbrokenvendor/snackbrokebed,
+>>>>>>> upstream/master
 /turf/open/floor,
 /area/bigredv2/outside/dorms)
 "SV" = (

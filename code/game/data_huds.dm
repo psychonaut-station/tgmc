@@ -257,7 +257,20 @@
 
 	if(species.species_flags & IS_SYNTHETIC)
 		simple_status_hud.icon_state = ""
+<<<<<<< HEAD
 		status_hud.icon_state = "hudsynth"
+=======
+		if(stat != DEAD)
+			status_hud.icon_state = "hudsynth"
+		else
+			if(!client)
+				var/mob/dead/observer/G = get_ghost(FALSE, TRUE)
+				if(!G)
+					status_hud.icon_state = "hudsynthdnr"
+				else
+					status_hud.icon_state = "hudsynthdead"
+			return
+>>>>>>> upstream/master
 		infection_hud.icon_state = "hudsynth" //Xenos can feel synths are not human.
 		return TRUE
 

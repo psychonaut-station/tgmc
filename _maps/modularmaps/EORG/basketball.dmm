@@ -917,7 +917,11 @@
 /area/deathmatch)
 "Tx" = (
 /obj/effect/landmark/weapon_spawn/tier1_weapon_spawn,
+<<<<<<< HEAD
 /turf/open/floor/mainship/sterile/plain,
+=======
+/turf/open/floor/wood,
+>>>>>>> upstream/master
 /area/deathmatch)
 "TC" = (
 /obj/structure/bed/chair{
@@ -961,7 +965,11 @@
 /turf/open/floor/wood,
 /area/deathmatch)
 "Vy" = (
+<<<<<<< HEAD
 /obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
+=======
+/obj/effect/landmark/deathmatch,
+>>>>>>> upstream/master
 /turf/open/floor/mainship/emerald{
 	dir = 6
 	},
@@ -988,7 +996,11 @@
 /turf/open/floor/mainship/mono,
 /area/deathmatch)
 "Xi" = (
+<<<<<<< HEAD
 /obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
+=======
+/obj/effect/landmark/deathmatch,
+>>>>>>> upstream/master
 /turf/open/floor/mainship/red{
 	dir = 9
 	},
@@ -1632,7 +1644,11 @@ HL
 HL
 HL
 HL
+<<<<<<< HEAD
 HL
+=======
+Tx
+>>>>>>> upstream/master
 HL
 aG
 HL
@@ -1903,7 +1919,11 @@ NH
 HL
 aG
 HL
+<<<<<<< HEAD
 HL
+=======
+Tx
+>>>>>>> upstream/master
 HL
 aG
 HL
@@ -1935,7 +1955,11 @@ Zu
 aY
 HL
 aG
+<<<<<<< HEAD
 HL
+=======
+Tx
+>>>>>>> upstream/master
 HL
 HL
 aG
@@ -2287,7 +2311,11 @@ Qz
 HL
 aG
 HL
+<<<<<<< HEAD
 HL
+=======
+Tx
+>>>>>>> upstream/master
 HL
 aG
 HL
@@ -2319,7 +2347,11 @@ Zu
 tG
 HL
 aG
+<<<<<<< HEAD
 HL
+=======
+Tx
+>>>>>>> upstream/master
 HL
 HL
 HL
@@ -2592,7 +2624,11 @@ HL
 HL
 HL
 HL
+<<<<<<< HEAD
 HL
+=======
+Tx
+>>>>>>> upstream/master
 HL
 HL
 HL
@@ -2754,9 +2790,15 @@ bI
 bI
 cP
 YI
+<<<<<<< HEAD
 Tx
 Tx
 Tx
+=======
+bg
+bg
+bg
+>>>>>>> upstream/master
 QG
 WF
 HL
@@ -2802,9 +2844,15 @@ bI
 bI
 cP
 bb
+<<<<<<< HEAD
 Tx
 et
 Tx
+=======
+bg
+et
+bg
+>>>>>>> upstream/master
 bb
 WF
 HL
@@ -2850,9 +2898,15 @@ bI
 bI
 cP
 Tn
+<<<<<<< HEAD
 Tx
 Tx
 Tx
+=======
+bg
+bg
+bg
+>>>>>>> upstream/master
 Sj
 WF
 HL

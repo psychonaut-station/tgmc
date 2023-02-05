@@ -100,6 +100,13 @@
 /obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
 /turf/open/floor/tile/dark/blue2,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"cI" = (
+/obj/machinery/door/window/right,
+/turf/open/floor/tile/dark/gray,
+/area/deathmatch)
+>>>>>>> upstream/master
 "dg" = (
 /obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
 /turf/open/floor/tile/dark/blue2{
@@ -224,11 +231,17 @@
 	},
 /area/deathmatch)
 "gn" = (
+<<<<<<< HEAD
 /obj/structure/inflatable/popped,
 /obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
 /turf/open/floor/tile/arrival{
 	dir = 4
 	},
+=======
+/obj/structure/inflatable,
+/obj/machinery/light,
+/turf/open/floor/tile/arrival,
+>>>>>>> upstream/master
 /area/deathmatch)
 "gq" = (
 /obj/machinery/vending/dinnerware,
@@ -236,10 +249,18 @@
 /area/deathmatch)
 "gA" = (
 /obj/machinery/light{
+<<<<<<< HEAD
 	dir = 8
 	},
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/tile/cmo,
+=======
+	dir = 1
+	},
+/turf/open/floor/tile/arrival/corner{
+	dir = 1
+	},
+>>>>>>> upstream/master
 /area/deathmatch)
 "gE" = (
 /obj/effect/landmark/deathmatch,
@@ -293,6 +314,13 @@
 	dir = 4
 	},
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"hF" = (
+/obj/structure/window/framed/mainship/hull,
+/turf/open/floor/mainship/mono,
+/area/deathmatch)
+>>>>>>> upstream/master
 "hS" = (
 /obj/structure/flora/pottedplant/ten,
 /turf/open/floor/tile/dark2,
@@ -351,8 +379,15 @@
 	},
 /area/deathmatch)
 "jf" = (
+<<<<<<< HEAD
 /obj/structure/reagent_dispensers/beerkeg,
 /turf/open/floor/tile/cmo,
+=======
+/obj/effect/landmark/deathmatch,
+/turf/open/floor/tile/arrival{
+	dir = 6
+	},
+>>>>>>> upstream/master
 /area/deathmatch)
 "jg" = (
 /turf/open/floor/tile/arrival,
@@ -706,9 +741,14 @@
 /turf/open/floor/plating/ground/snow/layer2,
 /area/deathmatch)
 "ro" = (
+<<<<<<< HEAD
 /obj/structure/inflatable/popped,
 /obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
 /turf/open/floor/tile/dark/gray,
+=======
+/obj/structure/inflatable,
+/turf/open/floor/tile/arrival,
+>>>>>>> upstream/master
 /area/deathmatch)
 "rp" = (
 /obj/effect/decal/cleanable/dirt,
@@ -763,6 +803,16 @@
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/tile/dark/gray,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"sx" = (
+/obj/structure/inflatable/popped,
+/obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
+/turf/open/floor/tile/arrival{
+	dir = 4
+	},
+/area/deathmatch)
+>>>>>>> upstream/master
 "sy" = (
 /obj/machinery/light{
 	dir = 8
@@ -880,6 +930,7 @@
 /turf/open/floor/tile/dark2,
 /area/deathmatch)
 "vO" = (
+<<<<<<< HEAD
 /obj/structure/inflatable,
 /turf/open/floor/tile/arrival,
 /area/deathmatch)
@@ -887,6 +938,14 @@
 /obj/structure/closet/crate/freezer,
 /obj/effect/landmark/weapon_spawn/tier4_weapon_spawn,
 /turf/open/floor/tile/cmo,
+=======
+/obj/structure/inflatable/popped,
+/obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
+/turf/open/floor/tile/dark/gray,
+/area/deathmatch)
+"vQ" = (
+/turf/closed/wall/mainship/outer,
+>>>>>>> upstream/master
 /area/deathmatch)
 "vU" = (
 /turf/open/floor/tile/dark/blue2{
@@ -1113,8 +1172,12 @@
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
+<<<<<<< HEAD
 /obj/effect/spawner/random/plushie/nospawnninetyfive{
 	},
+=======
+/obj/effect/spawner/random/plushie/nospawnninetyfive,
+>>>>>>> upstream/master
 /turf/open/floor/tile/dark/blue2{
 	dir = 6
 	},
@@ -1133,6 +1196,15 @@
 /obj/effect/landmark/weapon_spawn/tier4_weapon_spawn,
 /turf/open/floor/tile/dark/blue2/corner,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"Aq" = (
+/obj/structure/inflatable,
+/turf/open/floor/tile/arrival{
+	dir = 1
+	},
+/area/deathmatch)
+>>>>>>> upstream/master
 "AH" = (
 /obj/machinery/light{
 	dir = 1
@@ -1165,9 +1237,14 @@
 /turf/open/floor/plating/ground/snow/layer2,
 /area/deathmatch)
 "AR" = (
+<<<<<<< HEAD
 /obj/structure/inflatable,
 /obj/machinery/light,
 /turf/open/floor/tile/arrival,
+=======
+/obj/structure/window/framed/mainship/requisitions,
+/turf/open/floor/mainship/mono,
+>>>>>>> upstream/master
 /area/deathmatch)
 "Bp" = (
 /obj/structure/table,
@@ -1226,6 +1303,7 @@
 /turf/open/floor/tile/dark2,
 /area/deathmatch)
 "CW" = (
+<<<<<<< HEAD
 /obj/structure/ore_box,
 /obj/machinery/light{
 	dir = 4
@@ -1233,6 +1311,11 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/tile/arrival{
 	dir = 4
+=======
+/obj/effect/landmark/deathmatch,
+/turf/open/floor/tile/arrival{
+	dir = 9
+>>>>>>> upstream/master
 	},
 /area/deathmatch)
 "Df" = (
@@ -1243,6 +1326,15 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/tile/dark2,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"Dp" = (
+/obj/structure/ore_box,
+/turf/open/floor/tile/arrival{
+	dir = 1
+	},
+/area/deathmatch)
+>>>>>>> upstream/master
 "DM" = (
 /obj/machinery/computer/security/telescreen/entertainment,
 /obj/machinery/light{
@@ -1602,9 +1694,15 @@
 	},
 /area/deathmatch)
 "Mc" = (
+<<<<<<< HEAD
 /obj/structure/inflatable,
 /turf/open/floor/tile/arrival{
 	dir = 1
+=======
+/obj/effect/landmark/deathmatch,
+/turf/open/floor/tile/arrival{
+	dir = 5
+>>>>>>> upstream/master
 	},
 /area/deathmatch)
 "Md" = (
@@ -1612,6 +1710,13 @@
 /obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
 /turf/open/floor/plating/ground/snow/layer2,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"Mj" = (
+/obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
+/turf/open/floor/tile/dark/gray,
+/area/deathmatch)
+>>>>>>> upstream/master
 "Mr" = (
 /turf/open/floor/plating,
 /area/deathmatch)
@@ -1700,10 +1805,18 @@
 	},
 /area/deathmatch)
 "Oz" = (
+<<<<<<< HEAD
 /obj/structure/ore_box,
 /turf/open/floor/tile/arrival{
 	dir = 1
 	},
+=======
+/obj/machinery/door/window{
+	dir = 8
+	},
+/obj/effect/ai_node,
+/turf/open/floor/tile/dark/gray,
+>>>>>>> upstream/master
 /area/deathmatch)
 "OC" = (
 /obj/structure/bed/chair/office/dark{
@@ -1749,6 +1862,15 @@
 /obj/item/tool/pen,
 /turf/open/floor/tile/dark/blue2/corner,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"PQ" = (
+/obj/effect/landmark/deathmatch,
+/turf/open/floor/tile/arrival{
+	dir = 10
+	},
+/area/deathmatch)
+>>>>>>> upstream/master
 "PU" = (
 /obj/machinery/vending/snack,
 /obj/machinery/light{
@@ -1788,6 +1910,14 @@
 /obj/machinery/recharger,
 /turf/open/floor/tile/dark2,
 /area/deathmatch)
+<<<<<<< HEAD
+=======
+"Qo" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
+/turf/open/floor/tile/dark/gray,
+/area/deathmatch)
+>>>>>>> upstream/master
 "Qt" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
@@ -2001,7 +2131,14 @@
 	},
 /area/deathmatch)
 "VQ" = (
+<<<<<<< HEAD
 /obj/structure/inflatable,
+=======
+/obj/machinery/light{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+>>>>>>> upstream/master
 /turf/open/floor/tile/arrival{
 	dir = 4
 	},
@@ -2019,8 +2156,12 @@
 	},
 /area/deathmatch)
 "We" = (
+<<<<<<< HEAD
 /obj/structure/inflatable,
 /obj/effect/decal/cleanable/dirt,
+=======
+/obj/item/storage/belt/champion,
+>>>>>>> upstream/master
 /turf/open/floor/tile/dark/gray,
 /area/deathmatch)
 "Wl" = (
@@ -2028,8 +2169,12 @@
 /obj/item/stack/sheet/cardboard{
 	amount = 50
 	},
+<<<<<<< HEAD
 /obj/effect/spawner/random/plushie/nospawnninetyfive{
 	},
+=======
+/obj/effect/spawner/random/plushie/nospawnninetyfive,
+>>>>>>> upstream/master
 /turf/open/floor/tile/dark/blue2{
 	dir = 4
 	},
@@ -2935,7 +3080,11 @@ sa
 ZJ
 ZJ
 Gh
+<<<<<<< HEAD
 We
+=======
+Gh
+>>>>>>> upstream/master
 on
 XI
 sw
@@ -2980,6 +3129,7 @@ am
 pa
 Yb
 ZJ
+<<<<<<< HEAD
 ru
 Eb
 CW
@@ -2993,6 +3143,21 @@ lb
 lb
 NN
 ZJ
+=======
+ZJ
+ru
+Eb
+VQ
+lb
+lb
+lb
+lb
+sx
+NN
+ZJ
+ZJ
+ZJ
+>>>>>>> upstream/master
 ru
 sV
 Nm
@@ -3028,6 +3193,7 @@ Xv
 Xv
 kj
 ZJ
+<<<<<<< HEAD
 jg
 Xv
 Xv
@@ -3040,6 +3206,20 @@ Xv
 Xv
 Xv
 Ye
+=======
+ZJ
+jg
+vQ
+AR
+AR
+Oz
+hF
+hF
+vQ
+Kx
+ZJ
+ZJ
+>>>>>>> upstream/master
 ZJ
 jg
 Xv
@@ -3076,6 +3256,7 @@ ZD
 Xv
 kj
 ZJ
+<<<<<<< HEAD
 jg
 Xv
 ZD
@@ -3089,6 +3270,21 @@ ZD
 Xv
 Ye
 Gh
+=======
+ZJ
+jg
+AR
+CW
+Pq
+Pq
+Pq
+PQ
+hF
+Ye
+Gh
+Qo
+Gh
+>>>>>>> upstream/master
 Qt
 Xv
 ZD
@@ -3123,6 +3319,7 @@ ZD
 ZD
 Xv
 Ye
+<<<<<<< HEAD
 sw
 AR
 Xv
@@ -3136,6 +3333,21 @@ ZD
 ZD
 Xv
 Mc
+=======
+ZJ
+sw
+gn
+AR
+Ye
+ZJ
+ZJ
+ZJ
+jg
+hF
+Aq
+ZJ
+ZJ
+>>>>>>> upstream/master
 ZJ
 vA
 Xv
@@ -3171,6 +3383,7 @@ ZD
 ZD
 Xv
 kj
+<<<<<<< HEAD
 ro
 vO
 Xv
@@ -3184,6 +3397,21 @@ ZD
 ZD
 Xv
 Oz
+=======
+ZJ
+vO
+ro
+AR
+Ye
+ZJ
+We
+ZJ
+jg
+hF
+Dp
+Mj
+ZJ
+>>>>>>> upstream/master
 ZJ
 Sz
 Xv
@@ -3219,6 +3447,7 @@ ZD
 ZD
 Xv
 kj
+<<<<<<< HEAD
 Zx
 vO
 Xv
@@ -3233,6 +3462,22 @@ ZD
 Xv
 Ye
 ZJ
+=======
+ZJ
+Zx
+ro
+AR
+Ye
+ZJ
+ZJ
+ZJ
+jg
+hF
+Ye
+ZJ
+ZJ
+ZJ
+>>>>>>> upstream/master
 ib
 Xv
 ZD
@@ -3268,6 +3513,7 @@ Xv
 Xv
 Ye
 ZJ
+<<<<<<< HEAD
 jg
 Xv
 Xv
@@ -3281,6 +3527,21 @@ Xv
 Xv
 Ye
 ZJ
+=======
+ZJ
+jg
+AR
+Mc
+lb
+lb
+lb
+jf
+hF
+Ye
+ZJ
+ZJ
+ZJ
+>>>>>>> upstream/master
 jg
 Xv
 ZD
@@ -3316,6 +3577,7 @@ Pq
 Pq
 Px
 ZJ
+<<<<<<< HEAD
 LT
 Pq
 Ky
@@ -3328,6 +3590,20 @@ Ky
 gA
 Pq
 Px
+=======
+ZJ
+LT
+vQ
+AR
+AR
+cI
+hF
+hF
+vQ
+gA
+Gh
+Gh
+>>>>>>> upstream/master
 Mw
 vy
 Xv

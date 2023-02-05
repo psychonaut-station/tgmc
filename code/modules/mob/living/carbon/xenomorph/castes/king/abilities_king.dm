@@ -493,6 +493,10 @@
 			sister.remove_filter("summonoutline")
 		return fail_activate()
 
+<<<<<<< HEAD
+=======
+	allxenos = X.hive.get_all_xenos() //refresh the list to account for any changes during the channel
+>>>>>>> upstream/master
 	for(var/mob/living/carbon/xenomorph/sister AS in allxenos)
 		sister.remove_filter("summonoutline")
 		sister.forceMove(get_turf(X))

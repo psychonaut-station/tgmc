@@ -3618,6 +3618,7 @@
 	},
 /turf/open/floor/plating/ground/desertdam/asphalt,
 /area/desert_dam/exterior/valley/valley_labs)
+<<<<<<< HEAD
 "atC" = (
 /obj/structure/platform{
 	dir = 1
@@ -3630,6 +3631,8 @@
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
 /area/desert_dam/exterior/valley/valley_mining)
+=======
+>>>>>>> upstream/master
 "atE" = (
 /obj/machinery/door/airlock/mainship/security/glass{
 	dir = 1;
@@ -4085,7 +4088,11 @@
 	},
 /area/desert_dam/interior/lab_northeast/east_lab_RND)
 "avL" = (
+<<<<<<< HEAD
 /obj/machinery/r_n_d/destructive_analyzer,
+=======
+/obj/structure/prop/mainship/research/destructive_analyzer,
+>>>>>>> upstream/master
 /turf/open/floor/prison,
 /area/desert_dam/interior/lab_northeast/east_lab_RND)
 "avM" = (
@@ -4174,7 +4181,11 @@
 /turf/open/floor/plating/ground/mars/random/dirt,
 /area/desert_dam/interior/lab_northeast/east_lab_west_hallway)
 "awe" = (
+<<<<<<< HEAD
 /obj/machinery/r_n_d/circuit_imprinter,
+=======
+/obj/structure/prop/mainship/research/circuit_imprinter,
+>>>>>>> upstream/master
 /turf/open/floor/prison,
 /area/desert_dam/interior/lab_northeast/east_lab_RND)
 "awg" = (
@@ -7896,8 +7907,12 @@
 /area/desert_dam/building/administration/office)
 "aWr" = (
 /obj/structure/bed/chair/office/dark{
+<<<<<<< HEAD
 	dir = 4;
 	layer = 3.25
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /turf/open/floor/carpet/side{
 	dir = 8
@@ -8418,9 +8433,12 @@
 	dir = 8
 	},
 /area/desert_dam/exterior/river/riverside_central_north)
+<<<<<<< HEAD
 "aZi" = (
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
 /area/desert_dam/building/water_treatment_two)
+=======
+>>>>>>> upstream/master
 "aZj" = (
 /obj/item/paper/courtroom{
 	name = "A Crash Course in Legal SOP"
@@ -12759,17 +12777,25 @@
 /area/desert_dam/interior/dam_interior/control_room)
 "byG" = (
 /obj/machinery/power/geothermal,
+<<<<<<< HEAD
 /obj/structure/lattice{
 	layer = 2.9
 	},
+=======
+/obj/structure/lattice,
+>>>>>>> upstream/master
 /obj/structure/cable,
 /turf/open/floor/plating,
 /area/desert_dam/interior/dam_interior/engine_room)
 "byJ" = (
 /obj/machinery/power/geothermal,
+<<<<<<< HEAD
 /obj/structure/lattice{
 	layer = 2.9
 	},
+=======
+/obj/structure/lattice,
+>>>>>>> upstream/master
 /obj/structure/cable,
 /turf/open/floor/bcircuit,
 /area/desert_dam/interior/dam_interior/engine_room)
@@ -13564,8 +13590,13 @@
 	},
 /area/desert_dam/interior/dam_interior/atmos_storage)
 "bDy" = (
+<<<<<<< HEAD
 /obj/structure/window/framed/colony/reinforced/hull,
 /turf/open/floor/plating/ground/mars,
+=======
+/obj/structure/window/framed/colony/reinforced,
+/turf/open/floor/plating,
+>>>>>>> upstream/master
 /area/desert_dam/exterior/valley/valley_mining)
 "bDz" = (
 /obj/machinery/vending/engivend,
@@ -15270,7 +15301,11 @@
 /area/desert_dam/exterior/river/riverside_central_north)
 "bNu" = (
 /turf/open/floor/plating/ground/desertdam/grate/alternate,
+<<<<<<< HEAD
 /area/desert_dam/exterior/river/filtration_a)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "bNv" = (
 /turf/open/floor/prison/darkred{
 	dir = 4
@@ -15360,9 +15395,13 @@
 /turf/closed/wall/r_wall/chigusa,
 /area/desert_dam/interior/dam_interior/workshop)
 "bNZ" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/item/stack/sheet/metal,
 /turf/open/floor/prison/sterilewhite,
 /area/desert_dam/interior/dam_interior/workshop)
@@ -17616,9 +17655,13 @@
 	},
 /area/desert_dam/exterior/valley/valley_medical)
 "caj" = (
+<<<<<<< HEAD
 /obj/effect/decal/cleanable/blood{
 	layer = 3
 	},
+=======
+/obj/effect/decal/cleanable/blood,
+>>>>>>> upstream/master
 /turf/open/floor/prison/bright_clean/two,
 /area/desert_dam/building/administration/lobby)
 "cak" = (
@@ -19378,6 +19421,12 @@
 "ckO" = (
 /turf/open/floor/prison/sterilewhite,
 /area/desert_dam/building/medical/morgue)
+<<<<<<< HEAD
+=======
+"ckP" = (
+/turf/closed/wall/r_wall,
+/area/desert_dam/exterior/valley/valley_mining)
+>>>>>>> upstream/master
 "ckR" = (
 /obj/machinery/light{
 	dir = 8
@@ -19460,7 +19509,11 @@
 	dir = 5
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/exterior/river/filtration_a)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "clq" = (
 /obj/machinery/door/airlock/mainship/maint{
 	name = "\improper Lab Maintenance";
@@ -19594,12 +19647,15 @@
 	dir = 8
 	},
 /area/desert_dam/interior/dam_interior/hanger)
+<<<<<<< HEAD
 "cmg" = (
 /obj/structure/platform{
 	dir = 1
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
 /area/desert_dam/exterior/river/filtration_a)
+=======
+>>>>>>> upstream/master
 "cmj" = (
 /turf/open/floor/plating/asteroidplating,
 /area/desert_dam/building/telecommunication)
@@ -19731,7 +19787,11 @@
 	dir = 9
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/exterior/river/filtration_a)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "cmR" = (
 /turf/open/floor/plating/ground/dirt{
 	dir = 4
@@ -20416,7 +20476,11 @@
 	dir = 8
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/exterior/river/filtration_a)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "crg" = (
 /obj/structure/table,
 /obj/item/radio{
@@ -20572,7 +20636,11 @@
 	dir = 4
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/exterior/river/filtration_a)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "csh" = (
 /turf/open/floor/tile/dark/yellow2{
 	dir = 10
@@ -24011,8 +24079,12 @@
 /area/desert_dam/building/dorms/restroom)
 "cLc" = (
 /obj/structure/bed/chair/office/dark{
+<<<<<<< HEAD
 	dir = 4;
 	layer = 3.25
+=======
+	dir = 4
+>>>>>>> upstream/master
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
@@ -25275,9 +25347,13 @@
 /turf/open/floor/plating/ground/desertdam/asphalt,
 /area/desert_dam/exterior/valley/valley_cargo)
 "cTf" = (
+<<<<<<< HEAD
 /obj/effect/decal/cleanable/blood{
 	layer = 3
 	},
+=======
+/obj/effect/decal/cleanable/blood,
+>>>>>>> upstream/master
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
 	dir = 4
 	},
@@ -26654,9 +26730,13 @@
 /turf/open/floor/prison,
 /area/desert_dam/building/warehouse/loading)
 "dfL" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/item/stack/sheet/metal,
 /turf/open/floor/prison/bright_clean,
 /area/desert_dam/building/warehouse/loading)
@@ -28522,9 +28602,12 @@
 "dAq" = (
 /turf/open/floor/tile/white,
 /area/desert_dam/building/water_treatment_one/breakroom)
+<<<<<<< HEAD
 "dAA" = (
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
 /area/desert_dam/exterior/river/filtration_a)
+=======
+>>>>>>> upstream/master
 "dAB" = (
 /obj/structure/platform{
 	dir = 1
@@ -28674,9 +28757,13 @@
 /obj/item/weapon/baseballbat/metal{
 	pixel_x = 5
 	},
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/machinery/light{
 	dir = 8
 	},
@@ -29135,7 +29222,11 @@
 	dir = 10
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/exterior/river/filtration_a)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "dFR" = (
 /obj/structure/platform_decoration{
 	dir = 8
@@ -29183,7 +29274,11 @@
 "dGv" = (
 /obj/structure/platform,
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/exterior/river/filtration_a)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "dGw" = (
 /obj/structure/platform,
 /obj/structure/platform{
@@ -29193,7 +29288,11 @@
 	dir = 6
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/exterior/river/filtration_a)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "dGA" = (
 /obj/structure/platform{
 	dir = 4
@@ -29279,7 +29378,11 @@
 	dir = 6
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/exterior/river/filtration_a)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "dHe" = (
 /obj/structure/platform{
 	dir = 4
@@ -29494,9 +29597,13 @@
 /area/desert_dam/building/dorms/pool)
 "dIQ" = (
 /obj/item/clothing/under/shorts/red,
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
@@ -29559,9 +29666,13 @@
 /area/desert_dam/building/dorms/hallway_westwing)
 "dJm" = (
 /obj/item/tool/mop,
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /turf/open/floor/prison/blue{
 	dir = 8
 	},
@@ -29600,9 +29711,13 @@
 /turf/open/ground/river/desertdam/clean/shallow,
 /area/desert_dam/exterior/river/riverside_east)
 "dJX" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /turf/open/floor/prison/blue{
 	dir = 8
 	},
@@ -29801,7 +29916,11 @@
 	dir = 1
 	},
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/exterior/valley/valley_mining)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "dMq" = (
 /obj/structure/platform,
 /turf/open/ground/river/desertdam/clean/shallow_edge,
@@ -31012,9 +31131,13 @@
 	},
 /area/desert_dam/interior/dam_interior/CE_office)
 "ekf" = (
+<<<<<<< HEAD
 /obj/structure/lattice{
 	layer = 2.9
 	},
+=======
+/obj/structure/lattice,
+>>>>>>> upstream/master
 /obj/structure/cable,
 /obj/structure/prop/mainship/brokengen,
 /turf/open/floor/plating,
@@ -33539,9 +33662,13 @@
 /turf/open/floor/prison/sterilewhite,
 /area/desert_dam/interior/dam_interior/north_tunnel)
 "fHe" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/tech_supply,
 /obj/effect/spawner/random/tech_supply,
 /turf/open/floor/prison/darkyellow{
@@ -36006,8 +36133,12 @@
 /area/desert_dam/building/medical/chemistry)
 "heK" = (
 /obj/structure/platform{
+<<<<<<< HEAD
 	dir = 8;
 	layer = 2.7
+=======
+	dir = 8
+>>>>>>> upstream/master
 	},
 /obj/structure/platform,
 /obj/effect/landmark/weed_node,
@@ -36059,9 +36190,13 @@
 	},
 /area/desert_dam/building/administration/hallway)
 "hfY" = (
+<<<<<<< HEAD
 /obj/effect/decal/cleanable/blood{
 	layer = 3
 	},
+=======
+/obj/effect/decal/cleanable/blood,
+>>>>>>> upstream/master
 /obj/effect/landmark/weed_node,
 /turf/open/floor/wood,
 /area/desert_dam/building/administration/overseer_office)
@@ -36458,7 +36593,13 @@
 /turf/open/floor/prison,
 /area/desert_dam/building/medical/virology_wing)
 "hrR" = (
+<<<<<<< HEAD
 /obj/structure/prop/vehicle/van,
+=======
+/obj/structure/prop/vehicle/van{
+	dir = 8
+	},
+>>>>>>> upstream/master
 /turf/open/floor/plating/ground/desertdam/asphalt,
 /area/desert_dam/exterior/valley/south_valley_dam)
 "hrS" = (
@@ -36496,7 +36637,13 @@
 /area/desert_dam/interior/lab_northeast/east_lab_west_hallway)
 "hsI" = (
 /obj/structure/desertdam/decals/road,
+<<<<<<< HEAD
 /obj/structure/prop/vehicle/van,
+=======
+/obj/structure/prop/vehicle/van{
+	dir = 4
+	},
+>>>>>>> upstream/master
 /turf/open/floor/plating/ground/desertdam/asphalt,
 /area/desert_dam/exterior/valley/valley_cargo)
 "hsN" = (
@@ -36950,9 +37097,13 @@
 /turf/open/floor/plating/ground/mars/random/sand,
 /area/desert_dam/exterior/valley/valley_labs)
 "hDV" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/technology_scanner,
 /turf/open/floor/prison/darkyellow{
 	dir = 1
@@ -38873,7 +39024,11 @@
 /area/desert_dam/interior/dam_interior/east_tunnel_entrance)
 "iHt" = (
 /obj/structure/cable,
+<<<<<<< HEAD
 /turf/closed/wall/r_wall/unmeltable,
+=======
+/turf/closed/wall/r_wall,
+>>>>>>> upstream/master
 /area/desert_dam/interior/east_engineering)
 "iHx" = (
 /obj/effect/turf_decal/warning_stripes/thin,
@@ -40002,9 +40157,13 @@
 /turf/open/floor/plating/ground/desertdam/asphalt,
 /area/desert_dam/exterior/valley/valley_telecoms)
 "jqk" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/technology_scanner,
 /turf/open/floor/prison/darkyellow{
 	dir = 8
@@ -41662,9 +41821,13 @@
 	},
 /area/desert_dam/exterior/valley/valley_cargo)
 "kjC" = (
+<<<<<<< HEAD
 /obj/effect/decal/cleanable/blood{
 	layer = 3
 	},
+=======
+/obj/effect/decal/cleanable/blood,
+>>>>>>> upstream/master
 /turf/open/floor/tile/dark/red2{
 	dir = 8
 	},
@@ -44885,9 +45048,13 @@
 /turf/open/floor/plating/ground/mars/dirttosand,
 /area/desert_dam/exterior/landing/landing_pad_one_external)
 "mak" = (
+<<<<<<< HEAD
 /obj/effect/decal/cleanable/blood{
 	layer = 3
 	},
+=======
+/obj/effect/decal/cleanable/blood,
+>>>>>>> upstream/master
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/prison/bright_clean,
 /area/desert_dam/building/warehouse/loading)
@@ -46142,7 +46309,11 @@
 "mMZ" = (
 /obj/structure/cryofeed,
 /turf/open/floor/engine,
+<<<<<<< HEAD
 /area/desert_dam/interior/east_engineering)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "mNd" = (
 /obj/structure/cable,
 /turf/open/floor/plating/ground/desertdam/asphalt/edge{
@@ -49088,9 +49259,13 @@
 	},
 /area/desert_dam/interior/dam_interior/west_tunnel)
 "oxC" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/tech_supply,
 /obj/effect/spawner/random/tech_supply,
 /turf/open/floor/prison/darkyellow,
@@ -49187,6 +49362,12 @@
 /obj/structure/cable,
 /turf/open/floor/plating/plating_catwalk,
 /area/desert_dam/exterior/valley/tradeship)
+<<<<<<< HEAD
+=======
+"oAb" = (
+/turf/closed/wall/r_wall,
+/area/desert_dam/interior/east_engineering)
+>>>>>>> upstream/master
 "oAh" = (
 /obj/effect/landmark/start/job/survivor,
 /turf/open/floor/wood,
@@ -51354,9 +51535,13 @@
 /turf/open/floor/prison/bright_clean/two,
 /area/desert_dam/building/dorms/restroom)
 "pEU" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/tech_supply,
 /obj/effect/spawner/random/tech_supply,
 /turf/open/floor/prison/darkyellow{
@@ -51550,9 +51735,13 @@
 	},
 /area/desert_dam/exterior/landing/landing_pad_three_external)
 "pJx" = (
+<<<<<<< HEAD
 /obj/structure/lattice{
 	layer = 2.9
 	},
+=======
+/obj/structure/lattice,
+>>>>>>> upstream/master
 /obj/structure/cable,
 /obj/structure/prop/mainship/brokengen,
 /turf/open/floor/bcircuit,
@@ -53301,9 +53490,13 @@
 	},
 /area/desert_dam/building/administration/hallway)
 "qGJ" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/technology_scanner,
 /turf/open/floor/tile/dark/yellow2{
 	dir = 4
@@ -53898,9 +54091,13 @@
 /turf/open/floor/prison/bright_clean,
 /area/desert_dam/interior/dam_interior/engine_east_wing)
 "qYG" = (
+<<<<<<< HEAD
 /obj/effect/decal/cleanable/blood{
 	layer = 3
 	},
+=======
+/obj/effect/decal/cleanable/blood,
+>>>>>>> upstream/master
 /obj/effect/ai_node,
 /turf/open/floor/prison/bright_clean/two,
 /area/desert_dam/building/administration/hallway)
@@ -54519,7 +54716,11 @@
 	dir = 4
 	},
 /turf/open/floor/engine,
+<<<<<<< HEAD
 /area/desert_dam/interior/east_engineering)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "rqp" = (
 /obj/effect/landmark/weed_node,
 /turf/open/floor/prison/sterilewhite,
@@ -55085,7 +55286,11 @@
 /area/desert_dam/exterior/rock)
 "rJC" = (
 /turf/open/ground/river/desertdam/clean/deep_water_clean,
+<<<<<<< HEAD
 /area/desert_dam/building/water_treatment_one)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "rJK" = (
 /obj/structure/desertdam/decals/road{
 	dir = 8
@@ -55786,9 +55991,13 @@
 /turf/open/floor/prison,
 /area/desert_dam/interior/dam_interior/auxilary_tool_storage)
 "rZJ" = (
+<<<<<<< HEAD
 /obj/effect/decal/cleanable/blood{
 	layer = 3
 	},
+=======
+/obj/effect/decal/cleanable/blood,
+>>>>>>> upstream/master
 /turf/open/floor/carpet/side{
 	dir = 4
 	},
@@ -56453,9 +56662,13 @@
 	},
 /area/desert_dam/exterior/valley/valley_telecoms)
 "sqC" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/technology_scanner,
 /turf/open/floor/prison/darkyellow{
 	dir = 1
@@ -57482,9 +57695,13 @@
 	},
 /area/desert_dam/interior/dam_interior/break_room)
 "taQ" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/tech_supply,
 /obj/effect/spawner/random/tech_supply,
 /turf/open/floor/tile/dark/yellow2{
@@ -58102,9 +58319,13 @@
 /obj/machinery/conveyor{
 	id = "anomalybelt"
 	},
+<<<<<<< HEAD
 /obj/effect/decal/cleanable/blood{
 	layer = 3
 	},
+=======
+/obj/effect/decal/cleanable/blood,
+>>>>>>> upstream/master
 /obj/effect/ai_node,
 /turf/open/floor/plating,
 /area/desert_dam/interior/dam_interior/disposals)
@@ -58312,9 +58533,13 @@
 /turf/open/floor/plating/ground/desertdam/asphalt,
 /area/desert_dam/interior/dam_interior/north_tunnel_entrance)
 "tvZ" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/tech_supply,
 /obj/effect/spawner/random/tech_supply,
 /obj/machinery/light{
@@ -60222,9 +60447,13 @@
 	},
 /area/desert_dam/exterior/valley/south_valley_dam)
 "uyn" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /turf/open/floor/plating,
 /area/desert_dam/building/cafeteria/backroom)
 "uyJ" = (
@@ -61321,9 +61550,13 @@
 	},
 /area/desert_dam/interior/dam_interior/workshop)
 "vfH" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/tech_supply,
 /obj/effect/spawner/random/tech_supply,
 /turf/open/floor/prison/darkyellow{
@@ -61652,7 +61885,11 @@
 /area/desert_dam/exterior/valley/bar_valley_dam)
 "vod" = (
 /obj/effect/decal/cleanable/dirt,
+<<<<<<< HEAD
 /turf/closed/wall/r_wall/unmeltable,
+=======
+/turf/closed/wall/r_wall,
+>>>>>>> upstream/master
 /area/desert_dam/interior/east_engineering)
 "voe" = (
 /obj/effect/turf_decal/warning_stripes/thin,
@@ -62476,9 +62713,13 @@
 /turf/open/floor/freezer,
 /area/desert_dam/exterior/landing/landing_pad_two_external)
 "vMh" = (
+<<<<<<< HEAD
 /obj/structure/rack{
 	layer = 2.5
 	},
+=======
+/obj/structure/rack,
+>>>>>>> upstream/master
 /obj/effect/spawner/random/technology_scanner,
 /obj/effect/landmark/weed_node,
 /turf/open/floor/prison/darkyellow,
@@ -64520,7 +64761,11 @@
 	name = "\improper coolant feed"
 	},
 /turf/open/floor/engine,
+<<<<<<< HEAD
 /area/desert_dam/interior/east_engineering)
+=======
+/area/desert_dam/exterior/rock)
+>>>>>>> upstream/master
 "wSA" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
@@ -100553,8 +100798,13 @@ gdW
 gdW
 dtE
 bNu
+<<<<<<< HEAD
 cmg
 dAA
+=======
+dMf
+rJC
+>>>>>>> upstream/master
 dGv
 bNu
 dtE
@@ -100787,8 +101037,13 @@ dxe
 gdW
 dtE
 bNu
+<<<<<<< HEAD
 cmg
 dAA
+=======
+dMf
+rJC
+>>>>>>> upstream/master
 dGv
 bNu
 dtE
@@ -114255,9 +114510,15 @@ kMb
 dMq
 ohd
 bAZ
+<<<<<<< HEAD
 atC
 avT
 agJ
+=======
+clo
+cra
+dFP
+>>>>>>> upstream/master
 bpr
 bnA
 chZ
@@ -114490,18 +114751,31 @@ dMq
 bnA
 bAZ
 dMf
+<<<<<<< HEAD
 kMb
 bUN
+=======
+rJC
+dGv
+>>>>>>> upstream/master
 bpr
 ohd
 chZ
 jXq
 caH
+<<<<<<< HEAD
 lFE
 lFE
 aOz
 aOz
 lFE
+=======
+oAb
+oAb
+aOz
+aOz
+oAb
+>>>>>>> upstream/master
 aOy
 aOy
 aOy
@@ -114724,14 +114998,23 @@ bUN
 bnA
 bAZ
 dMf
+<<<<<<< HEAD
 kMb
 bUN
+=======
+rJC
+dGv
+>>>>>>> upstream/master
 bAZ
 bnA
 aSH
 bXB
 aYE
+<<<<<<< HEAD
 lFE
+=======
+oAb
+>>>>>>> upstream/master
 aOy
 bNR
 uXr
@@ -114957,9 +115240,15 @@ kMb
 bUN
 qdS
 bpr
+<<<<<<< HEAD
 dEW
 kMb
 bUN
+=======
+dMf
+rJC
+dGv
+>>>>>>> upstream/master
 bAZ
 bnA
 aSH
@@ -114975,7 +115264,11 @@ aOy
 lUk
 vmE
 fUI
+<<<<<<< HEAD
 lFE
+=======
+oAb
+>>>>>>> upstream/master
 lAd
 xjh
 gKp
@@ -115191,9 +115484,15 @@ kMb
 bUN
 qdS
 bpr
+<<<<<<< HEAD
 dEW
 kMb
 bUN
+=======
+dMf
+rJC
+dGv
+>>>>>>> upstream/master
 bpr
 bnA
 aSH
@@ -115209,7 +115508,11 @@ aOy
 myt
 phx
 eAT
+<<<<<<< HEAD
 lFE
+=======
+oAb
+>>>>>>> upstream/master
 itw
 wev
 eTR
@@ -115425,9 +115728,15 @@ kMb
 bUN
 qdS
 bpr
+<<<<<<< HEAD
 asZ
 diM
 atX
+=======
+cmQ
+csg
+dGw
+>>>>>>> upstream/master
 bpr
 bnA
 aSH
@@ -115914,7 +116223,11 @@ hQT
 aPc
 vHq
 vWO
+<<<<<<< HEAD
 lFE
+=======
+oAb
+>>>>>>> upstream/master
 aUc
 aWx
 tAD
@@ -117075,7 +117388,11 @@ fcL
 jsA
 vod
 lxe
+<<<<<<< HEAD
 lFE
+=======
+oAb
+>>>>>>> upstream/master
 jhe
 wsD
 kdO
@@ -117307,7 +117624,11 @@ otC
 yhu
 aOy
 rqp
+<<<<<<< HEAD
 lFE
+=======
+oAb
+>>>>>>> upstream/master
 rwF
 vod
 oYZ
@@ -117541,7 +117862,11 @@ bXB
 aJT
 aOy
 vLz
+<<<<<<< HEAD
 lFE
+=======
+oAb
+>>>>>>> upstream/master
 hFG
 vod
 jeW
@@ -119171,6 +119496,7 @@ gvY
 ael
 aeJ
 ohd
+<<<<<<< HEAD
 bAZ
 bAZ
 bpr
@@ -119180,11 +119506,23 @@ bpr
 bpr
 bAZ
 bAZ
+=======
+ckP
+ckP
+bDy
+bDy
+ckP
+bDy
+bDy
+ckP
+ckP
+>>>>>>> upstream/master
 bnA
 rLr
 bXB
 bnA
 bpr
+<<<<<<< HEAD
 aZi
 aZi
 aZi
@@ -119202,6 +119540,25 @@ aZi
 aZi
 aZi
 aZi
+=======
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+bpr
+bnA
+bpr
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+>>>>>>> upstream/master
 bpr
 bnA
 aSH
@@ -119419,6 +119776,7 @@ aSH
 bXB
 bnA
 bpr
+<<<<<<< HEAD
 aZi
 aZi
 aZi
@@ -119436,6 +119794,25 @@ aZi
 aZi
 aZi
 aZi
+=======
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+bpr
+ohd
+bpr
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+>>>>>>> upstream/master
 bpr
 ohd
 aSH
@@ -119647,12 +120024,17 @@ skZ
 avT
 avT
 agJ
+<<<<<<< HEAD
 bAZ
+=======
+ckP
+>>>>>>> upstream/master
 bnA
 aSH
 bXB
 bnA
 bAZ
+<<<<<<< HEAD
 aZi
 aZi
 aZi
@@ -119670,6 +120052,25 @@ aZi
 aZi
 aZi
 aZi
+=======
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+bAZ
+bnA
+bAZ
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+>>>>>>> upstream/master
 bAZ
 bnA
 cYZ
@@ -119887,6 +120288,7 @@ rLr
 bXB
 ohd
 bAZ
+<<<<<<< HEAD
 aZi
 aZi
 aZi
@@ -119904,6 +120306,25 @@ aZi
 aZi
 aZi
 aZi
+=======
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+bAZ
+bnA
+bAZ
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+>>>>>>> upstream/master
 bAZ
 bnA
 ohd
@@ -120115,12 +120536,17 @@ asZ
 diM
 diM
 atX
+<<<<<<< HEAD
 bAZ
+=======
+ckP
+>>>>>>> upstream/master
 bnA
 aSH
 bXB
 bnA
 bAZ
+<<<<<<< HEAD
 aZi
 aZi
 aZi
@@ -120138,6 +120564,25 @@ aZi
 aZi
 aZi
 aZi
+=======
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+bAZ
+bnA
+bAZ
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+>>>>>>> upstream/master
 bAZ
 bjV
 bkP
@@ -120355,6 +120800,7 @@ gGk
 aie
 bnA
 bpr
+<<<<<<< HEAD
 aZi
 aZi
 aZi
@@ -120372,6 +120818,25 @@ aZi
 aZi
 aZi
 aZi
+=======
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+bpr
+ohd
+bpr
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+>>>>>>> upstream/master
 bpr
 sAr
 brj
@@ -120575,6 +121040,7 @@ fdL
 bfW
 qXN
 bnA
+<<<<<<< HEAD
 bAZ
 bAZ
 bpr
@@ -120584,11 +121050,23 @@ bpr
 bpr
 bAZ
 bAZ
+=======
+ckP
+ckP
+bDy
+bDy
+ckP
+bDy
+bDy
+ckP
+ckP
+>>>>>>> upstream/master
 bYN
 iaj
 bnA
 ohd
 bpr
+<<<<<<< HEAD
 aZi
 aZi
 aZi
@@ -120606,6 +121084,25 @@ aZi
 aZi
 aZi
 aZi
+=======
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+bpr
+bnA
+bpr
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+rJC
+>>>>>>> upstream/master
 bpr
 vQv
 mQf

@@ -2487,7 +2487,11 @@
 /turf/open/ground/grass/grass2,
 /area/vapor_processing/south_compound)
 "nc" = (
+<<<<<<< HEAD
 /obj/machinery/mecha_part_fabricator,
+=======
+/obj/structure/prop/mainship/research/mechafab,
+>>>>>>> upstream/master
 /obj/structure/cable,
 /turf/open/floor,
 /area/lv624/lazarus/research)

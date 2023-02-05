@@ -916,6 +916,7 @@
 	item_state = "robot_armor_heavy"
 	soft_armor = list(MELEE = 50, BULLET = 70, LASER = 70, ENERGY = 55, BOMB = 50, BIO = 50, FIRE = 50, ACID = 60)
 	slowdown = 0.7
+<<<<<<< HEAD
 
 /obj/item/clothing/suit/storage/marine/harness/cowboy
 	name = "reinforced leather jacket with webbing"
@@ -936,3 +937,5 @@
 		slot_r_hand_str = 'icons/mob/items_righthand_1.dmi',
 	)
 	flags_item_map_variant = NONE
+=======
+>>>>>>> upstream/master

@@ -11,6 +11,12 @@
 #define MAP_RESEARCH_OUTPOST "Research Outpost"
 #define MAP_WHISKEY_OUTPOST "Whiskey Outpost"
 #define MAP_MAGMOOR_DIGSITE "Magmoor Digsite IV"
+<<<<<<< HEAD
+=======
+#define MAP_CHIGUSA "Chigusa"
+#define MAP_GELIDA_IV "Gelida IV"
+#define MAP_DELTA_STATION "Delta Station"
+>>>>>>> upstream/master
 
 #define MAP_PILLAR_OF_SPRING "Pillar of Spring"
 #define MAP_SULACO "Sulaco"

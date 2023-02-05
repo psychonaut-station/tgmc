@@ -151,7 +151,11 @@ These act as a respawn mechanic growning a body and offering it up to ghosts.
 		return
 
 	if(timerid || occupant) // You need to stop the process or remove the human first.
+<<<<<<< HEAD
 		to_chat(user, span_notice("You can't get to the beaker while the machine growing a clone."))
+=======
+		to_chat(user, span_notice("You can't get to the beaker while the machine is growing a clone."))
+>>>>>>> upstream/master
 		return
 
 	beaker.forceMove(drop_location())

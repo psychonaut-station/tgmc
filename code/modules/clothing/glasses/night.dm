@@ -62,6 +62,7 @@
 	actions_types = list(/datum/action/item_action/toggle)
 	vision_flags = SEE_TURFS
 
+<<<<<<< HEAD
 /obj/item/clothing/glasses/night/imager_goggles
 	name = "optical imager goggles"
 	desc = "Uses image scanning to increase visibility of even the most dimly lit surroundings except total darkness"
@@ -71,6 +72,8 @@
 	toggleable = TRUE
 	actions_types = list(/datum/action/item_action/toggle)
 
+=======
+>>>>>>> upstream/master
 /obj/item/clothing/glasses/night/optgoggles
 	name = "\improper Optical imager ballistic goggles"
 	desc = "Standard issue TGMC goggles. This pair has been fitted with an internal optical imaging scanner."
@@ -85,6 +88,7 @@
 	flags_equip_slot = ITEM_SLOT_EYES
 	goggles = TRUE
 
+<<<<<<< HEAD
 /obj/item/clothing/glasses/night/imager_goggles/sunglasses
 	name = "\improper Optical imager sunglasses"
 	desc = "A pair of designer sunglasses. This pair has been fitted with an internal optical imager scanner."
@@ -95,10 +99,13 @@
 	sprite_sheets = list("Combat Robot" = 'icons/mob/species/robot/glasses.dmi')
 	prescription = TRUE
 
+=======
+>>>>>>> upstream/master
 /obj/item/clothing/glasses/night/optgoggles/prescription
 	name = "\improper Optical imager prescription ballistic goggles"
 	desc = "Standard issue TGMC prescription goggles. This pair has been fitted with an internal optical imaging scanner."
 	prescription = TRUE
+<<<<<<< HEAD
 
 /obj/item/clothing/glasses/night/imager_goggles/eyepatch
 	name = "\improper Meson eyepatch"
@@ -106,3 +113,5 @@
 	icon_state = "optpatch"
 	deactive_state = "degoggles_medpatch"
 	toggleable = TRUE
+=======
+>>>>>>> upstream/master

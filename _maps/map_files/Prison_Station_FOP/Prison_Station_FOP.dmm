@@ -650,6 +650,7 @@
 	},
 /area/prison/research/secret/biolab)
 "adM" = (
+<<<<<<< HEAD
 /obj/structure/disposalpipe/segment/corner{
 	dir = 4
 	},
@@ -657,6 +658,11 @@
 	dir = 4
 	},
 /area/prison/research/secret/biolab)
+=======
+/obj/structure/window/framed/mainship/escapeshuttle/prison,
+/turf/open/floor/plating,
+/area/prison/hangar/main)
+>>>>>>> upstream/master
 "adN" = (
 /obj/structure/window/framed/prison/reinforced/hull,
 /obj/structure/disposalpipe/segment{
@@ -1076,11 +1082,14 @@
 "aeZ" = (
 /turf/closed/wall/r_wall/prison_unmeltable,
 /area/prison/research/secret/bioengineering)
+<<<<<<< HEAD
 "afa" = (
 /obj/structure/window/framed/prison/reinforced/hull,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/prison/research/secret/bioengineering)
+=======
+>>>>>>> upstream/master
 "afb" = (
 /obj/structure/window/framed/prison/reinforced/hull,
 /turf/open/floor/plating,
@@ -14138,7 +14147,11 @@
 /area/prison/hallway/staff)
 "aRz" = (
 /obj/structure/showcase/coinpress{
+<<<<<<< HEAD
 	desc = "A stand with a plastic display of some kind of weird machine.";
+=======
+	desc = "A stand with a plastic display of some kind of weird machine."
+>>>>>>> upstream/master
 	},
 /turf/open/floor/wood,
 /area/prison/hallway/staff)
@@ -28182,7 +28195,11 @@
 /turf/open/floor/plating,
 /area/prison/maintenance/hangar_barracks)
 "bJz" = (
+<<<<<<< HEAD
 /turf/closed/shuttle/escapeshuttle,
+=======
+/turf/closed/shuttle/escapeshuttle/prison,
+>>>>>>> upstream/master
 /area/prison/hangar/main)
 "bJA" = (
 /obj/structure/bookcase,
@@ -38944,11 +38961,14 @@
 	dir = 4
 	},
 /area/prison/cellblock/mediumsec/east)
+<<<<<<< HEAD
 "csO" = (
 /obj/structure/window/framed/prison/reinforced/hull,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/prison/disposal)
+=======
+>>>>>>> upstream/master
 "csP" = (
 /obj/structure/window/framed/prison/reinforced/hull,
 /turf/open/floor/plating,
@@ -40901,11 +40921,14 @@
 /obj/machinery/miner/damaged,
 /turf/open/floor/wood,
 /area/prison/recreation/staff)
+<<<<<<< HEAD
 "cEC" = (
 /turf/open/floor{
 	icon_state = "asteroid"
 	},
 /area/prison/residential/central)
+=======
+>>>>>>> upstream/master
 "cFh" = (
 /obj/machinery/door/poddoor/timed_late/containment/landing_zone/lz2{
 	dir = 2
@@ -42393,7 +42416,11 @@
 /area/prison/hangar/main)
 "gSs" = (
 /obj/effect/attach_point/weapon/dropship1{
+<<<<<<< HEAD
 	dir = 8;
+=======
+	dir = 8
+>>>>>>> upstream/master
 	},
 /turf/open/floor/plating/icefloor/warnplate{
 	dir = 8
@@ -48431,7 +48458,11 @@
 /area/prison/hallway/central)
 "xgV" = (
 /obj/effect/attach_point/weapon/dropship1{
+<<<<<<< HEAD
 	dir = 8;
+=======
+	dir = 8
+>>>>>>> upstream/master
 	},
 /turf/open/floor/plating/icefloor/warnplate{
 	dir = 8
@@ -56154,7 +56185,11 @@ gZL
 bkL
 xwG
 xwG
+<<<<<<< HEAD
 cEC
+=======
+xwG
+>>>>>>> upstream/master
 xwG
 bkL
 cSJ
@@ -89222,7 +89257,11 @@ acF
 acX
 adr
 adA
+<<<<<<< HEAD
 adM
+=======
+aeI
+>>>>>>> upstream/master
 aek
 aeI
 ksL
@@ -91024,7 +91063,11 @@ aab
 aab
 aab
 aqK
+<<<<<<< HEAD
 afa
+=======
+afb
+>>>>>>> upstream/master
 afo
 afo
 agm
@@ -94246,7 +94289,11 @@ cqi
 cqi
 cry
 csd
+<<<<<<< HEAD
 csO
+=======
+csP
+>>>>>>> upstream/master
 bYF
 bYG
 aab
@@ -109627,17 +109674,29 @@ aXt
 bAP
 bBT
 bJz
+<<<<<<< HEAD
 bMQ
 bJz
 bMQ
+=======
+adM
+bJz
+adM
+>>>>>>> upstream/master
 bJz
 bJz
 bJz
 bJz
 bJz
+<<<<<<< HEAD
 bMQ
 bJz
 bMQ
+=======
+adM
+bJz
+adM
+>>>>>>> upstream/master
 bJz
 aab
 aab
@@ -109883,7 +109942,11 @@ eJX
 obp
 bAP
 bBT
+<<<<<<< HEAD
 bMQ
+=======
+adM
+>>>>>>> upstream/master
 bDj
 bGh
 bDj
@@ -109895,7 +109958,11 @@ bDj
 bDj
 bGh
 bDj
+<<<<<<< HEAD
 bMQ
+=======
+adM
+>>>>>>> upstream/master
 adO
 adO
 bHd
@@ -110140,7 +110207,11 @@ bnQ
 obp
 bAP
 bBT
+<<<<<<< HEAD
 bMQ
+=======
+adM
+>>>>>>> upstream/master
 bDk
 bDk
 bDk
@@ -110152,7 +110223,11 @@ bDk
 bDk
 bDk
 bDk
+<<<<<<< HEAD
 bMQ
+=======
+adM
+>>>>>>> upstream/master
 bDE
 btd
 btd
@@ -110397,7 +110472,11 @@ bnQ
 obp
 bAP
 bBT
+<<<<<<< HEAD
 bMQ
+=======
+adM
+>>>>>>> upstream/master
 bDl
 bGh
 bDl
@@ -110409,7 +110488,11 @@ bDl
 bDl
 bGh
 bDl
+<<<<<<< HEAD
 bMQ
+=======
+adM
+>>>>>>> upstream/master
 adO
 adO
 adO
@@ -110655,17 +110738,29 @@ aXt
 bAP
 bBT
 bJz
+<<<<<<< HEAD
 bMQ
 bGi
 bMQ
+=======
+adM
+bGi
+adM
+>>>>>>> upstream/master
 bJz
 bJz
 bJz
 bJz
 bJz
+<<<<<<< HEAD
 bMQ
 bGi
 bMQ
+=======
+adM
+bGi
+adM
+>>>>>>> upstream/master
 bJz
 aab
 aab

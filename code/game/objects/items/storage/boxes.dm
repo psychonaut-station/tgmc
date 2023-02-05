@@ -369,10 +369,17 @@
 	name = "\improper M40 FLDP flare pack"
 	desc = "A packet of seven M40 FLDP Flares. Carried by TGMC soldiers to light dark areas that cannot be reached with the usual TNR Shoulder Lamp. Can be launched from an underslung grenade launcher."
 	icon_state = "m40"
+<<<<<<< HEAD
 	w_class = WEIGHT_CLASS_NORMAL
 	max_storage_space = 14
 	spawn_type = /obj/item/explosive/grenade/flare
 	spawn_number = 7
+=======
+	w_class = WEIGHT_CLASS_SMALL
+	max_storage_space = 14
+	spawn_type = /obj/item/explosive/grenade/flare
+	spawn_number = 14
+>>>>>>> upstream/master
 
 /obj/item/storage/box/m94/update_icon()
 	icon_state = initial(icon_state)

@@ -137,7 +137,11 @@
 	if(secondary_unarmed_type)
 		secondary_unarmed = new secondary_unarmed_type()
 	if(species_flags & GREYSCALE_BLOOD)
+<<<<<<< HEAD
 		brute_damage_icon_state = "greyscale"
+=======
+		brute_damage_icon_state = "grayscale"
+>>>>>>> upstream/master
 
 /datum/species/proc/create_organs(mob/living/carbon/human/organless_human) //Handles creation of mob organs and limbs.
 
@@ -398,6 +402,10 @@ GLOBAL_VAR_INIT(join_as_robot_allowed, TRUE)
 	brute_damage_icon_state = "robot_brute"
 	burn_damage_icon_state = "robot_burn"
 	eyes = "blank_eyes"
+<<<<<<< HEAD
+=======
+	default_language_holder = /datum/language_holder/robot
+>>>>>>> upstream/master
 	namepool = /datum/namepool/robotic
 
 	unarmed_type = /datum/unarmed_attack/punch/strong

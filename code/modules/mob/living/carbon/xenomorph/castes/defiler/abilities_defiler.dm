@@ -98,6 +98,12 @@
 /datum/action/xeno_action/activable/defile/use_ability(atom/A)
 	var/mob/living/carbon/xenomorph/X = owner
 	var/mob/living/carbon/living_target = A
+<<<<<<< HEAD
+=======
+	if(living_target.status_flags & GODMODE)
+		owner.balloon_alert(owner, "Cannot defile")
+		return fail_activate()
+>>>>>>> upstream/master
 	X.face_atom(living_target)
 	if(!do_after(X, DEFILER_DEFILE_CHANNEL_TIME, TRUE, living_target, BUSY_ICON_HOSTILE))
 		add_cooldown(DEFILER_DEFILE_FAIL_COOLDOWN)
@@ -190,16 +196,27 @@
 
 	X.emitting_gas = TRUE //We gain bump movement immunity while we're emitting gas.
 
+<<<<<<< HEAD
 	X.icon_state = "Defiler Power Up"
+=======
+	X.icon_state = "[X.xeno_caste.caste_name][X.is_a_rouny ? " rouny" : ""] Power Up"
+>>>>>>> upstream/master
 
 	if(!do_after(X, DEFILER_GAS_CHANNEL_TIME, TRUE, null, BUSY_ICON_HOSTILE))
 		if(!QDELETED(src))
 			to_chat(X, span_xenodanger("We abort emitting fumes, our expended plasma resulting in nothing."))
 			X.emitting_gas = FALSE
+<<<<<<< HEAD
 			X.icon_state = "Defiler Running"
 			return fail_activate()
 	X.emitting_gas = FALSE
 	X.icon_state = "Defiler Running"
+=======
+			X.icon_state = "[X.xeno_caste.caste_name][X.is_a_rouny ? " rouny" : ""] Running"
+			return fail_activate()
+	X.emitting_gas = FALSE
+	X.icon_state = "[X.xeno_caste.caste_name][X.is_a_rouny ? " rouny" : ""] Running"
+>>>>>>> upstream/master
 
 	add_cooldown()
 	succeed_activate()
