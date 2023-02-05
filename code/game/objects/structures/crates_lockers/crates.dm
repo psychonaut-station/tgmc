@@ -331,8 +331,6 @@
 	icon_state = "closed_mcart_y"
 	icon_opened = "open_mcart_y"
 	icon_closed = "closed_mcart_y"
-<<<<<<< HEAD
-=======
 
 /obj/structure/closet/crate/mass_produced_crate
 	name = "Mass Produced Crate"
@@ -415,4 +413,3 @@
 	icon_state = "closed_weapons"
 	icon_opened = "open_weapons"
 	icon_closed = "closed_weapons"
->>>>>>> upstream/master

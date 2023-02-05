@@ -27,11 +27,7 @@
 /area/bigredv2/outside/dorms)
 "aY" = (
 /obj/machinery/light{
-<<<<<<< HEAD
-	dir = 1;
-=======
 	dir = 1
->>>>>>> upstream/master
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor,
@@ -46,12 +42,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/simple/green/hidden,
 /obj/item/trash/chunk,
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "dI" = (
 /obj/machinery/atmospherics/pipe/simple/green/hidden{
@@ -77,12 +68,7 @@
 "iV" = (
 /obj/machinery/atmospherics/components/unary/vent_pump,
 /obj/effect/decal/cleanable/blood/gibs/limb,
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "jz" = (
 /obj/item/reagent_containers/food/drinks/bottle/absinthe,
@@ -93,12 +79,7 @@
 /obj/machinery/atmospherics/pipe/simple/green/hidden{
 	dir = 9
 	},
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "mI" = (
 /obj/structure/bed/chair,
@@ -117,12 +98,7 @@
 /obj/machinery/atmospherics/pipe/simple/green/hidden{
 	dir = 6
 	},
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "pF" = (
 /obj/structure/table,
@@ -146,21 +122,11 @@
 /area/bigredv2/outside/dorms)
 "tW" = (
 /obj/item/megaphone,
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-/area/bigredv2/outside/dorms)
-"up" = (
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
 /area/bigredv2/outside/dorms)
 "up" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "uE" = (
 /obj/structure/table,
@@ -188,12 +154,7 @@
 /obj/machinery/atmospherics/pipe/manifold/green/hidden{
 	dir = 8
 	},
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "AW" = (
 /obj/structure/table,
@@ -202,12 +163,7 @@
 /area/bigredv2/outside/dorms)
 "BF" = (
 /obj/item/trash/chunk,
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "BU" = (
 /obj/machinery/power/apc{
@@ -235,11 +191,7 @@
 /area/bigredv2/outside/dorms)
 "EO" = (
 /obj/machinery/light{
-<<<<<<< HEAD
-	dir = 1;
-=======
 	dir = 1
->>>>>>> upstream/master
 	},
 /turf/open/floor,
 /area/bigredv2/outside/dorms)
@@ -248,12 +200,7 @@
 /obj/item/trash/chunk{
 	pixel_y = 5
 	},
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "FW" = (
 /obj/structure/bed/chair{
@@ -269,12 +216,7 @@
 	pixel_y = 4
 	},
 /obj/item/reagent_containers/food/drinks/bottle/rum,
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "Hb" = (
 /obj/machinery/vending/cigarette/colony,
@@ -284,16 +226,8 @@
 /turf/open/floor,
 /area/bigredv2/outside/dorms)
 "Hf" = (
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/blood{
-	icon_state = "xgib4"
-	},
-/turf/open/floor/grimy{
-	},
-=======
 /obj/effect/decal/cleanable/blood/gibs/xeno/up,
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "Ii" = (
 /obj/machinery/atmospherics/pipe/simple/green/hidden{
@@ -312,16 +246,6 @@
 /turf/open/floor,
 /area/bigredv2/outside/dorms)
 "Ji" = (
-<<<<<<< HEAD
-/obj/machinery/alarm{
-	dir = 1;
-	icon_state = "alarm0";
-	pixel_y = -30
-	},
-/obj/machinery/atmospherics/pipe/simple/green/hidden{
-	dir = 8
-	},
-=======
 /obj/machinery/atmospherics/pipe/simple/green/hidden{
 	dir = 8
 	},
@@ -329,20 +253,13 @@
 	dir = 1;
 	pixel_y = -30
 	},
->>>>>>> upstream/master
 /turf/open/floor,
 /area/bigredv2/outside/dorms)
 "Jn" = (
 /obj/machinery/atmospherics/pipe/simple/green/hidden{
 	dir = 8
 	},
-<<<<<<< HEAD
-/obj/machinery/vending/snack{
-	icon_state = "snack-broken"
-	},
-=======
 /obj/structure/prop/tgbrokenvendor/snackbrokebed,
->>>>>>> upstream/master
 /turf/open/floor,
 /area/bigredv2/outside/dorms)
 "Kj" = (
@@ -361,12 +278,7 @@
 	pixel_y = -4
 	},
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "Nk" = (
 /obj/machinery/atmospherics/pipe/manifold/green/hidden,
@@ -375,12 +287,7 @@
 "NO" = (
 /obj/machinery/atmospherics/pipe/simple/green/hidden,
 /obj/effect/decal/cleanable/dirt,
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "Pr" = (
 /obj/machinery/atmospherics/pipe/simple/green/hidden,
@@ -399,12 +306,7 @@
 /turf/open/floor,
 /area/bigredv2/outside/dorms)
 "Xw" = (
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 "Yz" = (
 /obj/structure/table,
@@ -417,20 +319,6 @@
 /obj/machinery/atmospherics/pipe/simple/green/hidden{
 	dir = 8
 	},
-<<<<<<< HEAD
-/turf/open/floor/grimy{
-	},
-/area/bigredv2/outside/dorms)
-"Zn" = (
-/obj/item/reagent_containers/food/drinks/bottle/rum,
-/turf/open/floor/grimy{
-	},
-/area/bigredv2/outside/dorms)
-"ZZ" = (
-/obj/machinery/vending/boozeomat,
-/turf/open/floor/grimy{
-	},
-=======
 /turf/open/floor/grimy,
 /area/bigredv2/outside/dorms)
 "Zn" = (
@@ -440,7 +328,6 @@
 "ZZ" = (
 /obj/machinery/vending/boozeomat,
 /turf/open/floor/grimy,
->>>>>>> upstream/master
 /area/bigredv2/outside/dorms)
 
 (1,1,1) = {"

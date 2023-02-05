@@ -21,20 +21,14 @@
 	var/mob/living/carbon/human/occupant
 	///Animated cockpit /image overlay, 96x96
 	var/image/cockpit
-<<<<<<< HEAD
-=======
 	/// Whether CAS is usable or not.
 	var/cas_usable
->>>>>>> upstream/master
 
 /obj/structure/caspart/caschair/Initialize()
 	. = ..()
 	set_cockpit_overlay("cockpit_closed")
 	RegisterSignal(SSdcs, COMSIG_GLOB_CAS_LASER_CREATED, .proc/receive_laser_cas)
-<<<<<<< HEAD
-=======
 	RegisterSignal(SSdcs, list(COMSIG_GLOB_OPEN_TIMED_SHUTTERS_LATE, COMSIG_GLOB_OPEN_TIMED_SHUTTERS_XENO_HIVEMIND, COMSIG_GLOB_OPEN_SHUTTERS_EARLY, COMSIG_GLOB_TADPOLE_LAUNCHED), .proc/cas_usable)
->>>>>>> upstream/master
 
 /obj/structure/caspart/caschair/Destroy()
 	owner?.chair = null
@@ -51,8 +45,6 @@
 	if(occupant)
 		to_chat(occupant, span_notice("CAS laser detected. Target: [AREACOORD_NO_Z(incoming_laser)]"))
 
-<<<<<<< HEAD
-=======
 /obj/structure/caspart/caschair/proc/cas_usable(datum/source)
 	SIGNAL_HANDLER
 	UnregisterSignal(SSdcs, list(COMSIG_GLOB_OPEN_TIMED_SHUTTERS_LATE, COMSIG_GLOB_OPEN_TIMED_SHUTTERS_XENO_HIVEMIND, COMSIG_GLOB_OPEN_SHUTTERS_EARLY, COMSIG_GLOB_TADPOLE_LAUNCHED))
@@ -60,7 +52,6 @@
 	if(occupant)
 		to_chat(occupant, span_notice("Combat initiated, CAS now available."))
 
->>>>>>> upstream/master
 ///Handles updating the cockpit overlay
 /obj/structure/caspart/caschair/proc/set_cockpit_overlay(new_state)
 	cut_overlays()
@@ -452,12 +443,9 @@
 
 	switch(action)
 		if("launch")
-<<<<<<< HEAD
-=======
 			if(!cas_usable)
 				to_chat(usr, "<span class='warning'>Combat has not yet initiated, CAS unavailable.")
 				return
->>>>>>> upstream/master
 			if(owner.state == PLANE_STATE_FLYING || owner.mode != SHUTTLE_IDLE)
 				return
 			if(owner.fuel_left <= LOW_FUEL_THRESHOLD)

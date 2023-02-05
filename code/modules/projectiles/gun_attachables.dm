@@ -422,19 +422,12 @@ inaccurate. Don't worry if force is ever negative, it won't runtime.
 
 /obj/item/attachable/heavy_barrel
 	name = "barrel charger"
-<<<<<<< HEAD
-	desc = "A fitted barrel extender that goes on the muzzle, with a small shaped charge that propels a bullet much faster.\nGreatly increases projectile speed."
-=======
 	desc = "A fitted barrel extender that goes on the muzzle, with a small shaped charge that propels a bullet much faster.\nGreatly increases projectile speed and reduces damage falloff."
->>>>>>> upstream/master
 	slot = ATTACHMENT_SLOT_MUZZLE
 	icon_state = "hbarrel"
 	attach_shell_speed_mod = 2
 	accuracy_mod = -0.05
-<<<<<<< HEAD
-=======
 	damage_falloff_mod = -0.2
->>>>>>> upstream/master
 
 
 /obj/item/attachable/compensator
@@ -585,22 +578,6 @@ inaccurate. Don't worry if force is ever negative, it won't runtime.
 
 	if(ismob(master_gun.loc) && !user)
 		user = master_gun.loc
-<<<<<<< HEAD
-	if(!toggle_on && light_on)
-		icon_state = initial(icon_state)
-		master_gun.set_light_range(0)
-		master_gun.set_light_power(0)
-		master_gun.set_light_on(FALSE)
-		light_on = FALSE
-		REMOVE_TRAIT(master_gun, TRAIT_GUN_FLASHLIGHT_ON, GUN_TRAIT)
-	else if(toggle_on & !light_on)
-		icon_state = initial(icon_state) +"_on"
-		master_gun.set_light_range(light_mod)
-		master_gun.set_light_power(3)
-		master_gun.set_light_on(TRUE)
-		light_on = TRUE
-		ADD_TRAIT(master_gun, TRAIT_GUN_FLASHLIGHT_ON, GUN_TRAIT)
-=======
 
 	if(!toggle_on && light_on)
 		icon_state = initial(icon_state)
@@ -618,7 +595,6 @@ inaccurate. Don't worry if force is ever negative, it won't runtime.
 		if(!HAS_TRAIT(master_gun, TRAIT_GUN_FLASHLIGHT_ON))
 			master_gun.set_light_on(TRUE)
 			ADD_TRAIT(master_gun, TRAIT_GUN_FLASHLIGHT_ON, GUN_TRAIT)
->>>>>>> upstream/master
 	else
 		return
 

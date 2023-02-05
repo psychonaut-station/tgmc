@@ -50,8 +50,6 @@
 	default_ammo = /datum/ammo/bullet/rifle/heavy
 	reload_delay = 1 SECONDS
 
-<<<<<<< HEAD
-=======
 /obj/item/ammo_magazine/standard_agls
 	name = "AGLS-37 box magazine (40mm Caseless)"
 	desc = "A box holding 30 40mm caseless HE grenades for the AGLS-37 automatic grenade launcher."
@@ -70,7 +68,6 @@
 	icon_state = "ags_mag_frag"
 	default_ammo = /datum/ammo/ags_shrapnel
 
->>>>>>> upstream/master
 /obj/item/ammo_magazine/standard_atgun
 	name = "AT-36 AP-HE shell (37mm Shell)"
 	desc = "A 37mm shell for light anti tank guns. Will penetrate walls and fortifications, before hitting a target and exploding, has less payload and punch than usual rounds."
@@ -117,14 +114,14 @@
 /obj/item/ammo_magazine/dual_cannon
 	name = "dualcannon IFF Magazine(20mm)"
 	desc = "A box of 150 20mm rounds for the ATR-22 mounted dualcannon."
-	w_class = WEIGHT_CLASS_BULKY
+	w_class = WEIGHT_CLASS_NORMAL
 	icon = 'icons/Marine/marine-hmg.dmi'
 	icon_state = "ac_mag"
 	flags_magazine = NONE
 	caliber = CALIBER_20
-	max_rounds = 150
+	max_rounds = 80
 	default_ammo = /datum/ammo/bullet/dual_cannon
-	reload_delay = 5 SECONDS
+	reload_delay = 4 SECONDS
 
 /obj/item/ammo_magazine/heavy_laser
 	name = "heavy-duty weapon laser cell"

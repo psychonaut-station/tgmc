@@ -17,13 +17,10 @@
 /obj/effect/turf_decal/sandytile/sandyplating,
 /turf/closed/wall,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "dA" = (
 /obj/item/storage/belt/champion,
 /turf/open/floor/grime,
 /area/deathmatch)
->>>>>>> upstream/master
 "dB" = (
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/plating/asteroidplating,
@@ -41,12 +38,7 @@
 /area/deathmatch)
 "fF" = (
 /obj/structure/rack,
-<<<<<<< HEAD
-/obj/effect/spawner/random/plushie/nospawnninetyfive{
-	},
-=======
 /obj/effect/spawner/random/plushie/nospawnninetyfive,
->>>>>>> upstream/master
 /turf/open/floor/plating/asteroidplating,
 /area/deathmatch)
 "hw" = (
@@ -86,14 +78,11 @@
 /obj/machinery/door/poddoor/railing,
 /turf/open/floor/plating/asteroidfloor,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "jU" = (
 /obj/structure/window/framed/mainship/hull,
 /obj/structure/window/framed/wood,
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "kh" = (
 /obj/structure/cargo_container/nt,
 /turf/open/floor/plating/asteroidplating,
@@ -106,8 +95,6 @@
 /obj/structure/cargo_container/nt,
 /turf/open/floor/plating/ground/mars/random/sand,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "nk" = (
 /obj/machinery/door/window{
 	dir = 8
@@ -115,7 +102,6 @@
 /obj/effect/ai_node,
 /turf/open/floor/grime,
 /area/deathmatch)
->>>>>>> upstream/master
 "nt" = (
 /obj/structure/ore_box,
 /turf/open/floor/plating/ground/mars/dirttosand{
@@ -148,14 +134,11 @@
 /obj/structure/largecrate,
 /turf/open/floor/plating/ground/mars/random/sand,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "qF" = (
 /obj/structure/window/framed/mainship/hull,
 /obj/structure/window/framed/wood,
 /turf/open/floor/mainship/mono,
 /area/deathmatch)
->>>>>>> upstream/master
 "rv" = (
 /obj/machinery/door/poddoor/railing,
 /turf/open/floor/plating/asteroidplating,
@@ -219,12 +202,9 @@
 	},
 /turf/open/floor/plating/ground/mars/random/sand,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "ww" = (
 /turf/closed/wall/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "wH" = (
 /obj/machinery/door/poddoor/railing{
 	dir = 1
@@ -253,14 +233,11 @@
 	},
 /turf/open/floor/plating/ground/mars/random/dirt,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "zB" = (
 /obj/structure/window/framed/mainship/requisitions,
 /obj/structure/window/framed/wood,
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "zQ" = (
 /obj/structure/ore_box,
 /turf/open/floor/plating/ground/mars/random/dirt,
@@ -314,13 +291,10 @@
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/plating/ground/mars/random/sand,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "Gz" = (
 /obj/machinery/door/window/right,
 /turf/open/floor/grime,
 /area/deathmatch)
->>>>>>> upstream/master
 "GJ" = (
 /obj/machinery/door/poddoor/railing{
 	dir = 8
@@ -329,13 +303,10 @@
 	dir = 8
 	},
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "HV" = (
 /obj/structure/window/framed/wood,
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "Ip" = (
 /turf/open/floor/plating/ground/mars/dirttosand,
 /area/deathmatch)
@@ -348,12 +319,9 @@
 /obj/structure/ore_box,
 /turf/open/floor/plating/asteroidplating,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "JT" = (
 /turf/open/floor/grime,
 /area/deathmatch)
->>>>>>> upstream/master
 "JW" = (
 /obj/machinery/door/poddoor/railing{
 	dir = 8
@@ -459,13 +427,6 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/deathmatch)
 "VQ" = (
-<<<<<<< HEAD
-/obj/structure/cargo_container/ch_red{
-	layer = 5
-	},
-/turf/open/floor/plating/ground/mars/random/sand,
-/area/deathmatch)
-=======
 /obj/structure/cargo_container/ch_red,
 /turf/open/floor/plating/ground/mars/random/sand,
 /area/deathmatch)
@@ -473,7 +434,6 @@
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/grime,
 /area/deathmatch)
->>>>>>> upstream/master
 "Wa" = (
 /obj/machinery/door/poddoor/railing{
 	dir = 8
@@ -522,12 +482,7 @@
 /area/deathmatch)
 "ZA" = (
 /obj/structure/table/reinforced,
-<<<<<<< HEAD
-/obj/effect/spawner/random/plushie/nospawnninetyfive{
-	},
-=======
 /obj/effect/spawner/random/plushie/nospawnninetyfive,
->>>>>>> upstream/master
 /turf/open/floor/plating/asteroidfloor,
 /area/deathmatch)
 "ZH" = (
@@ -1251,15 +1206,6 @@ KZ
 KZ
 bi
 sr
-<<<<<<< HEAD
-bi
-bi
-bi
-bi
-bi
-bi
-bi
-=======
 ww
 HV
 HV
@@ -1267,7 +1213,6 @@ nk
 qF
 qF
 ww
->>>>>>> upstream/master
 sr
 bi
 bi
@@ -1309,15 +1254,6 @@ XY
 XY
 Jf
 KZ
-<<<<<<< HEAD
-od
-od
-od
-od
-od
-bi
-bi
-=======
 zB
 VU
 JT
@@ -1325,7 +1261,6 @@ JT
 JT
 VU
 jU
->>>>>>> upstream/master
 bi
 bi
 bi
@@ -1367,15 +1302,6 @@ XY
 XY
 dj
 dj
-<<<<<<< HEAD
-od
-oH
-Mn
-My
-Fp
-bi
-bi
-=======
 zB
 JT
 JT
@@ -1383,7 +1309,6 @@ JT
 JT
 JT
 jU
->>>>>>> upstream/master
 bi
 bi
 bi
@@ -1425,15 +1350,6 @@ XY
 XY
 XY
 db
-<<<<<<< HEAD
-od
-Mn
-Mn
-Mn
-Fp
-sr
-bi
-=======
 zB
 JT
 JT
@@ -1441,7 +1357,6 @@ dA
 JT
 JT
 jU
->>>>>>> upstream/master
 bi
 bi
 bi
@@ -1483,15 +1398,6 @@ XY
 XY
 XY
 Ax
-<<<<<<< HEAD
-od
-od
-MV
-Mn
-od
-Jf
-KZ
-=======
 zB
 JT
 JT
@@ -1499,7 +1405,6 @@ JT
 JT
 JT
 jU
->>>>>>> upstream/master
 KZ
 bi
 bi
@@ -1541,15 +1446,6 @@ XY
 XY
 XY
 XY
-<<<<<<< HEAD
-XY
-od
-Mn
-Mn
-od
-od
-od
-=======
 zB
 VU
 JT
@@ -1557,7 +1453,6 @@ JT
 JT
 VU
 jU
->>>>>>> upstream/master
 od
 bi
 bi
@@ -1599,15 +1494,6 @@ od
 od
 od
 od
-<<<<<<< HEAD
-od
-od
-Fp
-Fp
-Fp
-Fp
-tf
-=======
 ww
 zB
 zB
@@ -1615,7 +1501,6 @@ Gz
 jU
 jU
 ww
->>>>>>> upstream/master
 od
 bi
 sr

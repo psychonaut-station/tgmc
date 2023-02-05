@@ -65,11 +65,7 @@
 
 #define STATUS_EFFECT_MUTED /datum/status_effect/mute //Mutes the affected mob
 
-<<<<<<< HEAD
-#define STATUS_EFFECT_IRRADIATED /datum/status_effect/irradiated //the affected has been irradiated, harming them over time
-=======
 #define STATUS_EFFECT_IRRADIATED /datum/status_effect/incapacitating/irradiated //the affected has been irradiated, harming them over time
->>>>>>> upstream/master
 
 #define STATUS_EFFECT_INTOXICATED /datum/status_effect/stacking/intoxicated //Damage over time
 

@@ -29,14 +29,11 @@
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/tile/dark,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "eJ" = (
 /obj/structure/window/framed/mainship/hull,
 /obj/structure/window/framed/wood,
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "eX" = (
 /obj/effect/landmark/weapon_spawn/tier4_weapon_spawn,
 /turf/open/floor/plating/ground/dirt,
@@ -50,12 +47,7 @@
 /turf/open/floor/tile/yellow/full,
 /area/deathmatch)
 "gY" = (
-<<<<<<< HEAD
-/obj/effect/spawner/random/plushie/nospawnninetynine{
-	},
-=======
 /obj/effect/spawner/random/plushie/nospawnninetynine,
->>>>>>> upstream/master
 /turf/open/floor/tile/dark,
 /area/deathmatch)
 "ht" = (
@@ -95,14 +87,11 @@
 /obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
 /turf/open/floor/tile,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "jH" = (
 /obj/structure/window/framed/mainship/hull,
 /obj/structure/window/framed/wood,
 /turf/open/floor/mainship/mono,
 /area/deathmatch)
->>>>>>> upstream/master
 "kz" = (
 /obj/structure/desertdam/decals/loose_sand_overlay/alt,
 /turf/open/floor/industrial,
@@ -122,14 +111,11 @@
 /obj/effect/ai_node,
 /turf/open/floor/industrial,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "mC" = (
 /obj/structure/window/framed/mainship/requisitions,
 /obj/structure/window/framed/wood,
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "mE" = (
 /obj/structure/largecrate/random/secure,
 /turf/open/floor/plating/ground/dirt,
@@ -212,8 +198,6 @@
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/tile,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "ry" = (
 /obj/machinery/door/window{
 	dir = 8
@@ -221,7 +205,6 @@
 /obj/effect/ai_node,
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "uf" = (
 /obj/structure/platform{
 	dir = 8
@@ -245,12 +228,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/deathmatch)
 "xb" = (
-<<<<<<< HEAD
-/obj/effect/spawner/random/plushie/nospawnninetyfive{
-	},
-=======
 /obj/effect/spawner/random/plushie/nospawnninetyfive,
->>>>>>> upstream/master
 /turf/open/floor/tile/yellow/full,
 /area/deathmatch)
 "xg" = (
@@ -270,12 +248,9 @@
 /obj/structure/desertdam/decals/loose_sand_overlay,
 /turf/open/floor/industrial,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "yV" = (
 /turf/closed/wall/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "yY" = (
 /obj/effect/landmark/weapon_spawn/tier1_weapon_spawn,
 /obj/effect/landmark/deathmatch,
@@ -296,8 +271,6 @@
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/tile/dark,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "Bg" = (
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/wood,
@@ -306,7 +279,6 @@
 /obj/item/storage/belt/champion,
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "BI" = (
 /obj/structure/stairs{
 	dir = 1
@@ -365,12 +337,9 @@
 /obj/structure/platform,
 /turf/open/floor/plating/ground/dirt,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "Ht" = (
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "HM" = (
 /obj/structure/stairs{
 	dir = 1
@@ -524,13 +493,10 @@
 	},
 /turf/open/floor/plating/ground/dirt,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "TF" = (
 /obj/structure/window/framed/wood,
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "Ua" = (
 /turf/open/floor/industrial,
 /area/deathmatch)
@@ -539,13 +505,10 @@
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/plating/ground/dirt,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "Uy" = (
 /obj/machinery/door/window/right,
 /turf/open/floor/wood,
 /area/deathmatch)
->>>>>>> upstream/master
 "WT" = (
 /obj/structure/platform{
 	dir = 8
@@ -1632,21 +1595,12 @@ LF
 hH
 FE
 FE
-<<<<<<< HEAD
-YD
-YD
-YD
-YD
-ez
-ez
-=======
 FE
 FE
 FE
 FE
 FE
 FE
->>>>>>> upstream/master
 FE
 Si
 Hh
@@ -1688,16 +1642,6 @@ zg
 FE
 FE
 FE
-<<<<<<< HEAD
-YD
-YD
-YD
-YD
-YD
-YD
-ez
-ez
-=======
 FE
 yV
 TF
@@ -1706,7 +1650,6 @@ ry
 jH
 jH
 yV
->>>>>>> upstream/master
 FE
 Hh
 FE
@@ -1747,16 +1690,6 @@ Sp
 FE
 hH
 FE
-<<<<<<< HEAD
-YD
-YD
-YD
-YD
-YD
-YD
-ez
-ez
-=======
 FE
 mC
 Bg
@@ -1765,7 +1698,6 @@ Ht
 Ht
 Bg
 eJ
->>>>>>> upstream/master
 FE
 Hh
 FE
@@ -1806,16 +1738,6 @@ YD
 YD
 Ii
 FE
-<<<<<<< HEAD
-YD
-YD
-YD
-YD
-YD
-YD
-ez
-ez
-=======
 FE
 mC
 Ht
@@ -1824,7 +1746,6 @@ Ht
 Ht
 Ht
 eJ
->>>>>>> upstream/master
 FE
 Hh
 FE
@@ -1865,16 +1786,6 @@ ez
 YD
 FE
 FE
-<<<<<<< HEAD
-YD
-YD
-YD
-YD
-YD
-YD
-ez
-ez
-=======
 FE
 mC
 Ht
@@ -1883,7 +1794,6 @@ Bt
 Ht
 Ht
 eJ
->>>>>>> upstream/master
 FE
 wG
 FE
@@ -1925,15 +1835,6 @@ YD
 FE
 FE
 FE
-<<<<<<< HEAD
-YD
-YD
-YD
-YD
-ez
-ez
-FE
-=======
 mC
 Ht
 Ht
@@ -1941,7 +1842,6 @@ Ht
 Ht
 Ht
 eJ
->>>>>>> upstream/master
 FE
 FE
 ZW
@@ -1983,15 +1883,6 @@ YD
 FE
 FE
 FE
-<<<<<<< HEAD
-FE
-FE
-Sh
-xg
-xg
-FE
-FE
-=======
 mC
 Bg
 Ht
@@ -1999,7 +1890,6 @@ Ht
 Ht
 Bg
 eJ
->>>>>>> upstream/master
 FE
 eX
 FE
@@ -2041,15 +1931,6 @@ YD
 hH
 Ii
 FE
-<<<<<<< HEAD
-hH
-FE
-FE
-FE
-FE
-hH
-FE
-=======
 yV
 mC
 mC
@@ -2057,7 +1938,6 @@ Uy
 eJ
 eJ
 yV
->>>>>>> upstream/master
 nM
 FE
 FE
@@ -2153,13 +2033,8 @@ FE
 FE
 FE
 FE
-<<<<<<< HEAD
-LF
-YD
-=======
 FE
 FE
->>>>>>> upstream/master
 YD
 YD
 YD
@@ -2208,11 +2083,7 @@ FE
 hH
 FE
 YD
-<<<<<<< HEAD
-ez
-=======
 YD
->>>>>>> upstream/master
 ez
 ez
 ez

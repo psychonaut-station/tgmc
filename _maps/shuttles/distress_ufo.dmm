@@ -3,32 +3,6 @@
 /turf/template_noop,
 /area/template_noop)
 "b" = (
-<<<<<<< HEAD
-/turf/closed/shuttle/ert{
-	icon_state = "stan20"
-	},
-/area/shuttle/ert)
-"c" = (
-/turf/closed/shuttle/ert{
-	icon_state = "stan21"
-	},
-/area/shuttle/ert)
-"d" = (
-/obj/docking_port/mobile/ert,
-/turf/closed/shuttle/ert{
-	icon_state = "stan27"
-	},
-/area/shuttle/ert)
-"e" = (
-/turf/closed/shuttle/ert{
-	icon_state = "stan25"
-	},
-/area/shuttle/ert)
-"f" = (
-/turf/closed/shuttle/ert{
-	icon_state = "stan22"
-	},
-=======
 /turf/closed/shuttle/dropship_regular/top_corner/alt{
 	dir = 1
 	},
@@ -45,7 +19,6 @@
 /area/shuttle/ert)
 "f" = (
 /turf/closed/shuttle/dropship_regular/interior_corner,
->>>>>>> upstream/master
 /area/shuttle/ert)
 "g" = (
 /obj/structure/bed/chair/dropship/passenger,
@@ -58,21 +31,12 @@
 /turf/open/floor/podhatch/floor,
 /area/shuttle/ert)
 "i" = (
-<<<<<<< HEAD
-/turf/closed/shuttle/ert{
-	icon_state = "stan23"
-	},
-/area/shuttle/ert)
-"j" = (
-/turf/closed/shuttle/ert,
-=======
 /turf/closed/shuttle/dropship_regular/interior_corner{
 	dir = 1
 	},
 /area/shuttle/ert)
 "j" = (
 /turf/closed/shuttle/dropship_regular/interior_wall,
->>>>>>> upstream/master
 /area/shuttle/ert)
 "k" = (
 /obj/structure/bed/chair/dropship/passenger{
@@ -97,13 +61,8 @@
 /turf/open/floor/light,
 /area/shuttle/ert)
 "o" = (
-<<<<<<< HEAD
-/turf/closed/shuttle/ert{
-	icon_state = "stan5"
-=======
 /turf/closed/shuttle/dropship_regular/interior_wall{
 	dir = 1
->>>>>>> upstream/master
 	},
 /area/shuttle/ert)
 "p" = (
@@ -132,21 +91,10 @@
 /turf/open/shuttle/brig,
 /area/shuttle/ert)
 "u" = (
-<<<<<<< HEAD
-/turf/closed/shuttle/ert{
-	icon_state = "stan1"
-	},
-/area/shuttle/ert)
-"v" = (
-/turf/closed/shuttle/ert{
-	icon_state = "stan8"
-	},
-=======
 /turf/closed/shuttle/dropship_regular/backhatch,
 /area/shuttle/ert)
 "v" = (
 /turf/closed/shuttle/dropship_regular/top_corner,
->>>>>>> upstream/master
 /area/shuttle/ert)
 "w" = (
 /obj/structure/bed/chair/dropship/passenger{
@@ -164,20 +112,6 @@
 /turf/open/floor/light,
 /area/shuttle/ert)
 "z" = (
-<<<<<<< HEAD
-/turf/closed/shuttle/ert{
-	icon_state = "stan9"
-	},
-/area/shuttle/ert)
-"A" = (
-/turf/closed/shuttle/ert{
-	icon_state = "stan3"
-	},
-/area/shuttle/ert)
-"B" = (
-/turf/closed/shuttle/ert{
-	icon_state = "stan2"
-=======
 /turf/closed/shuttle/dropship_regular/top_corner{
 	dir = 1
 	},
@@ -190,7 +124,6 @@
 "B" = (
 /turf/closed/shuttle/dropship_regular/backhatch{
 	dir = 1
->>>>>>> upstream/master
 	},
 /area/shuttle/ert)
 "C" = (

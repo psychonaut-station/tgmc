@@ -414,15 +414,6 @@
 /turf/open/shuttle/brig,
 /area/deathmatch)
 "bJ" = (
-<<<<<<< HEAD
-/obj/structure/closet/crate,
-/obj/machinery/light,
-/turf/open/floor,
-/area/deathmatch)
-"bK" = (
-/obj/structure/coatrack,
-/turf/open/floor,
-=======
 /obj/structure/barricade/guardrail{
 	dir = 4
 	},
@@ -433,7 +424,6 @@
 /turf/open/floor/mainship/red{
 	dir = 9
 	},
->>>>>>> upstream/master
 /area/deathmatch)
 "bL" = (
 /obj/effect/decal/cleanable/blood/splatter,
@@ -446,24 +436,13 @@
 /turf/open/shuttle/brig,
 /area/deathmatch)
 "bN" = (
-<<<<<<< HEAD
-/obj/item/multitool,
-=======
 /obj/structure/barricade/guardrail,
->>>>>>> upstream/master
 /turf/open/floor,
 /area/deathmatch)
 "bO" = (
 /obj/structure/closet/fireaxecabinet{
 	pixel_y = 32
 	},
-<<<<<<< HEAD
-/turf/open/floor,
-/area/deathmatch)
-"bP" = (
-/obj/structure/closet/firecloset,
-/turf/open/floor,
-=======
 /obj/structure/barricade/guardrail,
 /turf/open/floor,
 /area/deathmatch)
@@ -471,7 +450,6 @@
 /turf/open/floor/mainship/red{
 	dir = 1
 	},
->>>>>>> upstream/master
 /area/deathmatch)
 "bQ" = (
 /obj/structure/grille/smoothing,
@@ -483,17 +461,9 @@
 /turf/open/ground/grass,
 /area/deathmatch)
 "bS" = (
-<<<<<<< HEAD
-/obj/machinery/light{
-	dir = 8
-	},
-/obj/structure/table,
-/turf/open/floor,
-=======
 /turf/open/floor/mainship/orange{
 	dir = 1
 	},
->>>>>>> upstream/master
 /area/deathmatch)
 "bT" = (
 /turf/open/floor,
@@ -510,27 +480,9 @@
 /turf/open/shuttle/brig,
 /area/deathmatch)
 "bW" = (
-<<<<<<< HEAD
-/obj/structure/rack,
-/turf/open/floor,
-/area/deathmatch)
-"bX" = (
-/obj/structure/rack,
-/obj/item/storage/belt/champion,
-/turf/open/floor,
-/area/deathmatch)
-"bY" = (
-/obj/structure/rack,
-/obj/item/storage/box/MRE,
-/obj/item/storage/box/MRE,
-/obj/item/storage/box/MRE,
-/obj/item/storage/box/MRE,
-/turf/open/floor,
-=======
 /turf/open/floor/mainship/red{
 	dir = 8
 	},
->>>>>>> upstream/master
 /area/deathmatch)
 "bZ" = (
 /obj/structure/bed/chair/dropship/passenger{
@@ -541,27 +493,6 @@
 	},
 /turf/open/shuttle/brig,
 /area/deathmatch)
-<<<<<<< HEAD
-"ca" = (
-/obj/structure/rack,
-/obj/effect/landmark/weapon_spawn/tier2_weapon_spawn,
-/turf/open/floor,
-/area/deathmatch)
-"cb" = (
-/obj/structure/rack,
-/obj/item/storage/box/quickclot,
-/turf/open/floor,
-/area/deathmatch)
-"cc" = (
-/obj/structure/rack,
-/obj/item/storage/firstaid/regular,
-/turf/open/floor,
-/area/deathmatch)
-"cd" = (
-/obj/structure/rack,
-/obj/effect/landmark/weapon_spawn/tier3_weapon_spawn,
-/turf/open/floor,
-=======
 "cc" = (
 /turf/open/floor/mainship/blue{
 	dir = 8
@@ -569,7 +500,6 @@
 /area/deathmatch)
 "cd" = (
 /turf/open/floor/mainship/sterile/plain,
->>>>>>> upstream/master
 /area/deathmatch)
 "ce" = (
 /obj/structure/bed/chair/dropship/passenger{
@@ -579,16 +509,6 @@
 /turf/open/shuttle/brig,
 /area/deathmatch)
 "cf" = (
-<<<<<<< HEAD
-/obj/structure/rack,
-/obj/effect/landmark/weapon_spawn/tier1_weapon_spawn,
-/turf/open/floor,
-/area/deathmatch)
-"cg" = (
-/obj/structure/rack,
-/obj/item/storage/belt/utility/full,
-/turf/open/floor,
-=======
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/mainship/blue{
 	dir = 10
@@ -596,7 +516,6 @@
 /area/deathmatch)
 "cg" = (
 /turf/open/floor/mainship/mono,
->>>>>>> upstream/master
 /area/deathmatch)
 "ch" = (
 /obj/structure/closet/walllocker/hydrant/full{
@@ -634,16 +553,10 @@
 /turf/open/ground/river,
 /area/deathmatch)
 "co" = (
-<<<<<<< HEAD
-/obj/structure/largecrate/guns,
-/obj/item/tool/crowbar,
-/turf/open/ground/grass,
-=======
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/mainship/orange{
 	dir = 5
 	},
->>>>>>> upstream/master
 /area/deathmatch)
 "cs" = (
 /obj/structure/flora/tree/jungle,
@@ -664,8 +577,6 @@
 "fY" = (
 /turf/closed/wall/sulaco,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "kU" = (
 /obj/structure/barricade/guardrail{
 	dir = 1
@@ -680,7 +591,6 @@
 "mE" = (
 /turf/open/floor/mainship/blue,
 /area/deathmatch)
->>>>>>> upstream/master
 "qa" = (
 /obj/structure/lattice,
 /obj/effect/ai_node,
@@ -691,8 +601,6 @@
 /obj/effect/ai_node,
 /turf/open/ground/grass,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "uq" = (
 /obj/effect/landmark/deathmatch,
 /turf/open/floor/mainship/emerald{
@@ -711,15 +619,12 @@
 /obj/item/tool/crowbar,
 /turf/open/ground/grass,
 /area/deathmatch)
->>>>>>> upstream/master
 "Ab" = (
 /obj/structure/bed,
 /obj/item/bedsheet,
 /obj/effect/spawner/random/plushie/nospawnninetyfive,
 /turf/open/floor,
 /area/deathmatch)
-<<<<<<< HEAD
-=======
 "BR" = (
 /turf/open/floor/mainship/emerald{
 	dir = 4
@@ -738,7 +643,6 @@
 	},
 /turf/open/floor,
 /area/deathmatch)
->>>>>>> upstream/master
 "PJ" = (
 /obj/effect/ai_node,
 /turf/open/floor,
@@ -836,11 +740,7 @@ ab
 ab
 ab
 ab
-<<<<<<< HEAD
-aa
-=======
 ab
->>>>>>> upstream/master
 aa
 aa
 aa
@@ -886,12 +786,8 @@ bu
 bu
 bu
 bu
-<<<<<<< HEAD
-co
-=======
 bu
 ya
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -900,10 +796,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (4,1,1) = {"
 ab
@@ -943,10 +835,7 @@ bu
 au
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -955,10 +844,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (5,1,1) = {"
 ab
@@ -985,18 +870,6 @@ bu
 ah
 bu
 bu
-<<<<<<< HEAD
-bu
-as
-as
-as
-as
-be
-as
-be
-as
-as
-=======
 as
 as
 as
@@ -1008,7 +881,6 @@ be
 as
 as
 bu
->>>>>>> upstream/master
 bu
 bu
 bu
@@ -1020,10 +892,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (6,1,1) = {"
 ab
@@ -1051,23 +919,11 @@ bv
 bv
 bv
 as
-<<<<<<< HEAD
-as
-aS
-bS
-bT
-=======
 bg
->>>>>>> upstream/master
 bT
 bi
 bT
 bT
-<<<<<<< HEAD
-as
-as
-ak
-=======
 bi
 bT
 bg
@@ -1075,7 +931,6 @@ as
 as
 ak
 ak
->>>>>>> upstream/master
 bu
 ab
 aa
@@ -1085,10 +940,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (7,1,1) = {"
 ab
@@ -1115,16 +966,6 @@ bw
 bB
 bE
 bF
-<<<<<<< HEAD
-bT
-bq
-bT
-bT
-bT
-bT
-bT
-bT
-=======
 bq
 bT
 bT
@@ -1133,16 +974,12 @@ bJ
 bT
 vt
 vt
->>>>>>> upstream/master
 bT
 cj
 as
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -1151,10 +988,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (8,1,1) = {"
 ab
@@ -1183,15 +1016,6 @@ bT
 bT
 bT
 bT
-<<<<<<< HEAD
-bT
-bg
-bW
-ca
-cc
-cf
-bT
-=======
 bN
 bK
 bW
@@ -1199,15 +1023,11 @@ cg
 cc
 cf
 kU
->>>>>>> upstream/master
 aS
 as
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -1216,10 +1036,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (9,1,1) = {"
 ab
@@ -1246,20 +1062,6 @@ bT
 bC
 bT
 bT
-<<<<<<< HEAD
-bJ
-as
-bN
-bT
-bX
-bT
-bT
-bW
-bT
-ck
-as
-bu
-=======
 as
 bT
 bN
@@ -1273,7 +1075,6 @@ ck
 as
 bu
 bu
->>>>>>> upstream/master
 ah
 ab
 aa
@@ -1283,10 +1084,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (10,1,1) = {"
 ab
@@ -1313,17 +1110,6 @@ bT
 bT
 bg
 bT
-<<<<<<< HEAD
-bK
-as
-bO
-bT
-bW
-PJ
-bg
-cg
-bT
-=======
 as
 bT
 bO
@@ -1333,15 +1119,11 @@ Ci
 cd
 cg
 kU
->>>>>>> upstream/master
 cl
 as
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -1350,10 +1132,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (11,1,1) = {"
 ab
@@ -1380,17 +1158,6 @@ bx
 bT
 bx
 bT
-<<<<<<< HEAD
-bT
-bq
-bT
-bT
-bY
-cb
-cd
-cd
-bT
-=======
 bq
 bT
 bN
@@ -1400,15 +1167,11 @@ cd
 cd
 Fu
 kU
->>>>>>> upstream/master
 aS
 as
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -1417,10 +1180,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (12,1,1) = {"
 ab
@@ -1449,18 +1208,6 @@ by
 bG
 bT
 bT
-<<<<<<< HEAD
-bT
-ba
-bT
-bT
-bT
-bT
-bT
-cj
-as
-bu
-=======
 bN
 co
 my
@@ -1472,7 +1219,6 @@ cj
 as
 bu
 bu
->>>>>>> upstream/master
 ak
 ab
 aa
@@ -1482,10 +1228,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (13,1,1) = {"
 ab
@@ -1513,18 +1255,6 @@ bv
 bv
 bv
 as
-<<<<<<< HEAD
-as
-bP
-bj
-bT
-bT
-bj
-bT
-bT
-as
-as
-=======
 bT
 bT
 PC
@@ -1536,7 +1266,6 @@ bT
 bT
 as
 bu
->>>>>>> upstream/master
 bu
 bu
 ab
@@ -1547,10 +1276,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (14,1,1) = {"
 ab
@@ -1577,18 +1302,6 @@ bu
 bu
 bu
 bu
-<<<<<<< HEAD
-bu
-as
-as
-as
-as
-be
-as
-be
-as
-as
-=======
 as
 bg
 bT
@@ -1600,7 +1313,6 @@ bT
 bg
 as
 bu
->>>>>>> upstream/master
 bu
 bu
 bu
@@ -1612,10 +1324,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (15,1,1) = {"
 ab
@@ -1642,17 +1350,6 @@ ah
 br
 bu
 bu
-<<<<<<< HEAD
-bu
-bu
-bu
-bu
-ak
-bu
-bu
-bu
-bu
-=======
 as
 as
 as
@@ -1663,7 +1360,6 @@ as
 be
 as
 as
->>>>>>> upstream/master
 bu
 bu
 bu
@@ -1676,10 +1372,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (16,1,1) = {"
 ab
@@ -1719,10 +1411,7 @@ bu
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -1731,10 +1420,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (17,1,1) = {"
 ab
@@ -1774,10 +1459,7 @@ ae
 ae
 ae
 ae
-<<<<<<< HEAD
-=======
 ae
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -1786,10 +1468,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (18,1,1) = {"
 ab
@@ -1829,10 +1507,7 @@ dw
 dw
 dw
 dw
-<<<<<<< HEAD
-=======
 dw
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -1841,10 +1516,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (19,1,1) = {"
 ab
@@ -1884,10 +1555,7 @@ ad
 ad
 ad
 ad
-<<<<<<< HEAD
-=======
 ad
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -1896,10 +1564,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (20,1,1) = {"
 ab
@@ -1939,10 +1603,7 @@ aA
 aA
 aA
 aA
-<<<<<<< HEAD
-=======
 aA
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -1951,10 +1612,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (21,1,1) = {"
 ab
@@ -1994,10 +1651,7 @@ bo
 bo
 bo
 bo
-<<<<<<< HEAD
-=======
 bo
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2006,10 +1660,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (22,1,1) = {"
 ab
@@ -2049,10 +1699,7 @@ bo
 cn
 bo
 bo
-<<<<<<< HEAD
-=======
 bo
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2061,10 +1708,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (23,1,1) = {"
 ab
@@ -2104,10 +1747,7 @@ bo
 bo
 al
 bo
-<<<<<<< HEAD
-=======
 bo
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2116,10 +1756,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (24,1,1) = {"
 ab
@@ -2159,10 +1795,7 @@ aj
 aj
 aj
 aj
-<<<<<<< HEAD
-=======
 aj
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2171,10 +1804,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (25,1,1) = {"
 ab
@@ -2214,10 +1843,7 @@ ad
 ad
 ad
 ad
-<<<<<<< HEAD
-=======
 ad
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2226,10 +1852,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (26,1,1) = {"
 ab
@@ -2269,10 +1891,7 @@ aU
 aU
 aU
 aU
-<<<<<<< HEAD
-=======
 aU
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2281,10 +1900,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (27,1,1) = {"
 ab
@@ -2324,10 +1939,7 @@ ae
 ae
 ae
 ae
-<<<<<<< HEAD
-=======
 ae
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2336,10 +1948,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (28,1,1) = {"
 ab
@@ -2379,10 +1987,7 @@ bu
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2391,10 +1996,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (29,1,1) = {"
 ab
@@ -2434,10 +2035,7 @@ bu
 bu
 bR
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2446,10 +2044,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (30,1,1) = {"
 ab
@@ -2489,10 +2083,7 @@ bu
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2501,10 +2092,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (31,1,1) = {"
 ab
@@ -2544,10 +2131,7 @@ bu
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2556,10 +2140,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (32,1,1) = {"
 ab
@@ -2599,10 +2179,7 @@ bu
 ak
 ai
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2611,10 +2188,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (33,1,1) = {"
 ab
@@ -2654,10 +2227,7 @@ bu
 bu
 au
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2666,10 +2236,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (34,1,1) = {"
 ab
@@ -2709,10 +2275,7 @@ fY
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2721,10 +2284,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (35,1,1) = {"
 ab
@@ -2764,10 +2323,7 @@ fY
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2776,10 +2332,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (36,1,1) = {"
 ab
@@ -2819,10 +2371,7 @@ at
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2831,10 +2380,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (37,1,1) = {"
 ab
@@ -2874,10 +2419,7 @@ fY
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2886,10 +2428,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (38,1,1) = {"
 ab
@@ -2929,10 +2467,7 @@ cm
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2941,10 +2476,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (39,1,1) = {"
 ab
@@ -2984,10 +2515,7 @@ fY
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -2996,10 +2524,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (40,1,1) = {"
 ab
@@ -3039,10 +2563,7 @@ fY
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -3051,10 +2572,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (41,1,1) = {"
 ab
@@ -3093,10 +2610,7 @@ fY
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 bR
 ab
 aa
@@ -3106,10 +2620,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (42,1,1) = {"
 ab
@@ -3149,10 +2659,7 @@ bu
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -3161,10 +2668,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (43,1,1) = {"
 ab
@@ -3204,10 +2707,7 @@ bu
 bu
 ai
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -3216,10 +2716,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (44,1,1) = {"
 ab
@@ -3259,10 +2755,7 @@ bu
 bu
 bu
 bu
-<<<<<<< HEAD
-=======
 bu
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -3271,10 +2764,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (45,1,1) = {"
 ab
@@ -3313,12 +2802,8 @@ bu
 bu
 bu
 bu
-<<<<<<< HEAD
-co
-=======
 bu
 ya
->>>>>>> upstream/master
 ab
 aa
 aa
@@ -3327,10 +2812,6 @@ aa
 aa
 aa
 aa
-<<<<<<< HEAD
-aa
-=======
->>>>>>> upstream/master
 "}
 (46,1,1) = {"
 ab
@@ -3371,11 +2852,7 @@ ab
 ab
 ab
 ab
-<<<<<<< HEAD
-aa
-=======
 ab
->>>>>>> upstream/master
 aa
 aa
 aa

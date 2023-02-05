@@ -83,15 +83,6 @@
 		qdel(I)
 		qdel(src)
 		user.put_in_hands(P)
-<<<<<<< HEAD
-	else if(istype(I, /obj/item/clothing/glasses/night/imager_goggles))
-		var/obj/item/clothing/glasses/night/imager_goggles/eyepatch/P = new
-		to_chat(user, span_notice("You fasten the optical scanner to the inside of the eyepatch."))
-		qdel(I)
-		qdel(src)
-		user.put_in_hands(P)
-=======
->>>>>>> upstream/master
 
 		update_icon(user)
 
@@ -183,22 +174,6 @@
 			qdel(I)
 			qdel(src)
 			user.put_in_hands(S)
-<<<<<<< HEAD
-	else if(istype(I, /obj/item/clothing/glasses/night/imager_goggles))
-		if(prescription)
-			var/obj/item/clothing/glasses/night/optgoggles/prescription/P = new
-			to_chat(user, span_notice("You fasten the optical imaging scanner to the inside of the goggles."))
-			qdel(I)
-			qdel(src)
-			user.put_in_hands(P)
-		else
-			var/obj/item/clothing/glasses/night/optgoggles/S = new
-			to_chat(user, span_notice("You fasten the optical imaging scanner to the inside of the goggles."))
-			qdel(I)
-			qdel(src)
-			user.put_in_hands(S)
-=======
->>>>>>> upstream/master
 	else if(istype(I, /obj/item/clothing/glasses/meson))
 		if(prescription)
 			var/obj/item/clothing/glasses/meson/enggoggles/prescription/P = new
@@ -352,15 +327,6 @@
 		qdel(I)
 		qdel(src)
 		user.put_in_hands(P)
-<<<<<<< HEAD
-	else if(istype(I, /obj/item/clothing/glasses/night/imager_goggles))
-		var/obj/item/clothing/glasses/night/imager_goggles/sunglasses/P = new
-		to_chat(user, span_notice("You fasten the optical imager scaner to the inside of the glasses."))
-		qdel(I)
-		qdel(src)
-		user.put_in_hands(P)
-=======
->>>>>>> upstream/master
 	else if(istype(I, /obj/item/clothing/glasses/meson))
 		var/obj/item/clothing/glasses/meson/sunglasses/P = new
 		to_chat(user, span_notice("You fasten the optical meson scaner to the inside of the glasses."))

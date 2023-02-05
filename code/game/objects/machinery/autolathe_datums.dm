@@ -263,8 +263,6 @@ GLOBAL_LIST_EMPTY(autolathe_categories)
 	name = "Conveyor Switch"
 	path = /obj/item/conveyor_switch_construct
 	category = "Devices and Components"
-<<<<<<< HEAD
-=======
 
 /datum/autolathe/recipe/mass_produced_crate
 	name = "Mass Produced Crate"
@@ -321,4 +319,3 @@ GLOBAL_LIST_EMPTY(autolathe_categories)
 	path = /obj/structure/closet/crate/mass_produced_crate/weapon
 	category = "Mass Produced Crates"
 
->>>>>>> upstream/master

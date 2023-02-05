@@ -9,7 +9,4 @@
 	plane = FLOOR_PLANE
 	layer = ABOVE_TURF_LAYER
 	mouse_opacity = MOUSE_OPACITY_TRANSPARENT
-<<<<<<< HEAD
-=======
 	icon = 'icons/turf/decals.dmi'
->>>>>>> upstream/master

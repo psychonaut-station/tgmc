@@ -68,8 +68,6 @@
 	log_admin("[key_name(usr)] created a Queen Mother report: [input]")
 	message_admins("[ADMIN_TPMONTY(usr)] created a Queen Mother report.")
 
-<<<<<<< HEAD
-=======
 /datum/admins/proc/rouny_all()
 	set name = "Toggle Glob Xeno Rouny"
 	set category = "Fun"
@@ -83,7 +81,6 @@
 			return
 		xenotorouny.is_a_rouny = !xenotorouny.is_a_rouny
 
->>>>>>> upstream/master
 
 /datum/admins/proc/hive_status()
 	set category = "Fun"

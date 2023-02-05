@@ -225,8 +225,6 @@
 	. = ..()
 	animate(src, time=duration, transform=matrix().Scale(0.1,0.1))
 
-<<<<<<< HEAD
-=======
 /obj/effect/temp_visual/blink_drive
 	icon = 'icons/effects/light_overlays/light_128.dmi'
 	icon_state = "light"
@@ -241,7 +239,6 @@
 	animate(src, time=duration, transform=matrix().Scale(0.1,0.1))
 	set_light(2, 2, LIGHT_COLOR_DARK_BLUE)
 
->>>>>>> upstream/master
 /obj/effect/temp_visual/shockwave
 	icon = 'icons/effects/light_overlays/shockwave.dmi'
 	icon_state = "shockwave"

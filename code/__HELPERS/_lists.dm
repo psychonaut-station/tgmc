@@ -182,21 +182,6 @@
 	return result
 
 
-<<<<<<< HEAD
-//Pretends to pick an element based on its weight but really just seems to pick a random element.
-/proc/pickweight(list/L)
-	var/total = 0
-	var/item
-	for(item in L)
-		if(!L[item])
-			L[item] = 1
-		total += L[item]
-
-	total = rand(1, total)
-	for(item in L)
-		total -=L [item]
-		if(total <= 0)
-=======
 /**
  * Picks a random element from a list based on a weighting system.
  * For example, given the following list:
@@ -219,7 +204,6 @@
 	for(item in list_to_pick)
 		total -= list_to_pick[item]
 		if(total <= 0 && list_to_pick[item])
->>>>>>> upstream/master
 			return item
 
 	return null
@@ -584,8 +568,6 @@
 		var/atom/A = thing
 		if(!typecache[A.type])
 			. += A
-<<<<<<< HEAD
-=======
 
 /**
  * Like pickweight, but allowing for nested lists.
@@ -604,4 +586,3 @@
 	while(islist(result))
 		result = pickweight(result)
 	return result
->>>>>>> upstream/master

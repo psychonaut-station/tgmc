@@ -109,11 +109,7 @@
 /turf/open/floor/plating/ground/mars/random/cave/rock,
 /area/bigredv2/outside/s)
 "kv" = (
-<<<<<<< HEAD
-/obj/structure/window/framed/colony/reinforced/hull,
-=======
 /obj/structure/window/framed/colony/reinforced,
->>>>>>> upstream/master
 /turf/open/floor/plating,
 /area/bigredv2/outside/s)
 "kX" = (
@@ -498,11 +494,7 @@
 /turf/open/floor/asteroidfloor,
 /area/bigredv2/outside/s)
 "TB" = (
-<<<<<<< HEAD
-/obj/structure/window/framed/colony/reinforced/hull,
-=======
 /obj/structure/window/framed/colony/reinforced,
->>>>>>> upstream/master
 /turf/open/floor/plating,
 /area/bigredv2/outside/se)
 "Uj" = (

@@ -36,12 +36,7 @@
 ///Instantiates and instals the type onto gun_to_attach
 /datum/item_representation/gun/proc/install_on_gun(seller, obj/item/weapon/gun/gun_to_attach, mob/living/user)
 	var/gun_to_vend
-<<<<<<< HEAD
-	var/obj/item/weapon/gun/attachment_type = item_type
-	if(!(initial(attachment_type.flags_attach_features) & ATTACH_REMOVABLE))
-=======
 	if(item_type in gun_to_attach.starting_attachment_types)
->>>>>>> upstream/master
 		bypass_vendor_check = TRUE
 	gun_to_vend = instantiate_object(seller, null, user)
 	if(!gun_to_vend)
@@ -63,12 +58,7 @@
 ///Attach the instantiated attachment to the gun
 /datum/item_representation/gun_attachement/proc/install_on_gun(seller, obj/item/weapon/gun/gun_to_attach, mob/living/user)
 	var/attachment_to_vend
-<<<<<<< HEAD
-	var/obj/item/attachable/attachment_type = item_type
-	if(!(initial(attachment_type.flags_attach_features) & ATTACH_REMOVABLE))//Unremovable attachment are not in vendors
-=======
 	if(item_type in gun_to_attach.starting_attachment_types)
->>>>>>> upstream/master
 		bypass_vendor_check = TRUE
 	attachment_to_vend = instantiate_object(seller, null, user)
 	if(!attachment_to_vend)

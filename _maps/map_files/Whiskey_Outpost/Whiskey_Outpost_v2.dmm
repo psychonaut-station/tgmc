@@ -240,11 +240,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost)
 "aW" = (
-<<<<<<< HEAD
-/obj/machinery/floodlightcombat,
-=======
 /obj/machinery/floodlight/combat,
->>>>>>> upstream/master
 /turf/open/floor/prison,
 /area/whiskey_outpost)
 "aY" = (
@@ -456,20 +452,12 @@
 	pixel_y = 11
 	},
 /obj/item/storage/box/sentry,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/west)
 "bI" = (
 /obj/structure/jungle/vines,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner,
-=======
 /obj/effect/turf_decal/grassdecal/corner,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "bR" = (
@@ -535,11 +523,7 @@
 /turf/open/floor,
 /area/whiskey_outpost)
 "cm" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2,
-=======
 /obj/effect/turf_decal/grassdecal/corner2,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "cn" = (
@@ -946,11 +930,7 @@
 /area/whiskey_outpost)
 "ef" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/north)
 "eh" = (
@@ -1018,7 +998,7 @@
 /turf/open/floor/prison,
 /area/whiskey_outpost)
 "eD" = (
-/obj/item/weapon/gun/minigun_nest,
+/obj/item/weapon/gun/standard_minigun/nest,
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "eE" = (
@@ -1029,11 +1009,7 @@
 	},
 /area/whiskey_outpost)
 "eG" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -1046,11 +1022,7 @@
 /area/whiskey_outpost)
 "eJ" = (
 /obj/effect/decal/cleanable/blood/writing,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "eK" = (
@@ -1126,11 +1098,7 @@
 /turf/open/ground/jungle,
 /area/whiskey_outpost/outside/south)
 "fj" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -1141,11 +1109,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/east)
 "fn" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -1325,11 +1289,7 @@
 /turf/open/floor/prison,
 /area/whiskey_outpost)
 "fS" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -1481,21 +1441,13 @@
 /turf/closed/wall/r_wall,
 /area/whiskey_outpost)
 "gC" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/north)
 "gD" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner,
-=======
 /obj/effect/turf_decal/grassdecal/corner,
->>>>>>> upstream/master
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/north)
 "gF" = (
@@ -1601,11 +1553,7 @@
 /obj/effect/decal/cleanable/blood/writing{
 	dir = 4
 	},
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -1662,11 +1610,7 @@
 /turf/open/floor/prison/plate,
 /area/whiskey_outpost)
 "hy" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -1814,7 +1758,7 @@
 /turf/open/ground/jungle,
 /area/whiskey_outpost/outside/south)
 "iv" = (
-/obj/item/weapon/gun/minigun_nest,
+/obj/item/weapon/gun/standard_minigun/nest,
 /turf/open/floor/plating/warning,
 /area/whiskey_outpost/outside/west)
 "iw" = (
@@ -1853,11 +1797,7 @@
 /area/whiskey_outpost)
 "iC" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -2052,11 +1992,7 @@
 /area/whiskey_outpost)
 "ju" = (
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2,
-=======
 /obj/effect/turf_decal/grassdecal/corner2,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "jx" = (
@@ -2128,11 +2064,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/west)
 "jM" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -2202,11 +2134,7 @@
 /turf/open/floor/plating,
 /area/whiskey_outpost)
 "ke" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -2478,11 +2406,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost)
 "lq" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -2563,11 +2487,7 @@
 	},
 /area/whiskey_outpost/outside/north)
 "lO" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -2588,11 +2508,7 @@
 /turf/open/ground/river,
 /area/whiskey_outpost/outside/south)
 "lU" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2,
-=======
 /obj/effect/turf_decal/grassdecal/corner2,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/east)
 "lV" = (
@@ -2628,11 +2544,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/north)
 "lZ" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -2734,11 +2646,7 @@
 /turf/open/floor/wood,
 /area/whiskey_outpost)
 "mG" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -2850,11 +2758,7 @@
 /area/whiskey_outpost)
 "no" = (
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -2877,11 +2781,7 @@
 	},
 /area/whiskey_outpost)
 "nz" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner,
-=======
 /obj/effect/turf_decal/grassdecal/corner,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/west)
 "nA" = (
@@ -3091,11 +2991,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/north)
 "om" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -3187,11 +3083,7 @@
 /obj/effect/decal/cleanable/blood/writing{
 	dir = 4
 	},
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -3390,11 +3282,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/east)
 "pC" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner,
-=======
 /obj/effect/turf_decal/grassdecal/corner,
->>>>>>> upstream/master
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/west)
 "pD" = (
@@ -3481,11 +3369,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost)
 "pW" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -3503,11 +3387,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/north)
 "pY" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -3647,21 +3527,13 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost)
 "qq" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/east)
 "qr" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /obj/structure/jungle/vines,
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
@@ -3790,11 +3662,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost)
 "re" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/north)
 "rf" = (
@@ -3815,11 +3683,7 @@
 /turf/open/ground/jungle,
 /area/whiskey_outpost/outside/east)
 "ri" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2,
-=======
 /obj/effect/turf_decal/grassdecal/corner2,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/north)
 "rj" = (
@@ -3890,17 +3754,13 @@
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "rx" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/west)
 "ry" = (
-/obj/item/weapon/gun/minigun_nest,
+/obj/item/weapon/gun/standard_minigun/nest,
 /turf/open/floor/plating/warning,
 /area/whiskey_outpost)
 "rA" = (
@@ -3926,11 +3786,7 @@
 	},
 /area/whiskey_outpost/outside/west)
 "rE" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -3944,11 +3800,7 @@
 /turf/open/floor/prison,
 /area/whiskey_outpost)
 "rN" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner,
-=======
 /obj/effect/turf_decal/grassdecal/corner,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "rO" = (
@@ -3969,11 +3821,7 @@
 /area/whiskey_outpost/outside/east)
 "sd" = (
 /obj/effect/landmark/lv624/fog_blocker,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -4058,11 +3906,7 @@
 /turf/open/floor/plating/asteroidwarning,
 /area/whiskey_outpost)
 "sA" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /obj/structure/girder/displaced,
@@ -4117,11 +3961,7 @@
 /turf/open/floor/tile/whiteyellow/full,
 /area/whiskey_outpost)
 "sR" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 4
 	},
 /obj/structure/jungle/vines,
@@ -4148,11 +3988,7 @@
 /turf/open/floor/plating,
 /area/whiskey_outpost/outside/south)
 "tc" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -4175,11 +4011,7 @@
 /area/whiskey_outpost)
 "tk" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -4242,11 +4074,7 @@
 /area/whiskey_outpost)
 "tK" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2,
-=======
 /obj/effect/turf_decal/grassdecal/corner2,
->>>>>>> upstream/master
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/north)
 "tL" = (
@@ -4271,11 +4099,7 @@
 /turf/open/floor,
 /area/whiskey_outpost)
 "tO" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -4383,11 +4207,7 @@
 /turf/closed/shuttle/dropship1/cornersalt,
 /area/whiskey_outpost/outside/east)
 "uv" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -4537,11 +4357,7 @@
 /area/whiskey_outpost)
 "vg" = (
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -4551,11 +4367,7 @@
 /turf/open/floor/plating/warning,
 /area/whiskey_outpost/outside/east)
 "vi" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -4591,11 +4403,7 @@
 /area/whiskey_outpost)
 "vA" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -4737,11 +4545,7 @@
 "vZ" = (
 /obj/effect/landmark/lv624/fog_blocker,
 /obj/structure/jungle/vines,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -4804,11 +4608,7 @@
 /turf/open/floor/prison,
 /area/whiskey_outpost)
 "wE" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/east)
 "wH" = (
@@ -4847,11 +4647,7 @@
 /obj/effect/decal/cleanable/blood/writing{
 	dir = 4
 	},
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -4924,11 +4720,7 @@
 /area/whiskey_outpost)
 "xA" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -4984,11 +4776,7 @@
 /area/whiskey_outpost/outside/north)
 "xN" = (
 /obj/effect/landmark/lv624/fog_blocker,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "xO" = (
@@ -5023,32 +4811,20 @@
 /turf/open/floor/plating,
 /area/whiskey_outpost/outside/north)
 "xY" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /obj/structure/jungle/vines,
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "xZ" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "yb" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /obj/structure/jungle/vines,
@@ -5087,11 +4863,7 @@
 /obj/effect/decal/cleanable/blood/writing{
 	dir = 10
 	},
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5137,11 +4909,7 @@
 /area/whiskey_outpost/outside/north)
 "yK" = (
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5213,11 +4981,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost)
 "zk" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -5237,11 +5001,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost)
 "zq" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5273,11 +5033,7 @@
 /turf/open/ground/jungle,
 /area/whiskey_outpost/outside/south)
 "zD" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -5302,11 +5058,7 @@
 /turf/open/shuttle/dropship/eight,
 /area/whiskey_outpost/outside/east)
 "zM" = (
-<<<<<<< HEAD
-/obj/machinery/floodlightcombat,
-=======
 /obj/machinery/floodlight/combat,
->>>>>>> upstream/master
 /turf/open/floor/plating,
 /area/whiskey_outpost/outside/north)
 "zP" = (
@@ -5335,11 +5087,7 @@
 /area/whiskey_outpost)
 "Aa" = (
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5372,11 +5120,7 @@
 /area/whiskey_outpost/outside/east)
 "Aj" = (
 /obj/effect/landmark/lv624/fog_blocker,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5406,11 +5150,7 @@
 /area/whiskey_outpost)
 "Ao" = (
 /obj/effect/landmark/lv624/fog_blocker,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5488,11 +5228,7 @@
 /area/whiskey_outpost/outside/east)
 "AI" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -5516,11 +5252,7 @@
 /turf/open/floor/tile/damaged/five,
 /area/whiskey_outpost/outside/south)
 "AO" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5607,11 +5339,7 @@
 /turf/open/floor/plating,
 /area/whiskey_outpost/outside/north)
 "Bp" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5637,11 +5365,7 @@
 /obj/effect/decal/cleanable/blood/writing{
 	dir = 4
 	},
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5707,11 +5431,7 @@
 /turf/open/floor/plating,
 /area/whiskey_outpost)
 "BW" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 8
 	},
 /obj/structure/jungle/vines,
@@ -5801,11 +5521,7 @@
 	},
 /area/whiskey_outpost/outside/south)
 "Cz" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -5824,11 +5540,7 @@
 /obj/effect/decal/cleanable/blood/writing{
 	dir = 4
 	},
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5894,11 +5606,7 @@
 	},
 /area/whiskey_outpost)
 "CV" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -5950,16 +5658,6 @@
 /area/whiskey_outpost)
 "Di" = (
 /obj/structure/largecrate/supply/supplies/metal,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-/turf/open/floor/plating/asteroidfloor,
-/area/whiskey_outpost/outside/west)
-"Dk" = (
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-	dir = 1
-	},
-/obj/effect/turf_turf_decal/grassdecal/corner2,
-=======
 /obj/effect/turf_decal/grassdecal,
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/west)
@@ -5968,7 +5666,6 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/grassdecal/corner2,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "Dl" = (
@@ -6074,11 +5771,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/west)
 "Ef" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /obj/structure/jungle/vines,
@@ -6098,11 +5791,7 @@
 /turf/open/floor/tile/dark,
 /area/whiskey_outpost)
 "Em" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner,
-=======
 /obj/effect/turf_decal/grassdecal/corner,
->>>>>>> upstream/master
 /obj/structure/window_frame/colony,
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
@@ -6125,11 +5814,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/north)
 "Ev" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -6221,11 +5906,7 @@
 /area/whiskey_outpost/outside/north)
 "Fe" = (
 /obj/effect/landmark/lv624/fog_blocker,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -6341,11 +6022,7 @@
 /area/whiskey_outpost)
 "Gc" = (
 /obj/effect/decal/cleanable/blood/writing,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -6355,11 +6032,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "Gl" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2,
-=======
 /obj/effect/turf_decal/grassdecal/corner2,
->>>>>>> upstream/master
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/west)
 "Gn" = (
@@ -6430,11 +6103,7 @@
 /turf/open/floor/tile/whiteyellow/full,
 /area/whiskey_outpost)
 "GQ" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -6512,11 +6181,7 @@
 /turf/open/ground/coast/corner,
 /area/whiskey_outpost/outside/north)
 "Hm" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -6532,11 +6197,7 @@
 /turf/open/ground/jungle,
 /area/whiskey_outpost/outside/south)
 "Hr" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/west)
 "Hw" = (
@@ -6594,11 +6255,7 @@
 	},
 /area/whiskey_outpost/outside/north)
 "HS" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 8
 	},
 /obj/structure/jungle/vines,
@@ -6663,11 +6320,7 @@
 /turf/open/floor/prison/plate,
 /area/whiskey_outpost)
 "Iu" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /obj/structure/jungle/vines,
 /turf/closed/gm/dense,
 /area/whiskey_outpost/outside/rock)
@@ -6680,11 +6333,7 @@
 /turf/open/floor/tile/damaged/panel,
 /area/whiskey_outpost/outside/south)
 "Ix" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner,
-=======
 /obj/effect/turf_decal/grassdecal/corner,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/east)
 "Iy" = (
@@ -6697,11 +6346,7 @@
 /turf/open/ground/river,
 /area/whiskey_outpost/outside/west)
 "ID" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 4
 	},
 /obj/structure/jungle/vines,
@@ -6714,22 +6359,14 @@
 /area/whiskey_outpost/outside/south)
 "IF" = (
 /obj/structure/jungle/vines,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "IK" = (
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -6874,7 +6511,7 @@
 /turf/open/floor/mainship/sterile/dark,
 /area/whiskey_outpost)
 "JO" = (
-/obj/item/weapon/gun/minigun_nest,
+/obj/item/weapon/gun/standard_minigun/nest,
 /turf/open/floor/plating/warning,
 /area/whiskey_outpost/outside/east)
 "JP" = (
@@ -6925,11 +6562,7 @@
 /turf/open/ground/river,
 /area/whiskey_outpost/outside/east)
 "Kn" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -7020,21 +6653,13 @@
 /area/whiskey_outpost/outside/east)
 "KN" = (
 /obj/structure/fence,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "KO" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "KR" = (
@@ -7116,11 +6741,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/west)
 "LA" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -7154,11 +6775,7 @@
 /turf/open/floor/plating,
 /area/whiskey_outpost/outside/south)
 "LT" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2,
-=======
 /obj/effect/turf_decal/grassdecal/corner2,
->>>>>>> upstream/master
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/north)
 "LW" = (
@@ -7235,11 +6852,7 @@
 /area/whiskey_outpost/outside/south)
 "Mq" = (
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -7292,21 +6905,13 @@
 /area/whiskey_outpost/outside/south)
 "MJ" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "MN" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner,
-=======
 /obj/effect/turf_decal/grassdecal/corner,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/north)
 "MO" = (
@@ -7360,11 +6965,7 @@
 	},
 /area/whiskey_outpost)
 "Nc" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /obj/item/stack/sheet/metal,
@@ -7386,11 +6987,7 @@
 /area/whiskey_outpost)
 "Nk" = (
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/west)
 "Nl" = (
@@ -7470,21 +7067,13 @@
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/west)
 "NH" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/north)
 "NJ" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner,
-=======
 /obj/effect/turf_decal/grassdecal/corner,
->>>>>>> upstream/master
 /obj/item/stack/sheet/metal,
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
@@ -7521,11 +7110,7 @@
 /turf/closed/mineral/smooth,
 /area/whiskey_outpost/outside/rock)
 "NX" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2,
-=======
 /obj/effect/turf_decal/grassdecal/corner2,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/west)
 "NY" = (
@@ -7572,11 +7157,7 @@
 /turf/open/ground/jungle,
 /area/whiskey_outpost/outside/south)
 "Oo" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
@@ -7644,11 +7225,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/east)
 "OK" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /obj/structure/jungle/vines,
@@ -7822,11 +7399,7 @@
 /turf/open/floor/plating/platebot,
 /area/whiskey_outpost)
 "Qu" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -7993,22 +7566,14 @@
 /area/whiskey_outpost/outside/south)
 "RS" = (
 /obj/effect/landmark/start/job/squadmarine,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/west)
 "RT" = (
 /obj/structure/jungle/vines,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -8018,11 +7583,7 @@
 /turf/open/ground/river,
 /area/whiskey_outpost/outside/south)
 "RV" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/north)
 "RW" = (
@@ -8034,11 +7595,7 @@
 /area/whiskey_outpost)
 "RX" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -8047,7 +7604,7 @@
 /turf/closed/shuttle/dropship1/aisle,
 /area/whiskey_outpost/outside/east)
 "Sc" = (
-/obj/item/weapon/gun/minigun_nest,
+/obj/item/weapon/gun/standard_minigun/nest,
 /turf/open/floor/plating/asteroidwarning,
 /area/whiskey_outpost)
 "Sd" = (
@@ -8106,11 +7663,7 @@
 	},
 /area/whiskey_outpost/outside/east)
 "St" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -8236,21 +7789,13 @@
 	},
 /area/whiskey_outpost/outside/east)
 "Ty" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/east)
 "TA" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -8340,11 +7885,7 @@
 /turf/open/shuttle/dropship/three,
 /area/whiskey_outpost/outside/south)
 "Ue" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /obj/effect/landmark/lv624/fog_blocker,
@@ -8355,11 +7896,7 @@
 /turf/open/ground/jungle,
 /area/whiskey_outpost/outside/south)
 "Uh" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 4
 	},
 /obj/structure/jungle/vines,
@@ -8493,11 +8030,7 @@
 /turf/open/floor/tile/whiteyellow/full,
 /area/whiskey_outpost)
 "Vm" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -8540,11 +8073,7 @@
 	},
 /area/whiskey_outpost)
 "VC" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 1
 	},
 /obj/structure/jungle/vines,
@@ -8573,11 +8102,7 @@
 /area/whiskey_outpost/outside/north)
 "VN" = (
 /obj/effect/ai_node,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 8
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -8604,11 +8129,7 @@
 /turf/open/floor/plating,
 /area/whiskey_outpost/outside/south)
 "VX" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -8675,11 +8196,7 @@
 /turf/open/floor/plating,
 /area/whiskey_outpost)
 "WO" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner{
-=======
 /obj/effect/turf_decal/grassdecal/corner{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -8692,11 +8209,7 @@
 /area/whiskey_outpost/outside/north)
 "WS" = (
 /obj/item/lightstick/red/anchored,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -8950,11 +8463,7 @@
 	},
 /area/whiskey_outpost)
 "Zi" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal{
-=======
 /obj/effect/turf_decal/grassdecal{
->>>>>>> upstream/master
 	dir = 1
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -9008,11 +8517,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "Zw" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /turf/open/floor/plating/ground/dirt,
@@ -9026,11 +8531,7 @@
 "Zz" = (
 /obj/effect/landmark/lv624/fog_blocker,
 /obj/structure/jungle/vines,
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal,
-=======
 /obj/effect/turf_decal/grassdecal,
->>>>>>> upstream/master
 /turf/open/floor/plating/ground/dirt,
 /area/whiskey_outpost/outside/south)
 "ZC" = (
@@ -9038,11 +8539,7 @@
 /turf/open/floor/plating/asteroidfloor,
 /area/whiskey_outpost/outside/east)
 "ZD" = (
-<<<<<<< HEAD
-/obj/effect/turf_turf_decal/grassdecal/corner2{
-=======
 /obj/effect/turf_decal/grassdecal/corner2{
->>>>>>> upstream/master
 	dir = 4
 	},
 /obj/effect/ai_node,
