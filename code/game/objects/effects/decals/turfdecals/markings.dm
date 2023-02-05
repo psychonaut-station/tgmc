@@ -1,9 +1,5 @@
 /obj/effect/turf_decal/tile
-<<<<<<< HEAD
-	icon = 'icons/turf/floors.dmi'
-=======
 	icon = 'icons/turf/decals.dmi'
->>>>>>> upstream/master
 	icon_state = "whitedecal"
 
 /obj/effect/turf_decal/tile/ex_act(severity)
@@ -66,7 +62,7 @@
 	icon_state = "grid"
 
 /obj/effect/turf_decal/tile/corsatstraight
-	icon_state = "corsattile"
+	icon_state = "corsattiletwo"
 
 /obj/effect/turf_decal/tile/corsatstraight/red
 	color = "#722729"
@@ -102,7 +98,7 @@
 	color = "#d3d3d3c0"
 
 /obj/effect/turf_decal/tile/corsatcorner
-	icon_state = "corsatlinecorner"
+	icon_state = "corsatlinecornertwo"
 
 /obj/effect/turf_decal/tile/corsatcorner/red
 	color = "#722729"
@@ -135,7 +131,7 @@
 	color = "#d3d3d3"
 
 /obj/effect/turf_decal/tile/corsatsemi
-	icon_state = "corsatlinesemi"
+	icon_state = "corsatlinesemitwo"
 
 /obj/effect/turf_decal/tile/corsatsemi/red
 	color = "#722729"
@@ -168,10 +164,6 @@
 	color = "#d3d3d3"
 
 /obj/effect/turf_decal/woodsiding
-<<<<<<< HEAD
-	icon = 'icons/turf/floors.dmi'
-=======
->>>>>>> upstream/master
 	icon_state = "wood_siding"
 
 /obj/effect/turf_decal/woodsiding/alt
@@ -183,10 +175,6 @@
 	return INITIALIZE_HINT_QDEL
 
 /obj/effect/turf_decal/siding
-<<<<<<< HEAD
-	icon = 'icons/turf/floors.dmi'
-=======
->>>>>>> upstream/master
 	icon_state = "siding"
 
 /obj/effect/turf_decal/siding/alt
@@ -198,10 +186,6 @@
 	return INITIALIZE_HINT_QDEL
 
 /obj/effect/turf_decal/symbol/corsat
-<<<<<<< HEAD
-	icon = 'icons/effects/warning_stripes.dmi'
-=======
->>>>>>> upstream/master
 	color = "#9c7f42"
 
 /obj/effect/turf_decal/symbol/corsat/symbol/omega

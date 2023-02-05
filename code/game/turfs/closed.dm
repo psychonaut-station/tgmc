@@ -59,6 +59,32 @@
 /turf/closed/mineral/smooth/snowrock/indestructible
 	resistance_flags = RESIST_ALL
 
+/turf/closed/mineral/smooth/bluefrostwall
+	icon = 'icons/turf/walls/bluefrostwall.dmi'
+	icon_state = "bluefrostwall-0-0-0-0"
+	walltype = "bluefrostwall"
+	smoothing_groups = SMOOTH_MINERAL_STRUCTURES_ICE
+
+/turf/closed/mineral/smooth/bluefrostwall/indestructible
+	resistance_flags = RESIST_ALL
+
+
+/turf/closed/mineral/smooth/darkfrostwall
+	icon = 'icons/turf/walls/darkfrostwall.dmi'
+	icon_state = "darkfrostwall-0-0-0-0"
+	walltype = "darkfrostwall"
+
+/turf/closed/mineral/smooth/darkfrostwall/indestructible
+	resistance_flags = RESIST_ALL
+
+/turf/closed/mineral/smooth/frostwall
+	icon = 'icons/turf/walls/frostwall.dmi'
+	icon_state = "frostwall-0-0-0-0"
+	walltype = "frostwall"
+
+/turf/closed/mineral/smooth/frostwall/indestructible
+	resistance_flags = RESIST_ALL
+
 /turf/closed/mineral/smooth/bigred
 	icon = 'icons/turf/walls/redwall.dmi'
 	icon_state = "red_wall-0-0-0-0"
@@ -454,8 +480,6 @@
 /turf/closed/shuttle/dropship1/finback
 	icon_state = "shuttle_exterior_finback"
 
-<<<<<<< HEAD
-=======
 /turf/closed/shuttle/dropship_white
 	name = "wall"
 	icon = 'icons/turf/ert_shuttle.dmi'
@@ -556,7 +580,6 @@
 
 /turf/closed/shuttle/dropship_regular/cockpit_window
 	icon_state = "regular_shuttle_cockpit_window"
->>>>>>> upstream/master
 
 /turf/closed/shuttle/dropship3
 	name = "\improper Triumph"
@@ -649,6 +672,10 @@
 /turf/closed/shuttle/dropship2/singlewindow
 	icon_state = "shuttle_single_window"
 
+/turf/closed/shuttle/dropship2/singlewindow/tadpole
+	icon_state = "shuttle_single_window"
+	resistance_flags = NONE
+
 /turf/closed/shuttle/dropship2/interiormisc
 	icon_state = "shuttle_interior_threeside"
 
@@ -673,8 +700,16 @@
 /turf/closed/shuttle/dropship2/glassone
 	icon_state = "shuttle_glass1"
 
+/turf/closed/shuttle/dropship2/glassone/tadpole
+	icon_state = "shuttle_glass1"
+	resistance_flags = NONE
+
 /turf/closed/shuttle/dropship2/glasstwo
 	icon_state = "shuttle_glass2"
+
+/turf/closed/shuttle/dropship2/glasstwo/tadpole
+	icon_state = "shuttle_glass2"
+	resistance_flags = NONE
 
 /turf/closed/shuttle/dropship2/glassthree
 	icon_state = "shuttle_glass3"
@@ -688,8 +723,16 @@
 /turf/closed/shuttle/dropship2/glasssix
 	icon_state = "shuttle_glass6"
 
+/turf/closed/shuttle/dropship2/rearcorner/tadpole
+	icon_state = "shuttle_rearcorner"
+	resistance_flags = NONE
+
 /turf/closed/shuttle/dropship2/rearcorner/alt
 	icon_state = "shuttle_rearcorner_alt"
+
+/turf/closed/shuttle/dropship2/rearcorner/alt/tadpole
+	icon_state = "shuttle_rearcorner_alt"
+	resistance_flags = NONE
 
 /turf/closed/shuttle/dropship2/transparent
 	opacity = FALSE
@@ -706,8 +749,6 @@
 	icon_state = "wall0"
 	plane = GAME_PLANE
 
-<<<<<<< HEAD
-=======
 /turf/closed/shuttle/escapepod/wallone
 	icon_state = "wall1"
 
@@ -735,19 +776,15 @@
 /turf/closed/shuttle/escapepod/cornertwo
 	icon_state = "corner2"
 
->>>>>>> upstream/master
 /turf/closed/shuttle/escapeshuttle
 	icon_state = "swall0"
 	smoothing_behavior = CARDINAL_SMOOTHING
 	smoothing_groups = SMOOTH_ESCAPESHUTTLE
 	walltype = "swall"
 
-<<<<<<< HEAD
-=======
 /turf/closed/shuttle/escapeshuttle/prison
 	resistance_flags = RESIST_ALL
 
->>>>>>> upstream/master
 /turf/closed/banish_space //Brazil
 	plane = PLANE_SPACE
 	layer = SPACE_LAYER

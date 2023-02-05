@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 #define VENDOR_BROKEN "vendor_broken"
 #define VENDOR_BLANK "vendor_blank"
->>>>>>> upstream/master
 //----- Marine ship machinery file -----//
 // Put any new machines in here before map is released and everything moved to their proper positions.
 
@@ -69,8 +66,6 @@
 		icon_state += "0"
 
 
-<<<<<<< HEAD
-=======
 /obj/machinery/prop/mainship/computer/aiupload
 	name = "\improper AI upload console"
 	desc = "Used to upload laws to the AI."
@@ -152,7 +147,6 @@
 	icon_state = "weapon_recharger"
 	density = FALSE
 
->>>>>>> upstream/master
 //Nonpower using props
 
 /obj/structure/prop/mainship
@@ -217,11 +211,8 @@
 	bound_height = 96
 	resistance_flags = UNACIDABLE
 
-<<<<<<< HEAD
-=======
 /obj/structure/prop/mainship/missile_tube/south
 	icon_state = "missiletubesouth"
->>>>>>> upstream/master
 
 /obj/structure/prop/mainship/ship_memorial
 	name = "slab of victory"
@@ -480,11 +471,6 @@
 /obj/structure/prop/mainship/protolathe/service
 	name = "Service Protolathe"
 
-<<<<<<< HEAD
-/obj/structure/prop/mainship/cannon_cables/ex_act()
-	return
-
-=======
 /obj/structure/prop/mainship/protolathe/cargo
 	name = "Cargo Protolathe"
 
@@ -552,7 +538,6 @@
 	icon = 'icons/Marine/mainship_props.dmi'
 	icon_state = "grounding_rod_open0"
 
->>>>>>> upstream/master
 /obj/structure/prop/mainship/cannon_cable_connector
 	name = "\improper Cannon cable connector"
 	desc = "A connector for the large cannon cables."
@@ -560,18 +545,6 @@
 	icon_state = "cannon_cable_connector"
 	density = TRUE
 
-<<<<<<< HEAD
-/obj/structure/prop/mainship/cannon_cable_connector/ex_act()
-	return
-
-/obj/structure/prop/mainship/propcarp
-	name = "space carp"
-	desc = "A ferocious, fang-bearing creature that resembles a fish."
-	icon = 'icons/Marine/mainship_props.dmi'
-	icon_state = "carpprop"
-	density = TRUE
-
-=======
 /obj/structure/prop/mainship/reflector
 	name = "\improper reflector"
 	desc = "An angled mirror for reflecting laser beams."
@@ -584,7 +557,6 @@
 /obj/structure/prop/mainship/cannon_cable_connector/ex_act()
 	return
 
->>>>>>> upstream/master
 /obj/structure/prop/mainship/prop_sec
 	name = "Security Officer"
 	desc = "A NT security officer guarding the perimeter. They look rather busy and pays no attention to you."
@@ -631,8 +603,6 @@
 	icon_state = "silo"
 	density = TRUE
 
-<<<<<<< HEAD
-=======
 /obj/structure/prop/mainship/propcarp
 	name = "space carp"
 	desc = "A ferocious, fang-bearing creature that resembles a fish."
@@ -640,7 +610,6 @@
 	icon_state = "carpprop"
 	density = TRUE
 
->>>>>>> upstream/master
 /obj/structure/prop/mainship/propcarp/Initialize(mapload) //slightly randomize carp to simulate life
 	. = ..()
 	var/pickedrotate = pick(0,1,2,4,8,10)
@@ -682,15 +651,9 @@
 	name = "pneumatic tube"
 	desc = "A pneumatic tube commonly used for transportation on NanoTrasen research stations."
 	icon = 'icons/Marine/mainship_props.dmi'
-<<<<<<< HEAD
-	icon_state = "tubeprop"
-	resistance_flags = RESIST_ALL
-	layer = ABOVE_TURF_LAYER //so our fake prop can visually pass under glass panels
-=======
 	icon_state = "tubepropstraight"
 	resistance_flags = RESIST_ALL
 	layer = ABOVE_OBJ_LAYER //so our fake prop can visually pass under glass panels
->>>>>>> upstream/master
 
 /obj/structure/prop/mainship/tubeprop/decorative
 	icon = 'icons/Marine/mainship_props.dmi'
@@ -698,8 +661,6 @@
 	resistance_flags = RESIST_ALL
 	mouse_opacity = MOUSE_OPACITY_TRANSPARENT
 
-<<<<<<< HEAD
-=======
 /obj/structure/prop/mainship/tubeprop/end
 	icon_state = "tubepropend"
 
@@ -715,7 +676,6 @@
 /obj/structure/prop/mainship/tubeprop/tubecurved
 	icon_state = "tubecurved"
 
->>>>>>> upstream/master
 /obj/structure/prop/mainship/meterprop/
 	name = "meter"
 	desc = "That's a gas flow meter. It measures something."
@@ -824,15 +784,12 @@
 		MECH_GREY_R_ARM = MECH_VANGUARD,
 	)
 
-<<<<<<< HEAD
-=======
 /obj/structure/prop/mainship/chimney
 	name = "fireplace"
 	desc = "A large stone brick fireplace."
 	icon = 'icons/Marine/mainship_props64.dmi'
 	icon_state = "fireplace"
 
->>>>>>> upstream/master
 //items props
 
 /obj/item/prop
@@ -910,8 +867,6 @@
 				"'H.O.G.A.N.' Core AI Module",
 	)
 
-<<<<<<< HEAD
-=======
 /obj/item/prop/aicard
 	name = "intelliCard"
 	desc = "A storage device for AIs. Patent pending."
@@ -922,7 +877,6 @@
 	if(prob(50))
 		icon_state = "aicard-404"
 
->>>>>>> upstream/master
 /obj/item/prop/dogtag
 	name = "John Doe" //generic name
 	desc = "The remains of a marine long dead, you hope they found peace."
@@ -946,10 +900,7 @@
 	icon = 'icons/Marine/mainship_props.dmi'
 	desc = "The insides of this vendor are visible and rusted through, you get the feeling there's no fixing this machine."
 	density = TRUE
-<<<<<<< HEAD
-=======
 	resistance_flags = XENO_DAMAGEABLE
->>>>>>> upstream/master
 
 /obj/structure/prop/brokenvendor/brokenweaponsrack
 	icon_state = "marinearmory-broken"
@@ -1013,15 +964,12 @@
 	resistance_flags = RESIST_ALL
 	layer = ABOVE_MOB_LAYER
 
-<<<<<<< HEAD
-=======
 /obj/structure/prop/vehicle/van/Initialize()
 	. = ..()
 	if(dir & (NORTH|SOUTH))
 		bound_height = 64
 		bound_width = 32
 
->>>>>>> upstream/master
 /obj/structure/prop/vehicle/van/destructible
 	max_integrity = 200
 	resistance_flags = XENO_DAMAGEABLE
@@ -1664,8 +1612,6 @@
 	QDEL_NULL(chatter_loop)
 	return ..()
 
-<<<<<<< HEAD
-=======
 /obj/structure/prop/mainship/railing
 	name = "railing"
 	desc = "Basic railing meant to protect idiots like you from falling."
@@ -1690,7 +1636,6 @@
 	desc = "A solar directional tracker."
 	icon_state = "tracker_base"
 
->>>>>>> upstream/master
 /obj/structure/prop/vehicle/som_mech
 	name = "Marauder assault mech"
 	desc = "A heavily armed mech used by the SOM to spearhead an assault, this one seems to be non-functional."
@@ -1703,8 +1648,6 @@
 	pixel_y = -15
 	resistance_flags = RESIST_ALL
 	layer = ABOVE_MOB_LAYER
-<<<<<<< HEAD
-=======
 
 /obj/structure/prop/machine_frame3
 	name = "machine frame"
@@ -1717,6 +1660,14 @@
 	desc = "This device is used to trigger station functions, which require more than one ID card to authenticate."
 	icon = 'icons/obj/monitors.dmi'
 	icon_state = "auth_off"
+
+/obj/structure/prop/turbine
+	name = "power turbine"
+	desc = "A gigantic turbine that runs on who knows what. It could probably be turned on by someone with the correct know-how."
+	icon = 'icons/Marine/mainship_props96.dmi'
+	icon_state = "biomass_turbine"
+	density = TRUE
+
 
 //TG BROKEN VENDOR PROPS
 //USE THESE SPARINGLY OUTSIDE OF TG THEMED MAPS OR I'LL BREAK YOUR KNEECAPS
@@ -1993,4 +1944,3 @@
 
 #undef VENDOR_BROKEN
 #undef VENDOR_BLANK
->>>>>>> upstream/master

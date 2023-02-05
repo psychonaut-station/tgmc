@@ -19,11 +19,7 @@
 
 /mob/living/carbon/xenomorph/bull/handle_special_state()
 	if(is_charging >= CHARGE_ON)
-<<<<<<< HEAD
-		icon_state = "Bull Charging"
-=======
 		icon_state = "[xeno_caste.caste_name][is_a_rouny ? " rouny" : ""] Charging"
->>>>>>> upstream/master
 		return TRUE
 	return FALSE
 

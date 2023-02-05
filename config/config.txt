@@ -100,11 +100,7 @@ POPUP_ADMIN_PM
 # TOPIC_FILTERING_WHITELIST 127.0.0.1
 
 ## Only enable this if you have youtube-dl installed!
-<<<<<<< HEAD
-INVOKE_YOUTUBEDL youtube-dl
-=======
 # INVOKE_YOUTUBEDL youtube-dl
->>>>>>> upstream/master
 
 ## End of round chat message
 # END_OF_ROUND_CHANNEL game-updates
@@ -205,7 +201,3 @@ DEFAULT_VIEW_SQUARE 15x15
 #XENOS_ON_STRIKE
 
 AI_ANTI_STUCK_LAG_TIME_DILATION_THRESHOLD 20
-# Webhook URL for Discord rounstart alerts
-#ENABLE_DISCORD_ROUND_ALERTS
-DISCORD_ROUND_ALERT_WEBHOOK_URL
-DISCORD_ROUND_ALERT_ROLE_ID

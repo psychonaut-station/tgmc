@@ -36,11 +36,7 @@
 	layer = FLY_LAYER
 	animate_movement = NO_STEPS
 	light_system = MOVABLE_LIGHT
-<<<<<<< HEAD
-	light_range = 2
-=======
 	light_range = 1.5
->>>>>>> upstream/master
 	light_power = 2
 	light_color = COLOR_VERY_SOFT_YELLOW
 

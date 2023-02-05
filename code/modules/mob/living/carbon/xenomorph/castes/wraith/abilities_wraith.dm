@@ -20,11 +20,7 @@ GLOBAL_LIST_INIT(wraith_banish_very_short_duration_list, typecacheof(list(
 
 ///Check target Blink turf to see if it can be blinked to
 /datum/action/xeno_action/activable/blink/proc/check_blink_tile(turf/T, ignore_blocker = FALSE, silent = FALSE)
-<<<<<<< HEAD
-	if(isclosedturf(T) || isspaceturf(T))
-=======
 	if(isclosedturf(T) || isspaceturf(T) || isspacearea(T))
->>>>>>> upstream/master
 		if(!silent)
 			to_chat(owner, span_xenowarning("We cannot blink here!"))
 		return FALSE
@@ -47,8 +43,6 @@ GLOBAL_LIST_INIT(wraith_banish_very_short_duration_list, typecacheof(list(
 			to_chat(owner, span_xenowarning("We can't blink here!"))
 		return FALSE
 
-<<<<<<< HEAD
-=======
 	var/area/A = get_area(src)
 	if(isspacearea(A))
 		if(!silent)
@@ -56,7 +50,6 @@ GLOBAL_LIST_INIT(wraith_banish_very_short_duration_list, typecacheof(list(
 		return FALSE
 
 
->>>>>>> upstream/master
 	return TRUE
 
 ///Check for whether the target turf has dense objects inside

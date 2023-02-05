@@ -1,9 +1,5 @@
 /obj/effect/turf_decal/warning_stripes
-<<<<<<< HEAD
-	icon = 'icons/effects/warning_stripes.dmi'
-=======
 	icon = 'icons/turf/decals.dmi'
->>>>>>> upstream/master
 	icon_state = "stripe_box_thick"
 	layer = BELOW_ATMOS_PIPE_LAYER
 

@@ -148,8 +148,6 @@ const ItemLine = (props, context) => {
               Recommended
             </Box>
           )}
-<<<<<<< HEAD
-=======
           {prod_color === 'synth-cosmetic' && (
             <Box inline mr="6px" ml="6px" color="blue">
               Cosmetic
@@ -175,7 +173,6 @@ const ItemLine = (props, context) => {
               Recommended - Can be attached to flak jacket
             </Box>
           )}
->>>>>>> upstream/master
           {prod_cost > 0 && (
             <Box inline width="75px" mr="6px" ml="6px">
               {prod_cost} points

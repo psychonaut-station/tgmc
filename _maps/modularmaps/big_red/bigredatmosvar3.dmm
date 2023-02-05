@@ -342,11 +342,7 @@
 /turf/open/floor,
 /area/bigredv2/outside/filtration_plant)
 "ux" = (
-<<<<<<< HEAD
-/obj/structure/window/framed/colony/reinforced/hull,
-=======
 /obj/structure/window/framed/colony/reinforced,
->>>>>>> upstream/master
 /turf/open/floor/plating,
 /area/bigredv2/outside/filtration_plant)
 "uU" = (

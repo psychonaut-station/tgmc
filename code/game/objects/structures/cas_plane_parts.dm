@@ -9,8 +9,6 @@
 	opacity = FALSE
 	resistance_flags = PLASMACUTTER_IMMUNE
 
-<<<<<<< HEAD
-=======
 /turf/closed/shuttle/cas/one
 	icon_state = "cas_plane_trim_one"
 /turf/closed/shuttle/cas/two
@@ -76,7 +74,6 @@
 /turf/closed/shuttle/cas/twentytwo
 	icon_state = "cas_plane_backpiece"
 
->>>>>>> upstream/master
 /turf/closed/shuttle/cas/computer
 	name = "Condor piloting computer"
 	desc = "Does not support Pinball."
@@ -255,8 +252,6 @@
 /obj/structure/caspart/internalengine/left
 	icon_state = "54"
 	x_offset = 11
-<<<<<<< HEAD
-=======
 
 //damn plane is a jigsaw puzzle, naming reflects this
 /obj/structure/caspart/one
@@ -323,4 +318,3 @@
 
 /obj/structure/caspart/twentytwo
 	icon_state = "cas_plane_backpiece"
->>>>>>> upstream/master

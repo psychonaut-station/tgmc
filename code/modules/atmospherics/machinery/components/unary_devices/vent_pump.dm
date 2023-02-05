@@ -127,11 +127,7 @@
 		else
 			to_chat(user, span_warning("You need more welding fuel to complete this task."))
 			cut_overlay(GLOB.welding_sparks)
-<<<<<<< HEAD
-			return TRUE	
-=======
 			return TRUE
->>>>>>> upstream/master
 	return FALSE
 
 /obj/machinery/atmospherics/components/unary/vent_pump/can_unwrench(mob/user)
@@ -168,6 +164,10 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/AltClick(mob/user)
 	if(!isliving(user))
 		return
+	if(isxeno(user))
+		var/mob/living/carbon/xenomorph/xeno_user = user
+		xeno_user.handle_ventcrawl(src, xeno_user.xeno_caste.vent_enter_speed, xeno_user.xeno_caste.silent_vent_crawl)
+		return
 	var/mob/living/living_user = user
 	living_user.handle_ventcrawl(src)
 
@@ -186,13 +186,10 @@
 	piping_layer = 3
 	icon_state = "vent_map-3"
 
-<<<<<<< HEAD
-=======
 /obj/machinery/atmospherics/components/unary/vent_pump/layer4
 	piping_layer = 4
 	icon_state = "vent_map-3"
 
->>>>>>> upstream/master
 /obj/machinery/atmospherics/components/unary/vent_pump/on
 	on = TRUE
 	icon_state = "vent_map_on-2"

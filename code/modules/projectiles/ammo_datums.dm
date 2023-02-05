@@ -225,11 +225,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 			new_angle += 360
 		else if(new_angle > 360)
 			new_angle -= 360
-<<<<<<< HEAD
-		new_proj.fire_at(shooter.Adjacent(target) ? target : null, main_proj.firer, source, range, speed, new_angle, TRUE) //Angle-based fire. No target.
-=======
 		new_proj.fire_at(target, main_proj.firer, source, range, speed, new_angle, TRUE)
->>>>>>> upstream/master
 
 /// A variant of Fire_bonus_projectiles without fixed scatter and no link between gun and bonus_projectile accuracy
 /datum/ammo/proc/fire_directionalburst(obj/projectile/main_proj, atom/shooter, atom/source, range, speed, angle, target)
@@ -257,11 +253,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 			new_angle += 360
 		if(new_angle > 360)
 			new_angle -= 360
-<<<<<<< HEAD
-		new_proj.fire_at(shooter.Adjacent(target) ? target : null, main_proj.loc, source, range, speed, new_angle, TRUE) //Angle-based fire. No target.
-=======
 		new_proj.fire_at(target, main_proj.loc, source, range, speed, new_angle, TRUE)
->>>>>>> upstream/master
 
 /datum/ammo/proc/drop_flame(turf/T)
 	if(!istype(T))
@@ -362,11 +354,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	hud_state = "pistol_ap"
 	damage = 20
 	penetration = 12.5
-<<<<<<< HEAD
-	shrapnel_chance = 25
-=======
 	shrapnel_chance = 15
->>>>>>> upstream/master
 	sundering = 2
 
 /datum/ammo/bullet/pistol/heavy
@@ -379,11 +367,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/pistol/superheavy
 	name = "high impact pistol bullet"
-<<<<<<< HEAD
-	hud_state = "pistol_hollow"
-=======
 	hud_state = "pistol_superheavy"
->>>>>>> upstream/master
 	damage = 45
 	penetration = 15
 	sundering = 3.5
@@ -397,10 +381,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/pistol/mech
 	name = "super-heavy pistol bullet"
-<<<<<<< HEAD
-=======
 	hud_state = "pistol_superheavy"
->>>>>>> upstream/master
 	damage = 45
 	penetration = 20
 	sundering = 1
@@ -421,11 +402,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/pistol/squash
 	name = "squash-head pistol bullet"
-<<<<<<< HEAD
-	hud_state = "pistol_special"
-=======
 	hud_state = "pistol_squash"
->>>>>>> upstream/master
 	accuracy = 5
 	damage = 32
 	penetration = 10
@@ -630,22 +607,14 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/rifle/heavy
 	name = "heavy rifle bullet"
-<<<<<<< HEAD
-	hud_state = "hivelo"
-=======
 	hud_state = "rifle_heavy"
->>>>>>> upstream/master
 	damage = 30
 	penetration = 10
 	sundering = 1.25
 
 /datum/ammo/bullet/rifle/repeater
 	name = "heavy impact rifle bullet"
-<<<<<<< HEAD
-	hud_state = "revolver_heavy"
-=======
 	hud_state = "sniper"
->>>>>>> upstream/master
 	damage = 70
 	penetration = 20
 	sundering = 1.25
@@ -664,24 +633,13 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 /datum/ammo/bullet/rifle/machinegun
 	name = "machinegun bullet"
 	hud_state = "rifle_heavy"
-<<<<<<< HEAD
-	damage = 20
-	penetration = 10
-=======
 	damage = 27.5
 	penetration = 10
 	sundering = 0.75
->>>>>>> upstream/master
 
 /datum/ammo/bullet/rifle/som_machinegun
 	name = "machinegun bullet"
 	hud_state = "rifle_heavy"
-<<<<<<< HEAD
-	damage = 25
-	penetration = 12.5
-	sundering = 1
-
-=======
 	damage = 30
 	penetration = 12.5
 	sundering = 1
@@ -689,7 +647,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 /datum/ammo/bullet/rifle/som_machinegun/on_hit_mob(mob/M, obj/projectile/P)
 	staggerstun(M, P, max_range = 20, slowdown = 0.5)
 
->>>>>>> upstream/master
 /datum/ammo/bullet/rifle/tx8
 	name = "A19 high velocity bullet"
 	hud_state = "hivelo"
@@ -725,11 +682,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/rifle/mpi_km
 	name = "crude heavy rifle bullet"
-<<<<<<< HEAD
-	hud_state = "rifle_heavy"
-=======
 	hud_state = "rifle_crude"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING
 	damage = 30
 	penetration = 15
@@ -757,27 +710,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	damage = 32.5
 	sundering = 1.25
 
-<<<<<<< HEAD
-/datum/ammo/bullet/rifle/standard_br/incendiary
-	name = "incendiary light marksman bullet"
-	hud_state = "hivelo"
-	hud_state_empty = "hivelo_empty"
-	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_INCENDIARY
-	damage = 25
-	sundering = 0
-	accuracy = -10
-
-/datum/ammo/bullet/rifle/standard_dmr/incendiary
-	name = "incendiary marksman bullet"
-	hud_state = "hivelo_fire"
-	hud_state_empty = "hivelo_empty"
-	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_INCENDIARY
-	damage = 35
-	sundering = 0 // incen doens't have sundering
-	accuracy = -10
-
-=======
->>>>>>> upstream/master
 /datum/ammo/bullet/rifle/mech
 	name = "super-heavy rifle bullet"
 	damage = 25
@@ -827,25 +759,13 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	icon_state = "beanbag"
 	hud_state = "shotgun_beanbag"
 	flags_ammo_behavior = AMMO_BALLISTIC
-<<<<<<< HEAD
-=======
 	damage = 15
->>>>>>> upstream/master
 	max_range = 15
 	shrapnel_chance = 0
 	accuracy = 5
 
 /datum/ammo/bullet/shotgun/beanbag/on_hit_mob(mob/M, obj/projectile/P)
-<<<<<<< HEAD
-	if(!M || M == P.firer)
-		return
-	if(ishuman(M))
-		var/mob/living/carbon/human/H = M
-		if(H.species?.count_human) //no effect on synths
-			H.apply_effects(6,8)
-=======
 	staggerstun(M, P, weaken = 1, stagger = 2, knockback = 1, slowdown = 2, hard_size_threshold = 1)
->>>>>>> upstream/master
 
 /datum/ammo/bullet/shotgun/incendiary
 	name = "incendiary slug"
@@ -868,11 +788,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	icon_state = "flechette"
 	hud_state = "shotgun_flechette"
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING
-<<<<<<< HEAD
-	bonus_projectiles_type = /datum/ammo/bullet/shotgun/flechette_spread
-=======
 	bonus_projectiles_type = /datum/ammo/bullet/shotgun/flechette/flechette_spread
->>>>>>> upstream/master
 	bonus_projectiles_amount = 2
 	bonus_projectiles_scatter = 3
 	accuracy_var_low = 8
@@ -883,22 +799,9 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	penetration = 15
 	sundering = 7
 
-<<<<<<< HEAD
-/datum/ammo/bullet/shotgun/flechette_spread
-	name = "additional flechette"
-	icon_state = "flechette"
-	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING
-	accuracy_var_low = 8
-	accuracy_var_high = 8
-	max_range = 15
-	damage = 40
-	damage_falloff = 1
-	penetration = 25
-=======
 /datum/ammo/bullet/shotgun/flechette/flechette_spread
 	name = "additional flechette"
 	damage = 40
->>>>>>> upstream/master
 	sundering = 5
 
 /datum/ammo/bullet/shotgun/buckshot
@@ -906,10 +809,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	handful_icon_state = "shotgun buckshot shell"
 	icon_state = "buckshot"
 	hud_state = "shotgun_buckshot"
-<<<<<<< HEAD
-	flags_ammo_behavior = AMMO_BALLISTIC
-=======
->>>>>>> upstream/master
 	bonus_projectiles_type = /datum/ammo/bullet/shotgun/spread
 	bonus_projectiles_amount = 5
 	bonus_projectiles_scatter = 4
@@ -919,11 +818,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	max_range = 10
 	damage = 40
 	damage_falloff = 4
-<<<<<<< HEAD
-	penetration = 0
-
-=======
->>>>>>> upstream/master
 
 /datum/ammo/bullet/shotgun/buckshot/on_hit_mob(mob/M,obj/projectile/P)
 	staggerstun(M, P, weaken = 1, stagger = 1, knockback = 2, slowdown = 0.5, max_range = 3)
@@ -931,20 +825,12 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 /datum/ammo/bullet/shotgun/spread
 	name = "additional buckshot"
 	icon_state = "buckshot"
-<<<<<<< HEAD
-	shell_speed = 2
-=======
->>>>>>> upstream/master
 	accuracy_var_low = 9
 	accuracy_var_high = 9
 	accurate_range = 3
 	max_range = 10
 	damage = 40
 	damage_falloff = 4
-<<<<<<< HEAD
-	penetration = 0
-=======
->>>>>>> upstream/master
 
 /datum/ammo/bullet/shotgun/sx16_buckshot
 	name = "shotgun buckshot shell" //16 gauge is between 12 and 410 bore.
@@ -962,15 +848,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/shotgun/sx16_buckshot/spread
 	name = "additional buckshot"
-<<<<<<< HEAD
-	icon_state = "buckshot"
-	accuracy_var_low = 7
-	accuracy_var_high = 7
-	max_range = 10
-	damage = 25
-	damage_falloff = 4
-=======
->>>>>>> upstream/master
 
 /datum/ammo/bullet/shotgun/sx16_flechette
 	name = "shotgun flechette shell"
@@ -989,16 +866,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/shotgun/sx16_flechette/spread
 	name = "additional flechette"
-<<<<<<< HEAD
-	icon_state = "flechette"
-	accuracy_var_low = 7
-	accuracy_var_high = 7
-	max_range = 15
-	damage = 15
-	damage_falloff = 0.5
-	penetration = 15
-=======
->>>>>>> upstream/master
 
 /datum/ammo/bullet/shotgun/sx16_slug
 	name = "shotgun slug"
@@ -1029,14 +896,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/shotgun/tx15_flechette/spread
 	name = "additional flechette"
-<<<<<<< HEAD
-	icon_state = "flechette"
-	max_range = 15
-	damage = 17
-	damage_falloff = 0.25
-	penetration = 15
-=======
->>>>>>> upstream/master
 
 /datum/ammo/bullet/shotgun/tx15_slug
 	name = "shotgun slug"
@@ -1057,10 +916,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	handful_icon_state = "light shotgun buckshot shell"
 	icon_state = "buckshot"
 	hud_state = "shotgun_buckshot"
-<<<<<<< HEAD
-	flags_ammo_behavior = AMMO_BALLISTIC
-=======
->>>>>>> upstream/master
 	bonus_projectiles_type = /datum/ammo/bullet/shotgun/mbx900_buckshot/spread
 	bonus_projectiles_amount = 2
 	bonus_projectiles_scatter = 10
@@ -1072,26 +927,13 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/shotgun/mbx900_buckshot/spread
 	name = "additional buckshot"
-<<<<<<< HEAD
-	icon_state = "buckshot"
-	accuracy_var_low = 7
-	accuracy_var_high = 7
-	max_range = 10
 	damage = 40
-	damage_falloff = 1
-=======
-	damage = 40
->>>>>>> upstream/master
 
 /datum/ammo/bullet/shotgun/mbx900_sabot
 	name = "light shotgun sabot shell"
 	handful_icon_state = "light shotgun sabot shell"
 	icon_state = "shotgun_slug"
-<<<<<<< HEAD
-	hud_state = "shotgun_slug"
-=======
 	hud_state = "shotgun_sabot"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING
 	shell_speed = 5
 	max_range = 30
@@ -1103,11 +945,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	name = "light shotgun tracker round"
 	handful_icon_state = "light shotgun tracker round"
 	icon_state = "shotgun_slug"
-<<<<<<< HEAD
-	hud_state = "shotgun_flechette"
-=======
 	hud_state = "shotgun_tracker"
->>>>>>> upstream/master
 	shell_speed = 4
 	max_range = 30
 	damage = 5
@@ -1120,11 +958,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	name = "shotgun tracker shell"
 	handful_icon_state = "shotgun tracker shell"
 	icon_state = "shotgun_slug"
-<<<<<<< HEAD
-	hud_state = "shotgun_flechette"
-=======
 	hud_state = "shotgun_tracker"
->>>>>>> upstream/master
 	shell_speed = 4
 	max_range = 30
 	damage = 5
@@ -1220,11 +1054,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	sundering = 10
 
 /datum/ammo/bullet/sniper/martini/on_hit_mob(mob/M, obj/projectile/P)
-<<<<<<< HEAD
-	staggerstun(M, P, weaken = 1, stagger = 1, knockback = 2, slowdown = 0.5, max_range = 5)
-=======
 	staggerstun(M, P, weaken = 1, stagger = 1, knockback = 2, slowdown = 0.5)
->>>>>>> upstream/master
 
 /datum/ammo/bullet/sniper/elite
 	name = "supersonic sniper bullet"
@@ -1237,11 +1067,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/sniper/pfc
 	name = "high caliber rifle bullet"
-<<<<<<< HEAD
-	hud_state = "minigun"
-=======
 	hud_state = "sniper_heavy"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING|AMMO_SNIPER
 	damage = 80
 	penetration = 30
@@ -1250,11 +1076,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/sniper/pfc/flak
 	name = "high caliber flak rifle bullet"
-<<<<<<< HEAD
-	hud_state = "sniper_supersonic"
-=======
 	hud_state = "sniper_heavy_flak"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING|AMMO_SNIPER
 	damage = 40
 	penetration = 10
@@ -1267,11 +1089,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/sniper/auto
 	name = "high caliber rifle bullet"
-<<<<<<< HEAD
-	hud_state = "minigun"
-=======
 	hud_state = "sniper_auto"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING|AMMO_SNIPER
 	damage = 50
 	penetration = 30
@@ -1283,11 +1101,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING|AMMO_SNIPER|AMMO_IFF
 	damage = 100
 	penetration = 35
-<<<<<<< HEAD
-	sundering = 5
-=======
 	sundering = 0
->>>>>>> upstream/master
 	damage_falloff = 0.3
 
 /*
@@ -1298,11 +1112,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/smartmachinegun
 	name = "smartmachinegun bullet"
-<<<<<<< HEAD
-	icon_state = "redbullet" //Red bullets to indicate friendly fire restriction
-=======
 	bullet_color = COLOR_SOFT_RED //Red bullets to indicate friendly fire restriction
->>>>>>> upstream/master
 	hud_state = "smartgun"
 	hud_state_empty = "smartgun_empty"
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING
@@ -1313,13 +1123,8 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/smart_minigun
 	name = "smartminigun bullet"
-<<<<<<< HEAD
-	icon_state = "redbullet" //Red bullets to indicate friendly fire restriction
-	hud_state = "smartgun"
-=======
 	bullet_color = COLOR_SOFT_RED //Red bullets to indicate friendly fire restriction
 	hud_state = "smartgun_minigun"
->>>>>>> upstream/master
 	hud_state_empty = "smartgun_empty"
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING
 	accurate_range = 12
@@ -1330,15 +1135,9 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/turret
 	name = "autocannon bullet"
-<<<<<<< HEAD
-	icon_state = "redbullet"
-	hud_state = "smartgun"
-	hud_state_empty = "smartgun_empty"
-=======
 	bullet_color = COLOR_SOFT_RED
 	hud_state = "rifle"
 	hud_state_empty = "rifle_empty"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING|AMMO_SENTRY
 	accurate_range = 10
 	damage = 25
@@ -1350,10 +1149,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/turret/gauss
 	name = "heavy gauss turret slug"
-<<<<<<< HEAD
-=======
 	hud_state = "rifle_heavy"
->>>>>>> upstream/master
 	damage = 60
 
 /datum/ammo/bullet/turret/mini
@@ -1367,11 +1163,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	name = "machinegun bullet"
 	icon_state 	= "bullet" // Keeping it bog standard with the turret but allows it to be changed.
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING
-<<<<<<< HEAD
-	hud_state   = "smartgun"
-=======
 	hud_state   = "minigun"
->>>>>>> upstream/master
 	hud_state_empty = "smartgun_empty"
 	accurate_range = 12
 	damage = 40 //Reduced damage due to vastly increased mobility
@@ -1383,10 +1175,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 /datum/ammo/bullet/minigun
 	name = "minigun bullet"
 	hud_state = "minigun"
-<<<<<<< HEAD
-=======
 	hud_state_empty = "smartgun_empty"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING
 	accuracy_var_low = 3
 	accuracy_var_high = 3
@@ -1405,15 +1194,12 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 /datum/ammo/bullet/dual_cannon
 	name = "dualcannon bullet"
 	hud_state = "minigun"
-<<<<<<< HEAD
-=======
 	hud_state_empty = "smartgun_empty"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING|AMMO_PASS_THROUGH_TURF|AMMO_PASS_THROUGH_MOVABLE
 	accuracy_var_low = 3
 	accuracy_var_high = 3
 	accurate_range = 5
-	damage = 25
+	damage = 40
 	penetration = 100
 	sundering = 7
 	max_range = 30
@@ -1425,15 +1211,11 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	P.proj_max_range -= 15
 
 /datum/ammo/bullet/dual_cannon/on_hit_obj(obj/O, obj/projectile/P)
-	P.proj_max_range -= 10
+	P.proj_max_range -= 5
 
 /datum/ammo/bullet/railgun
 	name = "armor piercing railgun slug"
-<<<<<<< HEAD
-	hud_state = "alloy_spike"
-=======
 	hud_state = "railgun_ap"
->>>>>>> upstream/master
 	icon_state 	= "blue_bullet"
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING|AMMO_PASS_THROUGH_TURF|AMMO_PASS_THROUGH_MOVABLE
 	shell_speed = 4
@@ -1449,10 +1231,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/railgun/hvap
 	name = "high velocity railgun slug"
-<<<<<<< HEAD
-=======
 	hud_state = "railgun_hvap"
->>>>>>> upstream/master
 	shell_speed = 5
 	max_range = 21
 	damage = 100
@@ -1464,10 +1243,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/railgun/smart
 	name = "smart armor piercing railgun slug"
-<<<<<<< HEAD
-=======
 	hud_state = "railgun_smart"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING|AMMO_PASS_THROUGH_TURF|AMMO_PASS_THROUGH_MOVABLE|AMMO_IFF
 	damage = 75
 	penetration = 20
@@ -1485,11 +1261,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	max_range = 14
 	damage = 150
 	penetration = 100
-<<<<<<< HEAD
-	sundering = 20
-=======
 	sundering = 0
->>>>>>> upstream/master
 	bullet_color = COLOR_PULSE_BLUE
 	on_pierce_multiplier = 0.85
 
@@ -1700,11 +1472,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	damage_falloff = 1
 
 /datum/ammo/bullet/micro_rail_spread/on_hit_mob(mob/M, obj/projectile/proj)
-<<<<<<< HEAD
-	staggerstun(M, proj, max_range = 5, stagger = 0.5, slowdown = 0.5)
-=======
 	staggerstun(M, proj, stagger = 0.5, slowdown = 0.5)
->>>>>>> upstream/master
 
 /datum/ammo/bullet/micro_rail_spread/incendiary
 	name = "incendiary flechette"
@@ -1715,11 +1483,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	max_range = 6
 
 /datum/ammo/bullet/micro_rail_spread/incendiary/on_hit_mob(mob/M, obj/projectile/proj)
-<<<<<<< HEAD
-	staggerstun(M, proj, max_range = 5, stagger = 0.2, slowdown = 0.2)
-=======
 	staggerstun(M, proj, stagger = 0.2, slowdown = 0.2)
->>>>>>> upstream/master
 
 /datum/ammo/bullet/micro_rail_spread/incendiary/drop_flame(turf/T)
 	if(!istype(T))
@@ -1813,8 +1577,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 /datum/ammo/smoke_burst/do_at_max_range(turf/T, obj/projectile/P)
 	drop_nade(T.density ? P.loc : T)
 
-<<<<<<< HEAD
-=======
 
 /datum/ammo/ags_shrapnel
 	name = "fragmentation grenade"
@@ -1873,7 +1635,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	sundering = 1
 	damage_falloff = 0
 
->>>>>>> upstream/master
 /*
 //================================================
 					Rocket Ammo
@@ -1952,11 +1713,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	max_range = 30
 
 /datum/ammo/rocket/mech/drop_nade(turf/T)
-<<<<<<< HEAD
-	explosion(T, 0, 2, 4, 5)
-=======
 	explosion(T, 0, 0, 5, 5)
->>>>>>> upstream/master
 
 /datum/ammo/rocket/heavy_rr
 	name = "75mm round"
@@ -2245,11 +2002,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/rocket/atgun_shell/apcr
 	name = "tungsten penetrator"
-<<<<<<< HEAD
-	hud_state = "shell_he"
-=======
 	hud_state = "shell_apcr"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC|AMMO_SUNDERING|AMMO_PASS_THROUGH_TURF|AMMO_PASS_THROUGH_MOVABLE
 	shell_speed = 4
 	damage = 200
@@ -2623,10 +2376,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/energy/lasgun/marine/autolaser/efficiency
 	name = "efficient machine laser bolt"
-<<<<<<< HEAD
-=======
 	hud_state = "laser_efficiency"
->>>>>>> upstream/master
 	damage = 8.5
 	hitscan_effect_icon = "beam_particle"
 
@@ -2695,10 +2445,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/energy/lasgun/marine/xray
 	name = "xray heat bolt"
-<<<<<<< HEAD
-=======
 	hud_state = "laser_xray"
->>>>>>> upstream/master
 	icon_state = "u_laser"
 	flags_ammo_behavior = AMMO_ENERGY|AMMO_INCENDIARY|AMMO_SUNDERING|AMMO_HITSCAN
 	damage = 25
@@ -2718,10 +2465,7 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/energy/lasgun/marine/heavy_laser
 	flags_ammo_behavior = AMMO_EXPLOSIVE|AMMO_ROCKET|AMMO_ENERGY|AMMO_SUNDERING|AMMO_HITSCAN|AMMO_INCENDIARY
-<<<<<<< HEAD
-=======
 	hud_state = "laser_overcharge"
->>>>>>> upstream/master
 	damage = 60
 	penetration = 10
 	sundering = 1
@@ -3556,13 +3300,8 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 
 /datum/ammo/bullet/pepperball
 	name = "pepperball"
-<<<<<<< HEAD
-	hud_state = "grenade_frag"
-	hud_state_empty = "battery_empty"
-=======
 	hud_state = "pepperball"
 	hud_state_empty = "pepperball_empty"
->>>>>>> upstream/master
 	flags_ammo_behavior = AMMO_BALLISTIC
 	accurate_range = 15
 	damage_type = STAMINA
@@ -3734,8 +3473,6 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	name = "smoke grenade shell"
 	nade_type = /obj/item/explosive/grenade/smokebomb
 	icon_state = "smoke_shell"
-<<<<<<< HEAD
-=======
 
 /datum/ammo/grenade_container/ags_grenade
 	name = "grenade shell"
@@ -3747,4 +3484,3 @@ GLOBAL_LIST_INIT(no_sticky_resin, typecacheof(list(/obj/item/clothing/mask/faceh
 	handful_amount = 1
 	max_range = 21
 	nade_type = /obj/item/explosive/grenade/ags
->>>>>>> upstream/master

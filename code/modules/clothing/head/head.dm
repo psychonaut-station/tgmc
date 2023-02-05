@@ -149,8 +149,6 @@
 	item_state = "booniehat"
 	soft_armor = list(MELEE = 15, BULLET = 15, LASER = 15, ENERGY = 15, BOMB = 10, BIO = 5, FIRE = 5, ACID = 5)
 
-<<<<<<< HEAD
-=======
 /obj/item/clothing/head/ornamented_cap
 	name = "\improper ornamented cap"
 	desc = "An ornamented cap with a visor. This one seems to be torn at the back."
@@ -161,7 +159,6 @@
 	soft_armor = list(MELEE = 15, BULLET = 15, LASER = 15, ENERGY = 15, BOMB = 10, BIO = 5, FIRE = 5, ACID = 5)
 	flags_armor_features = ARMOR_NO_DECAP
 
->>>>>>> upstream/master
 /obj/item/clothing/head/slouch
 	name = "\improper TGMC slouch hat"
 	desc = "A nice slouch hat worn by some TGMC troopers while on planets with hot weather, or just for style. While it has limited combat functionality, some prefer to wear it instead of the standard issue helmet."

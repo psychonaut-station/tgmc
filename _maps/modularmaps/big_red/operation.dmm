@@ -822,11 +822,7 @@
 /obj/machinery/computer/security,
 /obj/structure/table,
 /turf/open/floor/tile/dark/blue2{
-<<<<<<< HEAD
-	dir = 5
-=======
 	dir = 4
->>>>>>> upstream/master
 	},
 /area/bigredv2/outside/admin_building)
 "Ds" = (
@@ -1335,13 +1331,7 @@
 /obj/machinery/atmospherics/pipe/simple/green/hidden{
 	dir = 9
 	},
-<<<<<<< HEAD
-/turf/open/floor{
-	icon_state = "darkbluecorners2"
-	},
-=======
 /turf/open/floor/tile/dark/blue2/corner,
->>>>>>> upstream/master
 /area/bigredv2/outside/admin_building)
 "US" = (
 /obj/effect/landmark/weed_node,

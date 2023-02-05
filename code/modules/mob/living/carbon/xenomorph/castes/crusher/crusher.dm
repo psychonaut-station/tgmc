@@ -22,11 +22,7 @@
 
 /mob/living/carbon/xenomorph/crusher/handle_special_state()
 	if(is_charging >= CHARGE_ON)
-<<<<<<< HEAD
-		icon_state = "Crusher Charging"
-=======
 		icon_state = "[xeno_caste.caste_name][is_a_rouny ? " rouny" : ""] Charging"
->>>>>>> upstream/master
 		return TRUE
 	return FALSE
 

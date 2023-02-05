@@ -261,8 +261,6 @@
 	anchored = TRUE
 	coverage = 15
 	resistance_flags = XENO_DAMAGEABLE
-<<<<<<< HEAD
-=======
 
 /obj/structure/tankholder
 	name = "tank holder"
@@ -301,4 +299,3 @@
 /obj/structure/tankholder/emergencyoxygentwo
 	icon_state = "holder_emergency_engi"
 
->>>>>>> upstream/master

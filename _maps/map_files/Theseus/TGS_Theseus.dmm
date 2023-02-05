@@ -1682,13 +1682,7 @@
 /turf/open/floor/mainship/tcomms,
 /area/mainship/command/self_destruct)
 "avY" = (
-<<<<<<< HEAD
-/turf/open/shuttle/escapepod{
-	icon_state = "floor8"
-	},
-=======
 /turf/open/shuttle/escapepod/eight,
->>>>>>> upstream/master
 /area/mainship/command/self_destruct)
 "avZ" = (
 /obj/machinery/light/mainship{
@@ -4063,13 +4057,7 @@
 /turf/open/floor/mainship/floor,
 /area/mainship/living/commandbunks)
 "bou" = (
-<<<<<<< HEAD
-/turf/open/floor/plating{
-	icon_state = "warnplatecorner"
-	},
-=======
 /turf/open/floor/plating/icefloor/warnplate/corner,
->>>>>>> upstream/master
 /area/mainship/hallways/hangar)
 "boH" = (
 /obj/structure/cable,
@@ -8192,11 +8180,7 @@
 /obj/machinery/door/poddoor/mainship/open{
 	dir = 2;
 	id = "CIC Lockdown";
-<<<<<<< HEAD
-	name = "\improper Combat Information Center Blast Door";
-=======
 	name = "\improper Combat Information Center Blast Door"
->>>>>>> upstream/master
 	},
 /obj/machinery/door/firedoor/mainship{
 	dir = 2
@@ -12008,11 +11992,7 @@
 /area/mainship/hallways/bow_hallway)
 "jjN" = (
 /obj/effect/attach_point/weapon/dropship1{
-<<<<<<< HEAD
-	dir = 8;
-=======
 	dir = 8
->>>>>>> upstream/master
 	},
 /turf/open/floor/plating/icefloor/warnplate{
 	dir = 8
@@ -13204,11 +13184,7 @@
 "lto" = (
 /obj/machinery/door/poddoor/mainship/open{
 	id = "CIC Lockdown";
-<<<<<<< HEAD
-	name = "\improper Combat Information Center Blast Door";
-=======
 	name = "\improper Combat Information Center Blast Door"
->>>>>>> upstream/master
 	},
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -14187,11 +14163,7 @@
 /obj/machinery/door/poddoor/mainship/open{
 	dir = 2;
 	id = "Brig Lockdown";
-<<<<<<< HEAD
-	name = "\improper Brig Lockdown Podlocks";
-=======
 	name = "\improper Brig Lockdown Podlocks"
->>>>>>> upstream/master
 	},
 /turf/open/floor/plating,
 /area/mainship/living/tankerbunks)
@@ -15852,13 +15824,7 @@
 /turf/open/floor/mainship/mono,
 /area/mainship/hallways/hangar)
 "pNG" = (
-<<<<<<< HEAD
-/turf/open/shuttle/escapepod{
-	icon_state = "floor11"
-	},
-=======
 /turf/open/shuttle/escapepod/eleven,
->>>>>>> upstream/master
 /area/mainship/command/self_destruct)
 "pOi" = (
 /obj/machinery/camera/autoname/mainship,
@@ -15920,11 +15886,7 @@
 "pTq" = (
 /obj/machinery/door/poddoor/mainship/open{
 	id = "CIC Lockdown";
-<<<<<<< HEAD
-	name = "\improper Combat Information Center Blast Door";
-=======
 	name = "\improper Combat Information Center Blast Door"
->>>>>>> upstream/master
 	},
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
 	dir = 4
@@ -17032,11 +16994,7 @@
 /obj/structure/window/framed/mainship/requisitions,
 /obj/machinery/door/poddoor/mainship/open{
 	id = "CIC Lockdown";
-<<<<<<< HEAD
-	name = "\improper Combat Information Center Blast Door";
-=======
 	name = "\improper Combat Information Center Blast Door"
->>>>>>> upstream/master
 	},
 /obj/machinery/door/firedoor/mainship,
 /turf/open/floor/plating,
@@ -19700,13 +19658,10 @@
 /obj/structure/window/framed/mainship/white,
 /turf/open/floor/plating,
 /area/mainship/medical/lower_medical)
-<<<<<<< HEAD
-=======
 "wzV" = (
 /obj/machinery/floodlight/combat,
 /turf/open/floor/mainship/floor,
 /area/mainship/hallways/repair_bay)
->>>>>>> upstream/master
 "wAa" = (
 /obj/machinery/computer/camera_advanced/remote_fob,
 /turf/open/floor/mainship/mono,
@@ -19891,11 +19846,7 @@
 /area/space)
 "wQl" = (
 /turf/open/floor/plating/icefloor/warnplate/corner{
-<<<<<<< HEAD
-	dir = 4;
-=======
 	dir = 4
->>>>>>> upstream/master
 	},
 /area/mainship/hallways/hangar)
 "wQK" = (
@@ -19942,11 +19893,7 @@
 /area/space)
 "wVm" = (
 /turf/open/floor/plating/icefloor/warnplate/corner{
-<<<<<<< HEAD
-	dir = 8;
-=======
 	dir = 8
->>>>>>> upstream/master
 	},
 /area/mainship/hallways/hangar)
 "wVv" = (
@@ -47477,11 +47424,7 @@ kjI
 gtv
 nbP
 xmg
-<<<<<<< HEAD
-nbP
-=======
 wzV
->>>>>>> upstream/master
 vYD
 aVs
 fZA
@@ -47737,13 +47680,8 @@ bSf
 cbO
 bTU
 nbP
-<<<<<<< HEAD
-nbP
-nbP
-=======
 wzV
 wzV
->>>>>>> upstream/master
 blq
 aVs
 wem
@@ -48000,11 +47938,7 @@ nNL
 bVx
 nbP
 fLi
-<<<<<<< HEAD
-nbP
-=======
 wzV
->>>>>>> upstream/master
 bXq
 aVs
 qae

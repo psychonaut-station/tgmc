@@ -250,10 +250,6 @@ You are also in charge of communicating with command and letting them know about
 	name = "SOM Marine"
 	jobtype = /datum/job/som/ert/standard
 
-<<<<<<< HEAD
-	belt = /obj/item/storage/belt/marine/som
-=======
->>>>>>> upstream/master
 	ears = /obj/item/radio/headset/distress/som
 	w_uniform = /obj/item/clothing/under/som/webbing
 	shoes = /obj/item/clothing/shoes/marine/som/knife
@@ -273,10 +269,7 @@ You are also in charge of communicating with command and letting them know about
 
 /datum/outfit/job/som/ert/standard/standard_assaultrifle
 	suit_store = /obj/item/weapon/gun/rifle/som/mag_harness
-<<<<<<< HEAD
-=======
 	belt = /obj/item/storage/belt/marine/som/som_rifle
->>>>>>> upstream/master
 
 /datum/outfit/job/som/ert/standard/standard_assaultrifle/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
 	. = ..()
@@ -306,10 +299,7 @@ You are also in charge of communicating with command and letting them know about
 
 /datum/outfit/job/som/ert/standard/standard_smg
 	suit_store = /obj/item/weapon/gun/smg/som/support
-<<<<<<< HEAD
-=======
 	belt = /obj/item/storage/belt/marine/som/som_smg
->>>>>>> upstream/master
 
 /datum/outfit/job/som/ert/standard/standard_smg/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
 	. = ..()
@@ -340,11 +330,7 @@ You are also in charge of communicating with command and letting them know about
 
 /datum/outfit/job/som/ert/standard/standard_shotgun
 	back = /obj/item/storage/backpack/satchel/som
-<<<<<<< HEAD
-	belt = /obj/item/storage/belt/shotgun/som
-=======
 	belt = /obj/item/storage/belt/shotgun/som/mixed
->>>>>>> upstream/master
 	wear_suit = /obj/item/clothing/suit/modular/som/light/shield
 	suit_store = /obj/item/weapon/gun/shotgun/som/support
 
@@ -357,24 +343,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/tool/crowbar/red, SLOT_IN_BACKPACK)
 	H.equip_to_slot_or_del(new /obj/item/storage/box/m94, SLOT_IN_BACKPACK)
 
-<<<<<<< HEAD
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/buckshot, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/buckshot, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/buckshot, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/buckshot, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/buckshot, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/buckshot, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/buckshot, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/flechette, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/flechette, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/flechette, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/flechette, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/flechette, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/flechette, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/ammo_magazine/handful/flechette, SLOT_IN_BELT)
-
-=======
->>>>>>> upstream/master
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/incendiary, SLOT_IN_ACCESSORY)
@@ -383,10 +351,7 @@ You are also in charge of communicating with command and letting them know about
 
 /datum/outfit/job/som/ert/standard/charger
 	suit_store = /obj/item/weapon/gun/energy/lasgun/lasrifle/volkite/charger/magharness
-<<<<<<< HEAD
-=======
 	belt = /obj/item/storage/belt/marine/som/volkite
->>>>>>> upstream/master
 
 /datum/outfit/job/som/ert/standard/charger/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
 	. = ..()
@@ -401,16 +366,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BACKPACK)
 	H.equip_to_slot_or_del(new /obj/item/storage/box/m94, SLOT_IN_BACKPACK)
 
-<<<<<<< HEAD
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-
-=======
->>>>>>> upstream/master
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/stick, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/stick, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/incendiary, SLOT_IN_ACCESSORY)
@@ -435,11 +390,7 @@ You are also in charge of communicating with command and letting them know about
 	name = "SOM Medic"
 	jobtype = /datum/job/som/ert/medic
 
-<<<<<<< HEAD
-	belt = /obj/item/storage/belt/lifesaver/som
-=======
 	belt = /obj/item/storage/belt/lifesaver/som/quick
->>>>>>> upstream/master
 	ears = /obj/item/radio/headset/distress/som
 	w_uniform = /obj/item/clothing/under/som/medic/vest
 	shoes = /obj/item/clothing/shoes/marine/som/knife
@@ -465,31 +416,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/bodybag/cryobag, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/reagent_containers/hypospray/advanced/combat_advanced, SLOT_IN_ACCESSORY)
 
-<<<<<<< HEAD
-	H.equip_to_slot_or_del(new /obj/item/stack/medical/heal_pack/advanced/bruise_pack, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/stack/medical/heal_pack/advanced/bruise_pack, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/stack/medical/heal_pack/advanced/burn_pack, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/stack/medical/heal_pack/advanced/burn_pack, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/stack/medical/splint, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/stack/medical/splint, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/stack/medical/splint, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/bicaridine, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/kelotane, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/dylovene, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/tramadol, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/tricordrazine, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/inaprovaline, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/quickclot, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/alkysine, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/imidazoline, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/meralyne, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/dermaline, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/storage/pill_bottle/hypervene, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/reagent_containers/hypospray/autoinjector/dexalinplus, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/healthanalyzer, SLOT_IN_BELT)
-
-=======
->>>>>>> upstream/master
 /datum/outfit/job/som/ert/medic/standard_assaultrifle
 	suit_store = /obj/item/weapon/gun/rifle/som/mag_harness
 
@@ -568,10 +494,7 @@ You are also in charge of communicating with command and letting them know about
 	multiple_outfits = TRUE
 	outfits = list(
 		/datum/outfit/job/som/ert/veteran/charger,
-<<<<<<< HEAD
-=======
 		/datum/outfit/job/som/ert/veteran/breacher_vet,
->>>>>>> upstream/master
 		/datum/outfit/job/som/ert/veteran/caliver,
 		/datum/outfit/job/som/ert/veteran/caliver_pack,
 		/datum/outfit/job/som/ert/veteran/culverin,
@@ -582,11 +505,7 @@ You are also in charge of communicating with command and letting them know about
 	name = "SOM Veteran"
 	jobtype = /datum/job/som/ert/veteran
 
-<<<<<<< HEAD
-	belt = /obj/item/storage/belt/marine/som
-=======
 	belt = /obj/item/storage/belt/marine/som/volkite
->>>>>>> upstream/master
 	ears = /obj/item/radio/headset/distress/som
 	w_uniform = /obj/item/clothing/under/som/veteran/webbing
 	shoes = /obj/item/clothing/shoes/marine/som/knife
@@ -616,16 +535,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BACKPACK)
 	H.equip_to_slot_or_del(new /obj/item/tool/crowbar/red, SLOT_IN_BACKPACK)
 
-<<<<<<< HEAD
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-
-=======
->>>>>>> upstream/master
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/incendiary, SLOT_IN_ACCESSORY)
@@ -635,8 +544,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/reagent_containers/hypospray/autoinjector/combat, SLOT_IN_HEAD)
 	H.equip_to_slot_or_del(new /obj/item/reagent_containers/hypospray/autoinjector/russian_red, SLOT_IN_HEAD)
 
-<<<<<<< HEAD
-=======
 /datum/outfit/job/som/ert/veteran/breacher_vet
 	head = /obj/item/clothing/head/modular/som/veteran/lorica
 	glasses = /obj/item/clothing/glasses/welding
@@ -665,7 +572,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/reagent_containers/hypospray/autoinjector/combat, SLOT_IN_HEAD)
 	H.equip_to_slot_or_del(new /obj/item/reagent_containers/hypospray/autoinjector/russian_red, SLOT_IN_HEAD)
 
->>>>>>> upstream/master
 /datum/outfit/job/som/ert/veteran/caliver
 	suit_store = /obj/item/weapon/gun/energy/lasgun/lasrifle/volkite/caliver/somvet
 
@@ -683,16 +589,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BACKPACK)
 	H.equip_to_slot_or_del(new /obj/item/tool/crowbar/red, SLOT_IN_BACKPACK)
 
-<<<<<<< HEAD
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-
-=======
->>>>>>> upstream/master
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/incendiary, SLOT_IN_ACCESSORY)
@@ -749,8 +645,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/reagent_containers/hypospray/autoinjector/combat, SLOT_IN_HEAD)
 	H.equip_to_slot_or_del(new /obj/item/reagent_containers/hypospray/autoinjector/dylovene, SLOT_IN_HEAD)
 
-<<<<<<< HEAD
-=======
 /datum/outfit/job/som/ert/veteran/rpg
 	head = /obj/item/clothing/head/modular/som/mithridatius
 	wear_suit = /obj/item/clothing/suit/modular/som/heavy/mithridatius
@@ -838,7 +732,6 @@ You are also in charge of communicating with command and letting them know about
 		/datum/outfit/job/som/ert/veteran/shotgunner,
 	)
 
->>>>>>> upstream/master
 //SOM Leader
 /datum/job/som/ert/leader
 	job_category = JOB_CAT_COMMAND
@@ -848,10 +741,7 @@ You are also in charge of communicating with command and letting them know about
 	outfit = /datum/outfit/job/som/ert/leader/charger
 	multiple_outfits = TRUE
 	outfits = list(
-<<<<<<< HEAD
-=======
 		/datum/outfit/job/som/ert/leader/standard_assaultrifle,
->>>>>>> upstream/master
 		/datum/outfit/job/som/ert/leader/charger,
 		/datum/outfit/job/som/ert/leader/caliver,
 		/datum/outfit/job/som/ert/leader/caliver_pack,
@@ -862,11 +752,7 @@ You are also in charge of communicating with command and letting them know about
 	name = "SOM Leader"
 	jobtype = /datum/job/som/ert/leader
 
-<<<<<<< HEAD
-	belt = /obj/item/storage/belt/marine/som
-=======
 	belt = /obj/item/storage/belt/marine/som/volkite
->>>>>>> upstream/master
 	ears = /obj/item/radio/headset/distress/som
 	w_uniform = /obj/item/clothing/under/som/leader/webbing
 	shoes = /obj/item/clothing/shoes/marine/som/knife
@@ -887,8 +773,6 @@ You are also in charge of communicating with command and letting them know about
 
 	H.equip_to_slot_or_del(new /obj/item/weapon/gun/energy/lasgun/lasrifle/volkite/serpenta(H), SLOT_IN_R_POUCH)
 
-<<<<<<< HEAD
-=======
 /datum/outfit/job/som/ert/leader/standard_assaultrifle
 	suit_store = /obj/item/weapon/gun/rifle/som/veteran
 	belt = /obj/item/storage/belt/marine/som/som_rifle_ap
@@ -915,7 +799,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/tool/crowbar/red, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/binoculars/tactical/range, SLOT_IN_ACCESSORY)
 
->>>>>>> upstream/master
 /datum/outfit/job/som/ert/leader/charger
 	suit_store = /obj/item/weapon/gun/energy/lasgun/lasrifle/volkite/charger/somvet
 
@@ -931,18 +814,7 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BACKPACK)
 	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BACKPACK)
 	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BACKPACK)
-<<<<<<< HEAD
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BACKPACK)
-
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-=======
 	H.equip_to_slot_or_del(new /obj/item/weapon/energy/sword/som, SLOT_IN_BACKPACK)
->>>>>>> upstream/master
 
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
@@ -967,16 +839,6 @@ You are also in charge of communicating with command and letting them know about
 	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BACKPACK)
 	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BACKPACK)
 
-<<<<<<< HEAD
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-	H.equip_to_slot_or_del(new /obj/item/cell/lasgun/volkite, SLOT_IN_BELT)
-
-=======
->>>>>>> upstream/master
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)
 	H.equip_to_slot_or_del(new /obj/item/explosive/grenade/m15, SLOT_IN_ACCESSORY)

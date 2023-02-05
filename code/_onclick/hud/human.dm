@@ -197,24 +197,6 @@
 	SL_locator = new /atom/movable/screen/SL_locator
 	infodisplay += SL_locator
 
-<<<<<<< HEAD
-	use_attachment = new /atom/movable/screen/firearms/attachment()
-	static_inventory += use_attachment
-
-	toggle_raillight = new /atom/movable/screen/firearms/flashlight()
-	static_inventory += toggle_raillight
-
-	eject_mag = new /atom/movable/screen/firearms/magazine()
-	static_inventory += eject_mag
-
-	toggle_firemode = new /atom/movable/screen/firearms/firemode()
-	static_inventory += toggle_firemode
-
-	unique_action = new /atom/movable/screen/firearms/unique()
-	static_inventory += unique_action
-
-=======
->>>>>>> upstream/master
 	zone_sel = new /atom/movable/screen/zone_sel()
 	zone_sel.icon = ui_style
 	zone_sel.color = ui_color

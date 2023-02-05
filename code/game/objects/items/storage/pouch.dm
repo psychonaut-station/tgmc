@@ -552,14 +552,6 @@
 /obj/item/storage/pouch/flare
 	name = "flare pouch"
 	desc = "A pouch designed to hold flares and a single flaregun. Refillable with a M94 flare pack."
-<<<<<<< HEAD
-	max_w_class = 2
-	storage_slots = 7
-	draw_mode = 1
-	icon_state = "flare"
-	storage_type_limits = list(/obj/item/weapon/gun/grenade_launcher/single_shot/flare = 1)
-
-=======
 	max_w_class = 1
 	storage_slots = 28
 	max_storage_space = 28
@@ -567,20 +559,16 @@
 	storage_type_limits = list(/obj/item/weapon/gun/grenade_launcher/single_shot/flare = 1)
 	bypass_w_limit = list(/obj/item/weapon/gun/grenade_launcher/single_shot/flare)
 	fill_type = /obj/item/explosive/grenade/flare
->>>>>>> upstream/master
 	can_hold = list(
 		/obj/item/flashlight/flare,
 		/obj/item/weapon/gun/grenade_launcher/single_shot/flare,
 		/obj/item/explosive/grenade/flare,
 	)
 
-<<<<<<< HEAD
-=======
 /obj/item/storage/pouch/flare/full/Initialize()
 	var/obj/item/flare_gun = new /obj/item/weapon/gun/grenade_launcher/single_shot/flare/marine(src)
 	fill_number = max_storage_space - flare_gun.w_class
 	return ..()
->>>>>>> upstream/master
 
 /obj/item/storage/pouch/flare/attackby(obj/item/I, mob/user, params)
 	if(istype(I, /obj/item/storage/box/m94))
@@ -610,11 +598,6 @@
 	else
 		return ..()
 
-<<<<<<< HEAD
-/obj/item/storage/pouch/flare/full
-	fill_type = /obj/item/explosive/grenade/flare
-	fill_number = 7
-=======
 /obj/item/storage/pouch/flare/attackby_alternate(obj/item/I, mob/user, params)
 	if(!istype(I, /obj/item/weapon/gun/grenade_launcher/single_shot/flare))
 		return ..()
@@ -623,7 +606,6 @@
 		flare_gun.reload(flare, user)
 		orient2hud()
 		return
->>>>>>> upstream/master
 
 /obj/item/storage/pouch/radio
 	name = "radio pouch"

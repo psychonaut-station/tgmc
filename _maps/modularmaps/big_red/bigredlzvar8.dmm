@@ -1833,15 +1833,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/tile/dark,
 /area/bigredv2/outside/marshal_office)
-<<<<<<< HEAD
-"Uj" = (
-/obj/effect/turf_decal/warning_stripes{
-	icon_state = "W-corner"
-	},
-/turf/open/floor/tile/dark,
-/area/bigredv2/outside/telecomm)
-=======
->>>>>>> upstream/master
 "Up" = (
 /obj/structure/rack,
 /turf/open/floor/tile/vault{
@@ -2364,11 +2355,7 @@ cj
 Xx
 fc
 Ko
-<<<<<<< HEAD
-Uj
-=======
 og
->>>>>>> upstream/master
 og
 Eh
 KC

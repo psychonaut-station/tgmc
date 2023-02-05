@@ -36,8 +36,6 @@
 	icon_state = "dirt"
 	mouse_opacity = 0
 
-<<<<<<< HEAD
-=======
 /obj/effect/decal/cleanable/glass
 	name = "broken glass"
 	desc = "This looks hazardous to anyone not wearing shoes."
@@ -55,7 +53,6 @@
 /obj/effect/decal/cleanable/glass/plastic
 	icon_state = "plasticshards"
 
->>>>>>> upstream/master
 /obj/effect/decal/cleanable/flour
 	name = "flour"
 	desc = "It's still good. Four second rule!"

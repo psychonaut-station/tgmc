@@ -11,47 +11,6 @@
 	density = TRUE
 	coverage = 100
 
-<<<<<<< HEAD
-/obj/structure/somcas/wingtip
-	density = FALSE
-	icon_state = "19"
-
-/obj/structure/somcas/wingtip/wing2
-	icon_state = "29"
-
-/obj/structure/somcas/wingtip/wing3
-	icon_state = "10"
-
-/obj/structure/somcas/wingtip/wing4
-	icon_state = "8"
-
-/obj/structure/somcas/wingtip/wing5
-	icon_state = "7"
-
-/obj/structure/somcas/wingtip/wing6
-	icon_state = "3"
-
-/obj/structure/somcas/wingtip/wing7
-	icon_state = "35"
-
-/obj/structure/somcas/wingtip/wing8
-	icon_state = "30"
-
-/obj/structure/somcas/wingtip/wing9
-	icon_state = "36"
-
-/obj/structure/somcas/wingtip/wing10
-	icon_state = "33"
-
-/obj/structure/somcas/wingtip/wing11
-	icon_state = "34"
-
-/obj/structure/somcas/wingtip/wing12
-	icon_state = "18"
-
-/obj/structure/somcas/wingtip/wing13
-	icon_state = "14"
-=======
 /obj/structure/somcas
 	density = FALSE
 	icon_state = "somcas_cockpit"
@@ -79,4 +38,3 @@
 
 /obj/structure/somcas/eight
 	icon_state = "somcas_misc_six"
->>>>>>> upstream/master

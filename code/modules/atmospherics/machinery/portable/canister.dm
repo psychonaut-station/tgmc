@@ -53,8 +53,6 @@
 	icon_state = "grey"
 	gas_type = GAS_TYPE_AIR
 
-<<<<<<< HEAD
-=======
 /obj/machinery/portable_atmospherics/canister/phoron
 	name = "phoron canister"
 	desc = "Toxic phoron in gas form."
@@ -74,7 +72,6 @@
 	gas_type = GAS_TYPE_CO2
 
 
->>>>>>> upstream/master
 /obj/machinery/portable_atmospherics/canister/empty
 
 

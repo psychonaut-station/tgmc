@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 Putting an instrument in your armor slot allows you to still be able to play it, charge into battle with song!
 Many maps spawn with free metal, plasteel and other important supplies in key spots. As a marine remember to grab them and as a xeno make sure to melt them.
->>>>>>> upstream/master
 Trading your life for a Xenomorph's is almost always worth it.
 You do not need to be in harm intent to point blank xenomorphs!
 The mini map (green icon on the top of the screen) helps you know where the frontline is at and where revivable marines are. You can keybind it in game preference.
@@ -19,10 +16,7 @@ Be mindful when using hand grenades. Getting stunned or knocked over after primi
 Watch out for friendly fire and marines not in aim mode. Make sure you're not walking into anyone's firing line, and make sure no one else is in yours!
 Some weapons permit aim mode, which prevents friendly fire. Use this behind marines and be a smartgunner lite!
 While medics and doctors are best at it, anyone can use a defibrillator and operate the body scanner and autodoc medical system.
-<<<<<<< HEAD
-=======
 While engineers and synthetic are best at it, anyone can build barricades and razorsharp obstacles.
->>>>>>> upstream/master
 Anyone can make razor wire by using three metal sheets, which is four metal rods and barbed wire from metal sheets. Stop that crusher and bull from charging!
 Terra Experimental standard batteries can be recharged in APCs and power cell rechargers if the generators are on.
 If you aren't a squad marine, then you have a special room in prep with special gear vendors.
@@ -103,8 +97,6 @@ Even if a patient dies a second after being successfully revived by a defibrilla
 Don't forget that xenomorphs spawn infinitely during the Crash gamemode. Don't waste too much time hunting xenomorphs down!
 The AI and synthetics can talk together on their own channel using the :n key.
 You can memorialize fallen marines by using their dogtags on the ship's memorial! Memorialized solders will be displayed at the end of the round.
-<<<<<<< HEAD
-=======
 There are water canteens in the vendors. Stay hydrated.
 If a corpsman is tending to you, try and hold still.
 Moving around with broken bones is dangerous. It can cause organ damage, which require immediate medical attention.
@@ -165,4 +157,3 @@ Always stick to your squad, or at least have a buddy.
 Walking to and from the FOB by yourself is an easy way to die.
 Xenomorphs are well armored. Over time, their exoskeleton will wear down by sunder, and they will be very vulnerable.
 You can attach a bullet charger to a BR-127 to become a discount autosniper.
->>>>>>> upstream/master
